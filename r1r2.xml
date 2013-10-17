@@ -1,0 +1,61 @@
+<modelsLibrary>
+<!-- 
+ For description see file: modelsLibraryInternalLayer.xml
+ -->
+ 
+		
+		<!-- Traffic_signs-Restriction-->
+		<wayNodeModel matcher="highway=*" filter="highway=give_way direction=backward side=left" model="/models/traffic_signs/triangleinvertSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r1.png"
+		translate="vector(13,0,0)" scale="height(4)" direction="wayNodeDirection() + 90" offset="3" />
+		
+		<wayNodeModel matcher="highway=*" filter="highway=give_way direction=forward side=right" model="/models/traffic_signs/triangleinvertSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r1.png"
+		translate="vector(2,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />
+
+		<wayNodeModel matcher="highway=*" filter="highway=give_way direction=forward side=left" model="/models/traffic_signs/triangleinvertSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r1.png"
+		translate="vector(-12,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />
+		
+		<wayNodeModel matcher="highway=*" filter="highway=give_way oneway=yes" model="/models/traffic_signs/triangleinvertSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r1.png"
+		translate="vector(2,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />
+
+		<wayNodeModel matcher="highway=*" filter="highway=give_way oneway=yes" model="/models/traffic_signs/triangleinvertSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r1.png"
+		translate="vector(2,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />
+		
+		<wayNodeModel matcher="highway=*" filter="highway=give_way oneway=yes direction=forward side=both" model="/models/traffic_signs/triangleinvertSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r1.png"
+		translate="vector(-12,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />	
+		
+		<wayNodeModel matcher="highway=*" filter="highway=give_way oneway=yes direction=forward side=both" model="/models/traffic_signs/triangleinvertSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r1.png"
+		translate="vector(2,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />			
+
+		<wayNodeModel matcher="highway=*" filter="highway=stop direction=backward side=left" model="/models/traffic_signs/octogonSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r2.png"
+		translate="vector(13,0,0)" scale="height(4)" direction="wayNodeDirection() + 90" offset="3" />
+		
+		<wayNodeModel matcher="highway=*" filter="highway=stop direction=forward side=right" model="/models/traffic_signs/octogonSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r2.png"
+		translate="vector(2,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />
+
+		<wayNodeModel matcher="highway=*" filter="highway=stop direction=forward side=left" model="/models/traffic_signs/octogonSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r2.png"
+		translate="vector(-12,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />
+		
+		<wayNodeModel matcher="highway=*" filter="highway=stop oneway=yes" model="/models/traffic_signs/octogonSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r2.png"
+		translate="vector(2,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />
+		
+		<wayNodeModel matcher="highway=*" filter="highway=stop oneway=yes direction=forward side=both" model="/models/traffic_signs/octogonSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r2.png"
+		translate="vector(-12,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />	
+		
+		<wayNodeModel matcher="highway=*" filter="highway=stop oneway=yes direction=forward side=both" model="/models/traffic_signs/octogonSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_r2.png"
+		translate="vector(2,0,0)" scale="height(4)" direction="wayNodeDirection() + 270" offset="3" />	
+
+	
+</modelsLibrary> 
