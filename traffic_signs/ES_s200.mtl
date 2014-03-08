@@ -1,0 +1,42 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Material.001
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\ES_p1b.png
+map_d textures\\ES_p1b.png
+
+newmtl Material.012
+Ns 84.313725
+Ka 0.000000 0.000000 0.000000
+Kd 0.185990 0.189998 0.165949
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.207941
+illum 2
+
+newmtl Material.013
+Ns 84.313725
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.938686 0.938686 0.938686
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material_traffic_sign.png
+Ns 90.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.409600 0.409600 0.409600
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\ES_s200.png
+map_d textures\\ES_r101.png
