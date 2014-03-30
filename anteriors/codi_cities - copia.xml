@@ -1,0 +1,2479 @@
+<!-- Traffic_signs-name Lleida city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Lleida" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Lleida" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Lleida" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Lleida" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Lleida" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Lleida" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Lleida" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Lleida" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Lleida" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Lleida" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Lleida" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Lleida" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Lleida" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Lleida" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+
+<!-- Z -->
+<!-- Z --> 
+
+
+
+<!-- Traffic_signs-name Lleida city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='name:b="Lleida" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+		
+<wayNodeModel matcher="highway=*" filter='name:b="Lleida" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Lleida" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Lleida" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Lleida" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Lleida" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-5,1.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Lleida" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Lleida" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Lleida" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Lleida" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Lleida" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Lleida" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Lleida" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Lleida" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> 
+
+<!-- Traffic_signs-name CITIES-NAMES city_limit test --> 
+<!-- Traffic_signs-name Àger city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-0.25,1.75,1.5)" scale="height(2)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(0.25,1.75,-1.5)" scale="height(2)" direction="90" offset="-7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Àger city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Àger" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Àger" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Traffic_signs-name Agulló city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Agulló" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Agulló" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Agulló" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Agulló" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Agulló" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Agulló" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Agulló" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Agulló" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Agulló" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Agulló" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Agulló" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Agulló" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Agulló" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Agulló" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Agulló city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Agulló" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Agulló" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Agulló" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Agulló" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Agulló" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Agulló" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Agulló" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Agulló" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Agulló" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Agulló" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Agulló" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Agulló" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Agulló" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Agulló" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> <!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> 
+<!-- Traffic_signs-name Balaguer city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Balaguer" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Balaguer" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Balaguer city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Balaguer" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Balaguer" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> 
+<!-- Traffic_signs-name Camarasa city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Camarasa" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Camarasa" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Camarasa" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Camarasa" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Camarasa" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Camarasa" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Camarasa" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Camarasa" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Camarasa" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Camarasa" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Camarasa" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Camarasa" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Camarasa" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Camarasa" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+
+
+
+<!-- Traffic_signs-name Camarasa city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Camarasa" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Camarasa" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Camarasa" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Camarasa" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Camarasa" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Camarasa" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Camarasa" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Camarasa" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Camarasa" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Camarasa" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Camarasa" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Camarasa" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Camarasa" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Camarasa" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> 
+
+<!-- Traffic_signs-name Cementiri city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Cementiri" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Cementiri" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Cementiri" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Cementiri" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Cementiri" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Cementiri" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Cementiri" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Cementiri" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Cementiri" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Cementiri" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Cementiri" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Cementiri" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Cementiri" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Cementiri" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+
+
+
+<!-- Traffic_signs-name Cementiri city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Cementiri" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Cementiri" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Cementiri" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Cementiri" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Cementiri" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Cementiri" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Cementiri" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Cementiri" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Cementiri" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Cementiri" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Cementiri" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Cementiri" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Cementiri" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Cementiri" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_cementiri.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> 
+<!-- Traffic_signs-name Centre city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Centre" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Centre" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Centre" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Centre" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Centre" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Centre" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Centre" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Centre" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Centre" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Centre" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Centre city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Centre" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Centre" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> 
+
+<!-- Traffic_signs-name Centre BTT city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Centre BTT" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Centre BTT" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Centre BTT" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Centre BTT" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Centre BTT" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Centre BTT" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre BTT" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre BTT" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre BTT" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre BTT" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Centre BTT" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Centre BTT" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Centre BTT" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Centre BTT" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+
+
+
+<!-- Traffic_signs-name Centre BTT city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Centre BTT" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Centre BTT" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre BTT" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre BTT" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre BTT" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre BTT" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre BTT" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre BTT" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre BTT" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre BTT" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre BTT" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre BTT" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre BTT" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre BTT" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_btt.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Traffic_signs-name Centre d`Observació de l`Univers city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Centre d`Observació de l`Univers" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Centre d`Observació de l`Univers" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Centre d`Observació de l`Univers" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Centre d`Observació de l`Univers" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Centre d`Observació de l`Univers" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Centre d`Observació de l`Univers" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre d`Observació de l`Univers" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre d`Observació de l`Univers" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre d`Observació de l`Univers" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Centre d`Observació de l`Univers" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Centre d`Observació de l`Univers" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Centre d`Observació de l`Univers" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Centre d`Observació de l`Univers" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Centre d`Observació de l`Univers" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Centre d`Observació de l`Univers city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Centre d`Observació de l`Univers" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Centre d`Observació de l`Univers" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre d`Observació de l`Univers" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre d`Observació de l`Univers" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre d`Observació de l`Univers" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Centre d`Observació de l`Univers" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre d`Observació de l`Univers" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre d`Observació de l`Univers" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre d`Observació de l`Univers" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Centre d`Observació de l`Univers" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre d`Observació de l`Univers" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre d`Observació de l`Univers" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre d`Observació de l`Univers" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Centre d`Observació de l`Univers" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_centre_observacio_univers.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> <!-- Z -->
+<!-- Traffic_signs-name Corçà city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Corçà" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Corçà" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Corçà" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Corçà" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Corçà" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Corçà" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Corçà" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Corçà" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Corçà" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Corçà" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Corçà" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Corçà" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Corçà" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Corçà" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Corçà city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Corçà" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Corçà" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Corçà" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Corçà" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Corçà" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Corçà" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Corçà" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Corçà" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Corçà" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Corçà" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Corçà" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Corçà" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Corçà" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Corçà" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> <!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> 
+<!-- Traffic_signs-name Estació city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Estació" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Estació" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Estació" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Estació" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Estació" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Estació" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Estació" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Estació" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Estació" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Estació" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Estació" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Estació" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Estació" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Estació" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+
+
+
+<!-- Traffic_signs-name Estació city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Estació" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Estació" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Estació" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Estació" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Estació" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Estació" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Estació" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Estació" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Estació" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Estació" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Estació" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Estació" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Estació" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Estació" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> 
+ <!-- Traffic_signs-name L`Ametlla del Montsec city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="L`Ametlla del Montsec" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="L`Ametlla del Montsec" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="L`Ametlla del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="L`Ametlla del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="L`Ametlla del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="L`Ametlla del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="L`Ametlla del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="L`Ametlla del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="L`Ametlla del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="L`Ametlla del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="L`Ametlla del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="L`Ametlla del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="L`Ametlla del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="L`Ametlla del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name L`Ametlla del Montsec city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="L`Ametlla del Montsec" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="L`Ametlla del Montsec" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="L`Ametlla del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="L`Ametlla del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="L`Ametlla del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="L`Ametlla del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="L`Ametlla del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="L`Ametlla del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="L`Ametlla del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="L`Ametlla del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="L`Ametlla del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="L`Ametlla del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="L`Ametlla del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="L`Ametlla del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> 
+<!-- Traffic_signs-name La Règola city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="La Règola" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="La Règola" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="La Règola" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="La Règola" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="La Règola" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="La Règola" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="La Règola" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="La Règola" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="La Règola" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="La Règola" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="La Règola" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="La Règola" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="La Règola" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="La Règola" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name La Règola city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="La Règola" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="La Règola" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="La Règola" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="La Règola" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="La Règola" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="La Règola" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="La Règola" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="La Règola" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="La Règola" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="La Règola" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="La Règola" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="La Règola" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="La Règola" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="La Règola" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Traffic_signs-name Montsec d`Ares city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Montsec d`Ares" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Montsec d`Ares" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Montsec d`Ares" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Montsec d`Ares" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Montsec d`Ares" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Montsec d`Ares" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Montsec d`Ares" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Montsec d`Ares" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Montsec d`Ares" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Montsec d`Ares" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Montsec d`Ares" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Montsec d`Ares" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Montsec d`Ares" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Montsec d`Ares" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Montsec d`Ares city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Montsec d`Ares" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Montsec d`Ares" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Montsec d`Ares" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Montsec d`Ares" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Montsec d`Ares" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Montsec d`Ares" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Montsec d`Ares" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Montsec d`Ares" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Montsec d`Ares" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Montsec d`Ares" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Montsec d`Ares" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Montsec d`Ares" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Montsec d`Ares" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Montsec d`Ares" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_montsec_d_ares.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> <!-- Z -->
+<!-- Traffic_signs-name Observatori Astronòmic del Montsec city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Observatori Astronòmic del Montsec" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Observatori Astronòmic del Montsec" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Observatori Astronòmic del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Observatori Astronòmic del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Observatori Astronòmic del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Observatori Astronòmic del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Observatori Astronòmic del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Observatori Astronòmic del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Observatori Astronòmic del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Observatori Astronòmic del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Observatori Astronòmic del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Observatori Astronòmic del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Observatori Astronòmic del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Observatori Astronòmic del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Observatori Astronòmic del Montsec city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Observatori Astronòmic del Montsec" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Observatori Astronòmic del Montsec" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Observatori Astronòmic del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Observatori Astronòmic del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Observatori Astronòmic del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Observatori Astronòmic del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Observatori Astronòmic del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Observatori Astronòmic del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Observatori Astronòmic del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Observatori Astronòmic del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Observatori Astronòmic del Montsec" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Observatori Astronòmic del Montsec" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Observatori Astronòmic del Montsec" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Observatori Astronòmic del Montsec" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_observatori_astronomic_montsec.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> <!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Traffic_signs-name Os de Balaguer city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Os de Balaguer" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Os de Balaguer" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Os de Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Os de Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Os de Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Os de Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Os de Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Os de Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Os de Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Os de Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Os de Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Os de Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Os de Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Os de Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Os de Balaguer city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Os de Balaguer" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Os de Balaguer" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Os de Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Os de Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Os de Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Os de Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Os de Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Os de Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Os de Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Os de Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Os de Balaguer" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Os de Balaguer" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Os de Balaguer" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Os de Balaguer" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Traffic_signs-name Port d`Àger city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Port d`Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Port d`Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Port d`Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Port d`Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Port d`Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Port d`Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Port d`Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Port d`Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Port d`Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Port d`Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Port d`Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Port d`Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Port d`Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Port d`Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Port d`Àger city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Port d`Àger" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Port d`Àger" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Port d`Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Port d`Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Port d`Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Port d`Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Port d`Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Port d`Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Port d`Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Port d`Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Port d`Àger" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Port d`Àger" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Port d`Àger" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Port d`Àger" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_port_ager.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->  
+<!-- Traffic_signs-name Tremp city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Tremp" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Tremp" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Tremp" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Tremp" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Tremp" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Tremp" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Tremp" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Tremp" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Tremp" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Tremp" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Tremp" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Tremp" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Tremp" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Tremp" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Tremp city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Tremp" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"name:b"="Tremp" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Tremp" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Tremp" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Tremp" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Tremp" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Tremp" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Tremp" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Tremp" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Tremp" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Tremp" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Tremp" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Tremp" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Tremp" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Traffic_signs-name Zona de vol city_limit test --> 
+ <wayNodeModel matcher="highway=*" filter='name="Zona de vol" direction=forward side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name="Zona de vol" direction=backward side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Zona de vol" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(2.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:1"="Zona de vol" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-14.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Zona de vol" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(13.3,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:1"="Zona de vol" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination"="Zona de vol" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(2.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Zona de vol" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-14.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination"="Zona de vol" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(13.3,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination"="Zona de vol" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Zona de vol" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(2.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+  <wayNodeModel matcher="highway=*" filter='"destination:3"="Zona de vol" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-14.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Zona de vol" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(13.3,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:3"="Zona de vol" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Zona de vol city_limit PANEL B test --> 
+ <wayNodeModel matcher="highway=*" filter='"name:b"="Zona de vol" direction=forward panels=2 side=right' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='name\:b="Zona de vol" direction=backward panels=2 side=left' model="/models/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Zona de vol" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(2.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+ <wayNodeModel matcher="highway=*" filter='"destination:b:1"="Zona de vol" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-14.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Zona de vol" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(13.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:1"="Zona de vol" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-4.3,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Zona de vol" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(2.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Zona de vol" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-14.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+	
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Zona de vol" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(13.3,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b"="Zona de vol" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Zona de vol" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(2.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Zona de vol" direction=forward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-14.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Zona de vol" direction=backward side=left' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(13.3,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:b:3"="Zona de vol" direction=backward side=right' model="/models/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
+translate="vector(-5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --> <!-- Z -->

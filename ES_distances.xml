@@ -832,7 +832,20 @@ translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="-5" />
 
   <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
-translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />		<!-- zz -->
+translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />		
+<!-- zz -->
+<!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="right" LATERAL-->
+
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=lateral side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
+translate="vector(0,0.5,0)" scale="height(2)" direction="180" offset="5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=lateral side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
+translate="vector(0,0.5,0)" scale="height(2)" direction="0" offset="-5" />
+		
+	<!-- zz -->
+
 	
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign"="sharp_right" -->
 
@@ -1009,7 +1022,16 @@ translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="-5" />
   <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />	
-	<!-- zz -->	
+	<!-- zz -->
+<!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="left" LATERAL-->
+
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=lateral side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
+translate="vector(0,0.5,0)" scale="height(2)" direction="180" offset="5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=lateral side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
+translate="vector(0,0.5,0)" scale="height(2)" direction="0" offset="-5" />	
 	<!-- Traffic_signs ES:com:870 turn:destination:traffic_sign"="sharp_left" -->
 
   <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_left" direction=forward side=right' model="/models/traffic_signs/nameSign.obj"
@@ -1076,13 +1098,12 @@ translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=500 direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=500 direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/length_black_500
-.png"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->	<!-- zz -->
  <!-- Traffic_signs ES:com:810 length"="1000" -->
@@ -1144,17 +1165,17 @@ translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
   <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=forward side=right' model="/models/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
-translate="vector(0,0.90)" scale="height(2)" direction="270" offset="5" />
+translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
   <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=forward side=left' model="/models/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=1500 direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=1500 direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->	<!-- zz -->
@@ -1324,7 +1345,42 @@ translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 		<!-- zz -->
 			<!-- zz -->
 			
-	
+			 <!-- Traffic_signs ES:com:s860 DESCRIPTION CAMÍ AGRÍCOLA -->
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=forward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
+translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=forward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
+translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
+		
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
+translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
+translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
+
+			 <!-- Traffic_signs ES:com:s860 DESCRIPTION:b CAMÍ AGRÍCOLA -->
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=forward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
+translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=forward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
+translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
+		
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
+translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
+translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
+	<!-- zz -->
 		 <!-- Traffic_signs ES:com:s860 DESCRIPTION EXCEPTE VEÏNS -->
 
   <wayNodeModel matcher="-highway=motorway" filter='"description"="Excepte veïns" direction=forward side=right' model="/models/traffic_signs/nameSign.obj"

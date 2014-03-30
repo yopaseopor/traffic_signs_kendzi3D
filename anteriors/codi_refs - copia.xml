@@ -1,0 +1,87 @@
+<!-- Traffic_signs-Destination ref:colour=yellow -->
+<wayNodeModel matcher="highway=*" filter='"ref:colour"=red direction=forward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/red_ref.png"
+translate="vector(1.8,3.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"ref:colour"=red direction=forward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/red_ref.png"
+translate="vector(-12.8,3.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"ref:colour"=red direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/red_ref.png"
+translate="vector(12.8,3.8,0)" scale="height(1.8)" direction="270" offset="7" />	
+
+<wayNodeModel matcher="highway=*" filter='"ref:colour"=red direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/red_ref.png"
+translate="vector(-4,3.8,0)" scale="height(1.8)" direction="270" offset="7" />
+<!-- Traffic_signs-Destination ref:colour=yellow -->
+
+<wayNodeModel matcher="highway=*" filter='"ref:colour"=yellow direction=forward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/yellow_ref.png"
+translate="vector(1.8,3.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"ref:colour"=yellow direction=forward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/yellow_ref.png"
+translate="vector(-12.8,3.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"ref:colour"=yellow direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/yellow_ref.png"
+translate="vector(12.8,3.8,0)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"ref:colour"=yellow direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/yellow_ref.png"
+translate="vector(-4,3.8,0)" scale="height(1.8)" direction="270" offset="7" />
+		
+<!-- Traffic_signs-Destination Test-Ref C-12 -->
+
+<wayNodeModel matcher="highway=*" filter='"destination:ref"=C-12 direction=forward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
+translate="vector(1.7,3.8,1)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:ref"=C-12 direction=forward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
+translate="vector(-12.7,3.8,1)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:ref"=C-12 direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
+translate="vector(12.7,3.8,1)" scale="height(1.8)" direction="270" offset="7" />	
+
+<wayNodeModel matcher="highway=*" filter='"destination:ref"=C-12 direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
+translate="vector(-4,3.8,1)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Traffic_signs-Destination Ref LV-9311 -->
+
+<wayNodeModel matcher="highway=*" filter='"destination:ref"="LV-9311" direction=forward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_lv9311.png"
+translate="vector(1.7,3.8,1)" scale="height(1.8)" direction="270" offset="7" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:ref"="LV-9311" direction=forward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_lv9311.png"
+translate="vector(-12.7,3.8,1)" scale="height(1.8)" direction="270" offset="7" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:ref"="LV-9311" direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_lv9311.png"
+translate="vector(12.7,3.8,1)" scale="height(1.8)" direction="270" offset="7" />	
+
+<wayNodeModel matcher="highway=*" filter='"destination:ref"="LV-9311" direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_lv9311.png"
+translate="vector(-4,3.8,1)" scale="height(1.8)" direction="270" offset="7" />
+
+<!-- Traffic_signs-Destination Ref L-910 -->
+
+<wayNodeModel matcher="highway=*" filter='"destination:ref"="L-910" direction=forward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
+translate="vector(1.7,3.8,1)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+
+<wayNodeModel matcher="highway=*" filter='"destination:ref"="L-910" direction=forward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
+translate="vector(-12.7,3.8,1)" scale="height(1.8)" direction="wayNodeDirection() + 270" offset="3" />
+		
+<wayNodeModel matcher="highway=*" filter='"destination:ref"="L-910" direction=backward side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
+translate="vector(12.7,3.8,1)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />	
+
+<wayNodeModel matcher="highway=*" filter='"destination:ref"="L-910" direction=backward side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
+translate="vector(-4,3.8,1)" scale="height(1.8)" direction="wayNodeDirection() + 90" offset="3" />
