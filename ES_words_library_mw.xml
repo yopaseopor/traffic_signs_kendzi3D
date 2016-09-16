@@ -2,43 +2,43 @@
 
 <!-- PANEL A Traffic_signs-Destination El Vendrell side=right-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:1"="El Vendrell" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:1"="El Vendrell" direction=forward side=right' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.25,3.6,-1)" scale="height(2)" direction="270" offset="8" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination"="El Vendrell" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination"="El Vendrell" direction=forward side=right' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.25,3.2,-1)" scale="height(2)" direction="270" offset="8" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:3"="El Vendrell" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:3"="El Vendrell" direction=forward side=right' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.25,2.8,-1)" scale="height(2)" direction="270" offset="8" />
 
 <!-- Traffic_signs-Destination El Vendrell ES:s235,ES:s242a  panel 3A side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:1"="El Vendrell" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:1"="El Vendrell" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.25,8,-1)" scale="height(1.8)" direction="270" offset="3" />
 
- <wayNodeModel matcher="highway=motorway" filter='destination="El Vendrell" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='destination="El Vendrell" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.25,7.5,-1)" scale="height(1.8)" direction="270" offset="3" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:3"="El Vendrell" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:3"="El Vendrell" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.25,7,-1)" scale="height(1.8)" direction="270" offset="3" />
 
 <!-- Traffic_signs-Destination El Vendrell ES:s242a  panel 3B side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:b:1"="El Vendrell" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:b:1"="El Vendrell" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.25,8,-4)" scale="height(1.8)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:b"="El Vendrell" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:b"="El Vendrell" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.25,7.5,-4)" scale="height(1.8)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:b:3"="El Vendrell" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:b:3"="El Vendrell" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.25,7,-4)" scale="height(1.8)" direction="270" offset="0" />
 
@@ -46,43 +46,43 @@ translate="vector(-0.25,7,-4)" scale="height(1.8)" direction="270" offset="0" />
 
 <!-- PANEL A Traffic_signs-Destination Tarragona side=right-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:1"="Tarragona" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:1"="Tarragona" direction=forward side=right' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
 translate="vector(-0.25,3.6,-1)" scale="height(2)" direction="270" offset="8" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination"="Tarragona" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination"="Tarragona" direction=forward side=right' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
 translate="vector(-0.25,3.2,-1)" scale="height(2)" direction="270" offset="8" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:3"="Tarragona" direction=forward side=right' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:3"="Tarragona" direction=forward side=right' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
 translate="vector(-0.25,2.8,-1)" scale="height(2)" direction="270" offset="8" />
 
 <!-- Traffic_signs-Destination El Vendrell ES:s235,ES:s242a  panel 3A side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:1"="Tarragona" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:1"="Tarragona" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
 translate="vector(-0.25,8,-1)" scale="height(1.8)" direction="270" offset="3" />
 
- <wayNodeModel matcher="highway=motorway" filter='destination="Tarragona" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='destination="Tarragona" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
 translate="vector(-0.25,7.5,-1)" scale="height(1.8)" direction="270" offset="3" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:3"="Tarragona" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:3"="Tarragona" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
 translate="vector(-0.25,7,-1)" scale="height(1.8)" direction="270" offset="3" />
 
 <!-- Traffic_signs-Destination Tarragona ES:s242a  panel 3B side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:b:1"="Tarragona" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:b:1"="Tarragona" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
 translate="vector(-0.25,8,-4)" scale="height(1.8)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:b"="Tarragona" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:b"="Tarragona" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
 translate="vector(-0.25,7.5,-4)" scale="height(1.8)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:b:3"="Tarragona" direction=forward side=up' model="/models/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:b:3"="Tarragona" direction=forward side=up' model="/models/ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
 translate="vector(-0.25,7,-4)" scale="height(1.8)" direction="270" offset="0" />
 
