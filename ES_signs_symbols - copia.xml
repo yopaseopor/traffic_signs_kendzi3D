@@ -4,130 +4,130 @@
  
   <!-- ARROWS --> 
 <!-- panel A POSITION 1 arrow test s230 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(0.10,2.1,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-15.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(12.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-6,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z --> 
  <!-- panel A POSITION 1 arrow test s230 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(0.10,2.1,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-15.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(12.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-6,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 1 arrow test s230 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(0.10,2.1,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-15.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(12.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-6,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 1 arrow test s230 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(0.10,2.1,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-15.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(12.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-6,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 1 arrow test s230 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(0.10,2.15,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-11.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(17.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-1.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 1 arrow test s230 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(0.10,2.15,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-11.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(17.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-1.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 1 arrow test s230 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(0.10,2.15,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-11.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(17.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:1"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:1"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-1.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -135,19 +135,19 @@ translate="vector(-1.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 2 arrow test s230 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(0.10,1.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-15.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(12.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -156,111 +156,111 @@ translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
  
  <!-- panel A POSITION 2 arrow test s230 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(0.10,1.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-15.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(12.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 2 arrow test s230 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(0.10,1.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-15.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(12.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 2 arrow test s230 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(0.10,1.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-15.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(12.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 2 arrow test s230 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(0.10,1.8,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-11.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(17.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-1.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 2 arrow test s230 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(0.10,1.8,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-11.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(17.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-1.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 2 arrow test s230 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(0.10,1.8,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-11.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(17.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-1.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -268,130 +268,130 @@ translate="vector(-1.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 3 arrow test s230 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(0.10,1.5,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-15.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(12.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-6,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z --> 
  <!-- panel A POSITION 3 arrow test s230 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(0.10,1.5,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-15.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(12.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-6,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 3 arrow test s230 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(0.10,1.5,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-15.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(12.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-6,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 3 arrow test s230 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(0.10,1.5,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-15.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(12.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-6,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 3 arrow test s230 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(0.10,1.5,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-11.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(17.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-1.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 3 arrow test s230 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(0.10,1.5,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-11.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(17.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-1.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 3 arrow test s230 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(0.10,1.5,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-11.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(17.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:3"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:3"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-1.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -403,130 +403,130 @@ translate="vector(-1.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 1 arrow test s230 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(0.10,0.6,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-15.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(12.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-6,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z -->  
  <!-- panel B POSITION 1 arrow test s230 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(0.10,0.6,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-15.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(12.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-6,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 1 arrow test s230 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(0.10,0.6,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-15.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(12.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-6,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 1 arrow test s230 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(0.10,0.6,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-15.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(12.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-6,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 1 arrow test s230 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(0.10,0.6,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-11.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(17.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-1.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 1 arrow test s230 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(0.10,0.6,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-11.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(17.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-1.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 1 arrow test s230 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(0.10,0.6,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-11.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(17.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:1"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:1"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-1.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -535,130 +535,130 @@ translate="vector(-1.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
  
  <!-- panel B POSITION 2 arrow test s230 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(0.10,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-15.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(12.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-6,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z -->  
  <!-- panel B POSITION 2 arrow test s230 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(0.10,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-15.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(12.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-6,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 2 arrow test s230 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(0.10,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-15.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(12.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-6,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 2 arrow test s230 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(0.10,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-15.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(12.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-6,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 2 arrow test s230 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(0.10,0.3,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-11.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(17.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-1.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 2 arrow test s230 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(0.10,0.3,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-11.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(17.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-1.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 2 arrow test s230 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(0.10,0.3,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-11.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(17.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-1.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -668,130 +668,130 @@ translate="vector(-1.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 3 arrow test s230 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(0.10,0,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-15.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(12.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left.png"
 translate="vector(-6,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z -->  
  <!-- panel B POSITION 3 arrow test s230 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(0.10,0,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-15.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(12.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left.png"
 translate="vector(-6,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 3 arrow test s230 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(0.10,0,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-15.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(12.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left.png"
 translate="vector(-6,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 3 arrow test s230 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(0.10,0,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-15.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(12.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through.png"
 translate="vector(-6,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 3 arrow test s230 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(0.10,0,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-11.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(17.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
 translate="vector(-1.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 3 arrow test s230 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(0.10,0,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-11.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(17.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right.png"
 translate="vector(-1.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 3 arrow test s230 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(0.10,0,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-11.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(17.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s230" "turn:destination:b:3"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s230" "turn:destination:b:3"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right.png"
 translate="vector(-1.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -809,130 +809,130 @@ translate="vector(-1.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z --> 
  
  <!-- panel A POSITION 1 arrow test s700 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(0.10,2.1,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-15.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(12.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-6,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z --> 
  <!-- panel A POSITION 1 arrow test s700 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(0.10,2.1,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-15.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(12.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-6,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 1 arrow test s700 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(0.10,2.1,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-15.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(12.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-6,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 1 arrow test s700 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(0.10,2.1,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-15.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(12.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-6,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 1 arrow test s700 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(0.10,2.15,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-11.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(17.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-1.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 1 arrow test s700 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(0.10,2.15,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-11.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(17.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-1.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 1 arrow test s700 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(0.10,2.15,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-11.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(17.1,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:1"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:1"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-1.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -940,19 +940,19 @@ translate="vector(-1.5,3.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 2 arrow test s700 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(0.10,1.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-15.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(12.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -961,111 +961,111 @@ translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
  
  <!-- panel A POSITION 2 arrow test s700 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(0.10,1.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-15.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(12.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 2 arrow test s700 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(0.10,1.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-15.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(12.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 2 arrow test s700 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(0.10,1.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-15.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(12.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-6,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 2 arrow test s700 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(0.10,1.8,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-11.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(17.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-1.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 2 arrow test s700 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(0.10,1.8,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-11.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(17.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-1.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 2 arrow test s700 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(0.10,1.8,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-11.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(17.1,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-1.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -1073,130 +1073,130 @@ translate="vector(-1.5,2.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 3 arrow test s700 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(0.10,1.5,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-15.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(12.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-6,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z --> 
  <!-- panel A POSITION 3 arrow test s700 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(0.10,1.5,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-15.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(12.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-6,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 3 arrow test s700 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(0.10,1.5,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-15.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(12.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-6,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 3 arrow test s700 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(0.10,1.5,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-15.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(12.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-6,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 3 arrow test s700 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(0.10,1.5,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-11.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(17.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-1.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel A POSITION 3 arrow test s700 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(0.10,1.5,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-11.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(17.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-1.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel A POSITION 3 arrow test s700 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(0.10,1.5,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-11.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(17.1,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:3"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:3"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-1.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -1208,130 +1208,130 @@ translate="vector(-1.5,2.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 1 arrow test s700 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(0.10,0.6,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-15.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(12.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-6,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z -->  
  <!-- panel B POSITION 1 arrow test s700 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(0.10,0.6,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-15.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(12.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-6,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 1 arrow test s700 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(0.10,0.6,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-15.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(12.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-6,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 1 arrow test s700 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(0.10,0.6,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-15.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(12.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-6,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 1 arrow test s700 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(0.10,0.6,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-11.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(17.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-1.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 1 arrow test s700 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(0.10,0.6,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-11.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(17.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-1.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 1 arrow test s700 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(0.10,0.6,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-11.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(17.1,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:1"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:1"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-1.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -1340,130 +1340,130 @@ translate="vector(-1.5,1.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
  
  <!-- panel B POSITION 2 arrow test s700 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(0.10,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-15.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(12.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-6,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z -->  
  <!-- panel B POSITION 2 arrow test s700 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(0.10,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-15.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(12.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-6,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 2 arrow test s700 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(0.10,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-15.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(12.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-6,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 2 arrow test s700 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(0.10,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-15.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(12.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-6,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 2 arrow test s700 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(0.10,0.3,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-11.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(17.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-1.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 2 arrow test s700 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(0.10,0.3,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-11.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(17.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-1.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 2 arrow test s700 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(0.10,0.3,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-11.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(17.1,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-1.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
@@ -1473,130 +1473,130 @@ translate="vector(-1.5,0.8,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 3 arrow test s700 slight_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="slight_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(0.10,0,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="slight_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-15.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="slight_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(12.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="slight_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_left_city.png"
 translate="vector(-6,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z -->  
  <!-- panel B POSITION 3 arrow test s700 sharp_left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="sharp_left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(0.10,0,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="sharp_left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-15.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="sharp_left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(12.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="sharp_left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_left_city.png"
 translate="vector(-6,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 3 arrow test s700 left -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="left" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(0.10,0,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="left" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-15.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="left" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(12.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="left" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_left_city.png"
 translate="vector(-6,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 3 arrow test s700 through -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="through" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(0.10,0,0)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="through" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-15.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="through" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(12.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="through" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_through_city.png"
 translate="vector(-6,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 3 arrow test s700 slight_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="slight_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(0.10,0,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="slight_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-11.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="slight_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(17.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="slight_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right_city.png"
 translate="vector(-1.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
 
  <!-- panel B POSITION 3 arrow test s700 sharp_right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="sharp_right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(0.10,0,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="sharp_right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-11.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="sharp_right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(17.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="sharp_right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sharp_right_city.png"
 translate="vector(-1.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
 <!-- Z -->
  <!-- panel B POSITION 3 arrow test s700 right -->
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="right" direction=forward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(0.10,0,2.9)" scale="height(1.8)" direction="270" offset="7" />
 
- <wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="right" direction=forward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-11.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 		
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="right" direction=backward side=left' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(17.1,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 
-<wayNodeModel matcher="highway=*" filter='traffic_sign="CAT:s700" "turn:destination:b:3"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=*" filter='traffic_sign="ES:CAT:s700" "turn:destination:b:3"="right" direction=backward side=right' model="/models/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_right_city.png"
 translate="vector(-1.5,0.3,0)" scale="height(1.8)" direction="270" offset="7" />
 <!-- Z -->
