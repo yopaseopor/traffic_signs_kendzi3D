@@ -1417,6 +1417,15 @@ translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_veins.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
+		 <!-- Traffic_signs ES:com:s860 DESCRIPTION:b EXCEPTE VEHICLES AUTORITZATS - LATERAL  - NO SENCER -->
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte vehicles autoritzats" direction=lateral side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_vehicles_autoritzats.png"
+translate="vector(0,0.9,0)" scale="height(2)" direction="180" offset="5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte vehicles autoritzats" direction=lateral side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_vehicles_autoritzats.png"
+translate="vector(0,0.9,0)" scale="height(2)" direction="0" offset="-5" />
 	
 			 <!-- Traffic_signs ES:com:s860 DESCRIPTION SORTIDA VEHICLES -->
 
@@ -1455,5 +1464,15 @@ translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
+	
+			 <!-- Traffic_signs ES:com:s860 DESCRIPTION:b SORTIDA VEHICLES -->
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=lateral side=right' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
+translate="vector(0,0.9,0)" scale="height(2)" direction="180" offset="5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=lateral side=left' model="/models/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
+translate="vector(0,0.9,0)" scale="height(2)" direction="0" offset="-5" />
 
 </modelsLibrary>

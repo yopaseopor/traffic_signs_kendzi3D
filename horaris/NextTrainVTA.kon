@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget>
+
+<debug>off</debug>
+
+<window title="Next Train VTA">
+	<name>main_window</name>
+	<width>515</width>
+	<height>73</height>
+	<visible>true</visible>
+</window> 
+
+<frame name="mainDisplay">
+	<image name="displayBg" src="Resources/vta-display.png"/>
+	<text name="location" color="#5d5446" hOffset="93" vOffset="29" font="Helvetica" size="11" data="Connecting to VTA server." />
+	<text name="arrivalTime" color="#5d5446" hOffset="93" vOffset="50" font="Helvetica Bold" size="18" />
+</frame>
+
+<preference name="linePop">
+<title>Line:</title>
+<type>popup</type>
+<option>Alum Rock - Santa Teresa</option>
+<option>Mountain View - Winchester </option>
+<option>R1 - Hospitalet - Blanes </option>
+<option>Ohlone/Chynoweth - Almaden</option>
+<defaultValue>Mountain View - Winchester</defaultValue>
+</preference>
+
+<preference name="stationPop">
+<title>Station:</title>
+<type>popup</type>
+<option>Almaden </option>
+<option>Barcelona </option>
+<option>Hospitalet </option>
+<option>Barcelon2 </option>
+<option>Pl.Catalunya </option>
+<option>Alum Rock</option>
+<option>Bascom </option>
+<option>Capitol </option>
+<option>Civic Center </option>
+<option>Fair Oaks </option>
+<option>Fruitdale </option>
+<option>Great Mall Transit Center</option>
+<option>Hostetter</option>
+<option>Lockheed Martin Transit Center</option>
+<option>Metro </option>
+<option>Mountain View </option>
+<option>Ohlone-Chynoweth </option>
+<option>Old Ironsides </option>
+<option>Penitencia Creek Transit Ctr</option>
+<option>San Jose Convention Center</option>
+<option>San Jose Diridon </option>
+<option>Santa Clara </option>
+<option>Santa Teresa </option>
+<option>Snell  </option>
+<option>Tamien </option>
+<option>Tasman </option>
+<option>Whisman </option>  
+<option>Winchester </option>
+<defaultValue>Santa Clara </defaultValue>
+</preference>
+
+<preference name="directionPop">
+<title>Direction:</title>
+<type>popup</type>
+<option>North</option>
+<option>South</option>
+<defaultValue>North</defaultValue>
+</preference>
+
+<about-box>
+		<image>Resources/about.png</image>
+		<about-text>
+			<data>Next Train VTA Light Rail 1.0. Junius Gunaratne. 2006.</data>
+			<font>Helvetica</font>
+			<size>11</size>
+			<hOffset>64</hOffset>
+			<vOffset>124</vOffset>
+			<color>#004672</color>
+		</about-text>
+	</about-box>
+
+<action trigger="onLoad" file="Resources/vta.js"/>
+<action trigger="onTimer" interval="1">
+update();
+</action>
+
+<action trigger="onPreferencesChanged">
+updatePrefs();
+</action>
+
+</widget>
