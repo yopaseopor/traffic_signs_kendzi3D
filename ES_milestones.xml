@@ -6,486 +6,486 @@
 <!-- Traffic_signs-Milestone / COLOUR -->
 
   <!-- Traffic_signs-Milestone red Test -->
-<wayNodeModel matcher="-highway=motorway" filter='highway=milestone "ref:colour"=red' model="/models/ES/ES/traffic_signs/pkSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='highway=milestone "ref:colour"=red' model="/models_ES/ES/traffic_signs/pkSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_red.png"
 translate="vector(0,0,0)" scale="height(1)" direction="270" offset="5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:s572" "ref:colour"=red' model="/models/ES/ES/traffic_signs/pkSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:s572" "ref:colour"=red' model="/models_ES/ES/traffic_signs/pkSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_red.png"
 translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
 <!-- ZZ -->	
 <!-- ZZ -->	
 
    <!-- Traffic_signs-Milestone yellow Test -->
-<wayNodeModel matcher="-highway=motorway" filter='highway=milestone "ref:colour"=yellow' model="/models/ES/ES/traffic_signs/pkSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='highway=milestone "ref:colour"=yellow' model="/models_ES/ES/traffic_signs/pkSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_yellow.png"
 translate="vector(0,0,0)" scale="height(1)" direction="270" offset="5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:s572" "ref:colour"=yellow' model="/models/ES/ES/traffic_signs/pkSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:s572" "ref:colour"=yellow' model="/models_ES/ES/traffic_signs/pkSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_yellow.png"
 translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
 
 <!-- Traffic_signs-Milestone / NUMBERS -->
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=0 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=0 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_0.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=0 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=0 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_0.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=1 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=1 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_1.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=1 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=1 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_1.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=2 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=2 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_2.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=2 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=2 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_2.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=3 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=3 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_3.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=3 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=3 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_3.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=4 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=4 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_4.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=4 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=4 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_4.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=5 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=5 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_5.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=5 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=5 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_5.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=6 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=6 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_6.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=6 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=6 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_6.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=7 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=7 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_7.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=7 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=7 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_7.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=8 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=8 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_8.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=8 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=8 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_8.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=9 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=9 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_9.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=9 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=9 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_9.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
 <!-- pk 10 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=10 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=10 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_10.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=10 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=10 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_10.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
 	<!-- pk 11 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=11 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=11 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_11.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=11 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=11 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_11.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->		
 
 		<!-- pk 12 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=12 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=12 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_12.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=12 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=12 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_12.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 13 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=13 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=13 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_13.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=13 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=13 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_13.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 14 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=14 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=14 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_14.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=14 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=14 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_14.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 15 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=15 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=15 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_15.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=15 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=15 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_15.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 16 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=16 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=16 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_16.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=16 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=16 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_16.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 17 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=17 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=17 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_17.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=17 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=17 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_17.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 18 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=18 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=18 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_18.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=18 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=18 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_18.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 19 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=19 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=19 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_19.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=19 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=19 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_19.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 20 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=20 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=20 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_20.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=20 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=20 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_20.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 21 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=21 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=21 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_21.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=21 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=21 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_21.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 22 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=22 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=22 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_22.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=22 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=22 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_22.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 23 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=23 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=23 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_23.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=23 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=23 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_23.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 24 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=24 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=24 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_24.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=24 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=24 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_24.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 25 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=25 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=25 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_25.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=25 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=25 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_25.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 26 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=26 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=26 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_26.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=26 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=26 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_26.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 27 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=27 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=27 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_27.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=27 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=27 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_27.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 28 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=28 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=28 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_28.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=28 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=28 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_28.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 29 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=29 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=29 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_29.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=29 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=29 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_29.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 30 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=30 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=30 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_30.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=30 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=30 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_30.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 31 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=31 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=31 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_31.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=31 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=31 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_31.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 32 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=32 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=32 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_32.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=32 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=32 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_32.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 33 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=33 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=33 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_33.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=33 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=33 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_33.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 34 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=34 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=34 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_34.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=34 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=34 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_34.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 35 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=35 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=35 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_35.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=35 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=35 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_35.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 36 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=36 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=36 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_36.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=36 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=36 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_36.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 37 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=37 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=37 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_37.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=37 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=37 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_37.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 38 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=38 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=38 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_38.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=38 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=38 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_38.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 39 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=39 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=39 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_39.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=39 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=39 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_39.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 40 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=40 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=40 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_40.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=40 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=40 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_40.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 41 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=41 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=41 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_41.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=41 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=41 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_41.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 42 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=42 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=42 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_42.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=42 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=42 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_42.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 43 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=43 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=43 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_43.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=43 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=43 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_43.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 44 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=44 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=44 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_44.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=44 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=44 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_44.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 45 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=45 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=45 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_45.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=45 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=45 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_45.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 46 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=46 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=46 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_46.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=46 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=46 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_46.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 47 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=47 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=47 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_47.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=47 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=47 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_47.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 48 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=48 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=48 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_48.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=48 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=48 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_48.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 49 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=49 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=49 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_49.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=49 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=49 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_49.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 		<!-- pk 50 -->		
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=50 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=50 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_50.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=50 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=50 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_50.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 	<!-- z -->
 	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=169 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=169 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_169.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=169 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=169 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_169.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- pk 170 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=170 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=170 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_170.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=170 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=170 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_170.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
@@ -493,11 +493,11 @@ translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!-- ZZ -->
 
 <!-- pk 171 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=171 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=171 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_171.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=171 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=171 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_171.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
@@ -505,391 +505,391 @@ translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!-- ZZ -->
 
 <!-- pk 172 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=172 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=172 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_172.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=172 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=172 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_172.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 173 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=173 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=173 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_173.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=173 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=173 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_173.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->	
 <!-- pk 174 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=174 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=174 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_174.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=174 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=174 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_174.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 175 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=175 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=175 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_175.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=175 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=175 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_175.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->	
 <!-- pk 176 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=176 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=176 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_176.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=176 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=176 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_176.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 177 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=177 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=177 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_177.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=177 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=177 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_177.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 178 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=178 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=178 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_178.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=178 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=178 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_178.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 179 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=179 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=179 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_179.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=179 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=179 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_179.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 180 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=180 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=180 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_180.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=180 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=180 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_180.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 181 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=181 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=181 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_181.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=181 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=181 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_181.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 182 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=182 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=182 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_182.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=182 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=182 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_182.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 183 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=183 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=183 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_183.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=183 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=183 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_183.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 184 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=184 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=184 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_184.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=184 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=184 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_184.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 185 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=185 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=185 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_185.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=185 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=185 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_185.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 186 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=186 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=186 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_186.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=186 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=186 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_186.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 187 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=187 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=187 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_187.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=187 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=187 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_187.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 188 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=188 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=188 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_188.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=188 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=188 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_188.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 189 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=189 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=189 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_189.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=189 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=189 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_189.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 190 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=190 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=190 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_190.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=190 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=190 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_190.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 191 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=191 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=191 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_191.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=191 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=191 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_191.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
 <!-- ZZ -->
 <!-- pk 192 -->	
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=192 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=192 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_192.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=192 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=192 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_192.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=193 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=193 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_193.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=193 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=193 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_193.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=194 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=194 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_194.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=194 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=194 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_194.png"
 translate="vector(25.5,-0.4,1)" scale="height(0.8)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=195 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=195 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_195.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=195 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=195 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_195.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=196 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=196 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_196.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=196 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=196 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_196.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=197 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=197 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_197.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=197 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=197 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_197.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=198 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=198 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_198.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=198 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=198 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_198.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=199 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=199 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_199.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=199 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=199 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_199.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=200 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=200 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_200.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=200 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=200 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_200.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=201 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=201 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_201.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=201 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=201 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_201.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=202 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=202 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_202.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=202 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=202 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_202.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=203 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=203 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_203.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=203 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=203 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_203.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=204 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=204 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_204.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=204 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=204 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_204.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=205 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=205 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_205.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=205 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=205 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_205.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=206 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=206 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_206.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=206 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=206 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_206.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=207 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=207 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_207.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=207 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=207 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_207.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=208 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=208 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_208.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=208 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=208 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_208.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=209 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=209 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_209.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=209 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=209 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_209.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=210 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=210 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_210.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=210 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=210 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_210.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=211 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=211 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_211.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=211 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=211 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_211.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=212 highway=milestone' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=212 highway=milestone' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_212.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"pk"=212 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"pk"=212 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_212.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
@@ -900,60 +900,60 @@ translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" /
 
 <!-- BV-2115 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2115 highway=milestone' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2115 highway=milestone' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_bv2115.png"
 translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2115 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2115 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_bv2115.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 
 <!-- BV-2116 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2116 highway=milestone' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2116 highway=milestone' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_bv2116.png"
 translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2116 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2116 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_bv2116.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!-- BV-2117 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2117 highway=milestone' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2117 highway=milestone' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_bv2117.png"
 translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2117 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2117 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_bv2117.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 
 <!-- C-12 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-12 highway=milestone' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-12 highway=milestone' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
 translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-12 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-12 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 
 <!-- C-14 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-14 highway=milestone' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-14 highway=milestone' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
 translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-14 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-14 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- L-910 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=L-910 highway=milestone' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=L-910 highway=milestone' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
 translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=L-910 traffic_sign="ES:s572"' model="/models/ES/ES/traffic_signs/refSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=L-910 traffic_sign="ES:s572"' model="/models_ES/ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!-- Traffic_signs-Milestone -->

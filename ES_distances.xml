@@ -1,6 +1,6 @@
 <modelsLibrary> 
  
- <wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
  
@@ -11,505 +11,505 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 50 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance:B 50 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="50 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="50 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="50 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="50 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="50 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="50 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="50 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="50 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 75 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="75 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="75 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="75 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="75 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="75 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="75 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="75 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="75 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance:B 75 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="75 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="75 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="75 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="75 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="75 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="75 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="75 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="75 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 100 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="100 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="100 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="100 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="100 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="100 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="100 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="100 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="100 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 100 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="100 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="100 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="100 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="100 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="100 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="100 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="100 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="100 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 150 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="150 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="150 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="150 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="150 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="150 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="150 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="150 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="150 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 150 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="150 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="150 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="150 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="150 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="150 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="150 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="150 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="150 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 200 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="200 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="200 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="200 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="200 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="200 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="200 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="200 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="200 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 200 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="200 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="200 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="200 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="200 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="200 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="200 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="200 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="200 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 250 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="250 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="250 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="250 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="250 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="250 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="250 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="250 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="250 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 250 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="250 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="250 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="250 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="250 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="250 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="250 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="250 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="250 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 300 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="300 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="300 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="300 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="300 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="300 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="300 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="300 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="300 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 300 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="300 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="300 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="300 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="300 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="300 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="300 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="300 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="300 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 350 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="350 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="350 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="350 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="350 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="350 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="350 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="350 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="350 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 350 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="350 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="350 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="350 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="350 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="350 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="350 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="350 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="350 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 400 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="400 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="400 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="400 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="400 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="400 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="400 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="400 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="400 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 400 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="400 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="400 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="400 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="400 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="400 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="400 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="400 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="400 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 450 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="450 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="450 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="450 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="450 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="450 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="450 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="450 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="450 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 450 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="450 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="450 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="450 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="450 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="450 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="450 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="450 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="450 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />	
 
 <!-- Traffic_signs-Destination Test- Distance 500 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="500 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="500 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="500 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="500 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="500 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="500 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="500 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="500 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 500 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="500 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="500 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="500 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="500 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="500 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="500 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="500 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="500 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance 1000 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 1000 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1000 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1000 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1000 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1000 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1000 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1000 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1000 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1000 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance 1500 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 1500 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1500 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1500 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1500 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1500 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1500 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1500 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1500 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="1500 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance 2000 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='-traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance:B 2000 m -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="2000 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="2000 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="2000 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="2000 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="2000 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="2000 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="2000 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"distance:b"="2000 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 
@@ -519,19 +519,19 @@ translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Test- Distance 50 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="50 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="50 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="50 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="50 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="50 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_50.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />	
 
@@ -539,19 +539,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 75 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="75 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="75 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="75 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="75 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="75 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="75 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="75 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="75 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_75.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />	
 
@@ -559,19 +559,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 100 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="100 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="100 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="100 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="100 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="100 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="100 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="100 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="100 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_100.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -579,19 +579,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 150 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="150 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="150 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="150 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="150 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="150 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="150 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="150 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="150 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_150.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -599,19 +599,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 200 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="200 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="200 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="200 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="200 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="200 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="200 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="200 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="200 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_200.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -619,19 +619,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 250 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="250 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="250 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="250 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="250 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="250 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="250 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="250 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="250 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_250.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -639,19 +639,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 300 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="300 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="300 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="300 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="300 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="300 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="300 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="300 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="300 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_300.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -659,19 +659,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 350 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="350 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="350 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="350 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="350 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="350 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="350 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="350 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="350 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_350.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -679,38 +679,38 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 400 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="400 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="400 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="400 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="400 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="400 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="400 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="400 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="400 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_400.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
 
 <!-- Traffic_signs-Destination Test- Distance 450 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="450 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="450 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="450 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="450 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="450 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="450 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="450 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="450 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_450.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -718,19 +718,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 500 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="500 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="500 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="500 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="500 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="500 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="500 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="500 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="500 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_500.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -738,19 +738,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 1000 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1000 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1000.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -758,19 +758,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 1500 m  ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="1500 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_1500.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -778,19 +778,19 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs-Destination Test- Distance 2000 m ES:CAT:s520 -->
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0.10,0.6,2.1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="-5" />	
 
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:CAT:s520" "distance"="2000 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_2000.png"
 translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -801,46 +801,46 @@ translate="vector(0.10,0.6,-2.1)" scale="height(1.5)" direction="90" offset="5" 
 
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign"="right" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="right" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="right" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="right" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="right" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="right" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="right" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="right" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="right" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="5" />	
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="right" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />		
 <!-- zz -->
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="right" LATERAL-->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=lateral side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=lateral side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="180" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=lateral side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="right" direction=lateral side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="0" offset="-5" />
 		
@@ -849,222 +849,222 @@ translate="vector(0,0.5,0)" scale="height(2)" direction="0" offset="-5" />
 	
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign"="sharp_right" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_right" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_right" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_right" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_right" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_right" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_right" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_right" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_right" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="5" />	
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="sharp_right" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_right" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_right" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_right" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_right" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_right" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_right" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_right" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_right" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />	
 	<!-- zz -->
  
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign"="slight_right" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_right" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_right" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_right" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_right" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_right" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_right" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="-5" />	
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_right" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_right" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_right.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="5" />	
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="slight_right" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_right" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_right" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_right" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_right" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_right" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_right" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="-5" />	
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_right" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_right" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_right.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />	<!-- zz -->
 	
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign"="through" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="through" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="through" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_through.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="through" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="through" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_through.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="through" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="through" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_through.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="through" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="through" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_through.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="5" />	
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="through" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="through" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="through" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_through.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="through" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="through" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_through.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="through" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="through" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_through.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="through" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="through" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_through.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
 	
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign"="slight_left" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_left" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_left" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_left" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_left" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_left" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_left" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_left" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="slight_left" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="5" />
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="slight_left" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_left" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_left" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_left" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_left" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_left" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_left" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_left" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="slight_left" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_slight_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign"="left" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="left" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="left" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="left" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="left" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="left" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="left" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="left" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="left" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="5" />	
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="left" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />	
 	<!-- zz -->
 <!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="left" LATERAL-->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=lateral side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=lateral side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="180" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=lateral side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="left" direction=lateral side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="0" offset="-5" />	
 	<!-- Traffic_signs ES:com:870 turn:destination:traffic_sign"="sharp_left" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_left" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_left" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_left" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_left" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_left" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_left" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_left" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign"="sharp_left" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_left.png"
 translate="vector(0,2.0,0)" scale="height(2)" direction="90" offset="5" />	
 	<!-- zz -->
 		<!-- Traffic_signs ES:com:870 turn:destination:traffic_sign:b"="sharp_left" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_left" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_left" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_left" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_left" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_left" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_left" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="-5" />		
 
-  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_left" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"turn:destination:traffic_sign:b"="sharp_left" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/destination_sharp_left.png"
 translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />	
 	<!-- zz -->
@@ -1073,272 +1073,272 @@ translate="vector(0,0.5,0)" scale="height(2)" direction="90" offset="5" />
 
  <!-- Traffic_signs ES:com:810 length"="500" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=500 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=500 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=500 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=500 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length=500 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=500 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=500 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=500 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
  <!-- Traffic_signs ES:com:810 length:b"="500" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=500 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->	<!-- zz -->
  <!-- Traffic_signs ES:com:810 length"="1000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=1000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=1000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=1000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=1000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length=1000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=1000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=1000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=1000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
 	
  <!-- Traffic_signs ES:com:810 length:b"="1000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
 	
  <!-- Traffic_signs ES:com:810 length"="1500" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=1500 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=1500 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=1500 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=1500 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length=1500 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=1500 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=1500 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=1500 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
  <!-- Traffic_signs ES:com:810 length:b"="1500" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=1500 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_1500.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->	<!-- zz -->
 	
  <!-- Traffic_signs ES:com:810 length"="2000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=2000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=2000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_2000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=2000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=2000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_2000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length=2000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=2000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_2000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=2000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=2000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_2000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
  <!-- Traffic_signs ES:com:810 length:b"="2000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=2000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=2000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_2000.png"
 translate="vector(0,0.90)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=2000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=2000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_2000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=2000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length:b"=2000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_2000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=2000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length:b"=2000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_2000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->	<!-- zz -->
 	
  <!-- Traffic_signs ES:com:810 length"="3000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=3000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=3000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_3000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=3000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=3000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_3000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length=3000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=3000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_3000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=3000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=3000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_3000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
  <!-- Traffic_signs ES:com:810 length:b"="3000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=3000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=3000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_3000.png"
 translate="vector(0,0.90)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=3000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=3000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_3000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=3000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length:b"=3000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_3000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=3000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length:b"=3000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_3000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->	<!-- zz -->
 	
  <!-- Traffic_signs ES:com:810 length"="4000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=4000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=4000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_4000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=4000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=4000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_4000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length=4000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=4000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_4000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=4000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=4000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_4000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
  <!-- Traffic_signs ES:com:810 length:b"="4000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=4000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=4000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_4000.png"
 translate="vector(0,0.90)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=4000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=4000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_4000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=4000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length:b"=4000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_4000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=4000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length:b"=4000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_4000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->	<!-- zz -->
 
  <!-- Traffic_signs ES:com:810 length"="5000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=5000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=5000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_5000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=5000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=5000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_5000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length=5000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=5000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_5000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length=5000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length=5000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_5000.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
  <!-- Traffic_signs ES:com:810 length:b"="5000" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=5000 direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=5000 direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_5000.png"
 translate="vector(0,0.90)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=5000 direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"length:b"=5000 direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_5000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=5000 direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length:b"=5000 direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_5000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='length:b"=5000 direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='length:b"=5000 direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/length_black_5000.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->	<!-- zz -->
 	
 	 <!-- Traffic_signs ES:com:840 DISTANCE CROSS"="150 m" -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"distance:cross"="150 m" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"distance:cross"="150 m" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_cross_150.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"distance:cross"="150 m" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"distance:cross"="150 m" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_cross_150.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"distance:cross"="150 m" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"distance:cross"="150 m" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_cross_150.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"distance:cross"="150 m" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"distance:cross"="150 m" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_distance_cross_150.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
@@ -1347,131 +1347,131 @@ translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 			
 			 <!-- Traffic_signs ES:com:s860 DESCRIPTION CAMÍ AGRÍCOLA -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Camí Agrícola" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 
 			 <!-- Traffic_signs ES:com:s860 DESCRIPTION:b CAMÍ AGRÍCOLA -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Camí Agrícola" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_cami_agricola.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
 		 <!-- Traffic_signs ES:com:s860 DESCRIPTION EXCEPTE VEÏNS -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Excepte veïns" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Excepte veïns" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_veins.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Excepte veïns" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Excepte veïns" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_veins.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Excepte veïns" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Excepte veïns" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_veins.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Excepte veïns" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Excepte veïns" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_veins.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
 		 <!-- Traffic_signs ES:com:s860 DESCRIPTION:b EXCEPTE VEÏNS -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte veïns" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte veïns" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_veins.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte veïns" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte veïns" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_veins.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte veïns" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte veïns" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_veins.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte veïns" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte veïns" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_veins.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
 		 <!-- Traffic_signs ES:com:s860 DESCRIPTION:b EXCEPTE VEHICLES AUTORITZATS - LATERAL  - NO SENCER -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte vehicles autoritzats" direction=lateral side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte vehicles autoritzats" direction=lateral side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_vehicles_autoritzats.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="180" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte vehicles autoritzats" direction=lateral side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Excepte vehicles autoritzats" direction=lateral side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_excepte_vehicles_autoritzats.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="0" offset="-5" />
 	
 			 <!-- Traffic_signs ES:com:s860 DESCRIPTION SORTIDA VEHICLES -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Sortida de vehicles" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Sortida de vehicles" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Sortida de vehicles" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Sortida de vehicles" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Sortida de vehicles" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Sortida de vehicles" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description"="Sortida de vehicles" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description"="Sortida de vehicles" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,2.4,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
 	
 			 <!-- Traffic_signs ES:com:s860 DESCRIPTION:b SORTIDA VEHICLES -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=forward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=forward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=forward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="270" offset="-5" />
 		
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=backward side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=backward side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="-5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=backward side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=backward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="90" offset="5" />
 	<!-- zz -->
 	
 			 <!-- Traffic_signs ES:com:s860 DESCRIPTION:b SORTIDA VEHICLES -->
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=lateral side=right' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=lateral side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="180" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=lateral side=left' model="/models/ES/traffic_signs/nameSign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"description:b"="Sortida de vehicles" direction=lateral side=left' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_description_sortida_de_vehicles.png"
 translate="vector(0,0.9,0)" scale="height(2)" direction="0" offset="-5" />
 
