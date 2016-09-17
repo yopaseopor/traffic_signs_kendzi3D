@@ -37,9 +37,17 @@ translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
 <!-- UP -->
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="US:20W" side=up' model="/models_US/traffic_signs/squareSignUp.obj"
 modelParameter="material.mat_sign.texture0=textures/US_20W.png"
-translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="US:20W" side=up' model="/models_US/traffic_signs/squareSignUp.obj"
+modelParameter="material.mat_sign.texture0=textures/US_20W.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:b:backward"="US:20W" side=up' model="/models_US/traffic_signs/squareSignUp.obj"
+modelParameter="material.mat_sign.texture0=textures/US_20W.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:b:forward"="US:20W" side=up' model="/models_US/traffic_signs/squareSignUp.obj"
 modelParameter="material.mat_sign.texture0=textures/US_20W.png"
 translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
 <!-- Z -->
