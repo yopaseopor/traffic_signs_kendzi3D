@@ -41,7 +41,7 @@ translate="vector(0,2,0)" scale="height(80)" direction="90" offset="-2" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="US:20W" side=up' model="/models_US/traffic_signs/squareSignUp.obj"
 modelParameter="material.mat_sign.texture0=textures/US_20W.png"
-translate="vector(0,2,0)" scale="height(80)" direction="90" offset="2" />
+translate="vector(0,2,0)" scale="height(80)" direction="270" offset="2" />
 <!-- Z -->
 <!-- Z -->
 <!-- Z -->
