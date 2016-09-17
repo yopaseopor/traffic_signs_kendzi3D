@@ -1,0 +1,35 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl 1
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.800000 0.800000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\ES_s230_empty.png
+map_d textures\\ES_s230_empty.png
+
+newmtl mat_sign
+Ns 58.823529
+Ka 0.000000 0.000000 0.000000
+Kd 0.035184 0.035184 0.035184
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\sign.png
+map_d textures\\ES_s230_empty.png
+
+newmtl mat_sign_ES_s230_empty.png.001
+Ns 58.823529
+Ka 0.000000 0.000000 0.000000
+Kd 0.035184 0.035184 0.035184
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures\ES_s230_empty.png
+map_d textures\\ES_s230_empty.png
