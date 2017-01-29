@@ -16,6 +16,39 @@ translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
 <!-- ZZ -->	
 <!-- ZZ -->	
 
+  <!-- Traffic_signs-Milestone orange Test -->
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S572" "ref:colour"=orange' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_orange.png"
+translate="vector(0,0,0)" scale="height(1)" direction="270" offset="5" />	
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S572" "ref:colour"=orange' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_orange.png"
+translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
+<!-- ZZ -->	
+<!-- ZZ -->	
+
+  <!-- Traffic_signs-Milestone green Test -->
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S572" "ref:colour"=green' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_green.png"
+translate="vector(0,0,0)" scale="height(1)" direction="270" offset="5" />	
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S572" "ref:colour"=green' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_green.png"
+translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
+<!-- ZZ -->	
+<!-- ZZ -->	
+
+  <!-- Traffic_signs-Milestone purple Test -->
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S572" "ref:colour"=purple' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_purple.png"
+translate="vector(0,0,0)" scale="height(1)" direction="270" offset="5" />	
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S572" "ref:colour"=purple' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_purple.png"
+translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
+<!-- ZZ -->	
+<!-- ZZ -->	
+
    <!-- Traffic_signs-Milestone yellow Test -->
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S572" "ref:colour"=yellow' model="/models_ES/traffic_signs/pkSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s572_empty_yellow.png"
