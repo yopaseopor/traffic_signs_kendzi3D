@@ -45,43 +45,43 @@ translate="vector(0,5,-3)" scale="height(6)" direction="270" offset="0" />
 
 <!--  Traffic_signs-Destination sign=sud side=right-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:sign:1"="sud" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:1"="sud" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,4,1)" scale="height(1.6)" direction="270" offset="8" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:sign"="sud" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol"="sud" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,3.5,1)" scale="height(1.6)" direction="270" offset="8" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:sign:3"="sud" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:3"="sud" direction=forward side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,3,1)" scale="height(1.6)" direction="270" offset="8" />
 
 <!-- Traffic_signs-Destination sign=sud side=up ES:s235,ES:s242a  panel 3A side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:sign:1"="sud" direction=forward side=up' model="/models_ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:1"="sud" direction=forward side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,8.2,0.5)" scale="height(1.6)" direction="270" offset="3" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:sign"="sud" direction=forward side=up' model="/models_ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol"="sud" direction=forward side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,7.7,0.5)" scale="height(1.6)" direction="270" offset="3" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:sign:3"="sud" direction=forward side=up' model="/models_ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:3"="sud" direction=forward side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,7.2,0.5)" scale="height(1.6)" direction="270" offset="3" />
 
 <!-- Traffic_signs-Destination sign=center side=up ES:s242a  panel 3B side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:sign:b:1"="center" direction=forward side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:b:1"="center" direction=forward side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
 translate="vector(-0.25,8.2,-2)" scale="height(1.6)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:sign:b"="center" direction=forward side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:b"="center" direction=forward side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
 translate="vector(-0.25,7.6,-2)" scale="height(1.6)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:sign:b:3"="center" direction=forward side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:b:3"="center" direction=forward side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
 translate="vector(-0.25,7,-2)" scale="height(1.6)" direction="270" offset="0" />
 
