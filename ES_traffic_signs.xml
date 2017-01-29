@@ -7304,7 +7304,7 @@ modelParameter="material.mat_sign.texture0=textures/ES_s126.png"
 	<!-- Traffic_signs-Danger -->
 		<!-- Traffic_signs-Danger -->
 			<!-- Traffic_signs-Danger -->
-<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:P1" direction=backward side=left' model="/models_ES/traffic_signs/triangleSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='traffic_sign:backward"="ES:P1" direction=backward side=left' model="/models_ES/traffic_signs/triangleSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_p1.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 		
@@ -7312,7 +7312,7 @@ translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 modelParameter="material.mat_sign.texture0=textures/ES_p1.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />		
 		
-		<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:P1a" direction=backward side=left' model="/models_ES/traffic_signs/triangleSign.obj"
+		<wayNodeModel matcher="-highway=motorway" filter='traffic_sign:backward"="ES:P1a" direction=backward side=left' model="/models_ES/traffic_signs/triangleSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_p1a.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 		
@@ -7320,7 +7320,7 @@ translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 modelParameter="material.mat_sign.texture0=textures/ES_p1a.png"
 		translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
 		
-		<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:P1b" direction=backward side=left' model="/models_ES/traffic_signs/triangleSign.obj"
+		<wayNodeModel matcher="-highway=motorway" filter='traffic_sign:backward"="ES:P1b" direction=backward side=left' model="/models_ES/traffic_signs/triangleSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_p1b.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 		
@@ -7328,7 +7328,7 @@ translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 modelParameter="material.mat_sign.texture0=textures/ES_p1b.png"
 		translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
 		
-		<wayNodeModel matcher="-highway=motorway" filter='traffic_sign="ES:P1c" direction=backward side=left' model="/models_ES/traffic_signs/triangleSign.obj"
+		<wayNodeModel matcher="-highway=motorway" filter='traffic_sign:backward"="ES:P1c" direction=backward side=left' model="/models_ES/traffic_signs/triangleSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_p1c.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 		
