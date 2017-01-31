@@ -76,6 +76,14 @@ translate="vector(0.5,0.5,-4)" scale="height(4)" direction="90" offset="-5" />
 
 <!-- ES:CAT:s200 LEFT  Test-Signals forward side=right-->	
 
+<wayNodeModel matcher="-highway=motorway" filter='"destination:c:1"="*,Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-0.25,4.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:c:1"="*,Balaguer,*" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
+translate="vector(-0.25,4.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
+
 <wayNodeModel matcher="-highway=motorway" filter='"destination:c:1"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,4.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
