@@ -76,27 +76,27 @@ translate="vector(0.5,0.5,-4)" scale="height(4)" direction="90" offset="-5" />
 
 <!-- ES:CAT:s200 LEFT  Test-Signals forward side=right-->	
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:c:1"="*,Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:end_panel:upper"="*,Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,4.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:c:1"="*,Balaguer,*" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:end_panel:upper"="*,Balaguer,*" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,4.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:c:1"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:end_panel:upper"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,4.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:c"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:end_panel"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,3.7,1.5)" scale="height(1.5)" direction="270" offset="5" />	
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:c:3"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:end_panel:lower"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,3.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:d:1"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:d:upper"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,2.7,1.5)" scale="height(1.5)" direction="270" offset="5" />
 
@@ -104,13 +104,13 @@ translate="vector(-0.25,2.7,1.5)" scale="height(1.5)" direction="270" offset="5"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,2.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:d:3"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:d:lower"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,1.7,1.5)" scale="height(1.5)" direction="270" offset="5" />
 
 <!-- CENTER - ARROW - ES:CAT:s200  Test-Signals forward side=right -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:e:1"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:e:upper"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,4.2,3.5)" scale="height(1.5)" direction="270" offset="5" />
 
@@ -118,7 +118,7 @@ translate="vector(-0.25,4.2,3.5)" scale="height(1.5)" direction="270" offset="5"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,3.7,3.5)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:e:3"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:e:lower"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,3.2,3.5)" scale="height(1.5)" direction="270" offset="5" />
 
@@ -126,7 +126,7 @@ translate="vector(-0.25,3.2,3.5)" scale="height(1.5)" direction="270" offset="5"
 
 <!-- RIGHT - ES:CAT:s200  Test-Signals forward side=right -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:f:1"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:f:upper"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,4.2,5.5)" scale="height(1.5)" direction="270" offset="5" />
 
@@ -134,11 +134,11 @@ translate="vector(-0.25,4.2,5.5)" scale="height(1.5)" direction="270" offset="5"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,3.7,5.5)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:f:3"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:f:lower"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,3.2,5.5)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:g:1"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:g:upper"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,2.7,5.5)" scale="height(1.5)" direction="270" offset="5" />
 
@@ -146,7 +146,7 @@ translate="vector(-0.25,2.7,5.5)" scale="height(1.5)" direction="270" offset="5"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,2.2,5.5)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:g:3"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:g:lower"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(-0.25,1.7,5.5)" scale="height(1.5)" direction="270" offset="5" />
 
@@ -155,19 +155,19 @@ translate="vector(-0.25,1.7,5.5)" scale="height(1.5)" direction="270" offset="5"
 
 <!-- ES:CAT:s200 LEFT  Test-Signals backward side=left-->	
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:c:1"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:end_panel:upper"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,4.2,-1.5)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:c"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:end_panel"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,3.7,-1.5)" scale="height(1.5)" direction="90" offset="-5" />		
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:c:3"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:end_panel:lower"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,3.2,-1.5)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:d:1"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:d:upper"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,2.7,-1.5)" scale="height(1.5)" direction="90" offset="-5" />
 
@@ -175,13 +175,13 @@ translate="vector(0.25,2.7,-1.5)" scale="height(1.5)" direction="90" offset="-5"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,2.2,-1.5)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:d:3"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:d:lower"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,1.7,-1.5)" scale="height(1.5)" direction="90" offset="-5" />
 
 <!-- CENTER - ARROW - ES:CAT:s200  Test-Signals backward side=left -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:e:1"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:e:upper"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,4.2,-3.5)" scale="height(1.5)" direction="90" offset="-5" />
 
@@ -189,14 +189,14 @@ translate="vector(0.25,4.2,-3.5)" scale="height(1.5)" direction="90" offset="-5"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,3.7,-3.5)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:e:3"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:e:lower"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,3.2,-3.5)" scale="height(1.5)" direction="90" offset="-5" />
 
 
 <!-- RIGHT - ES:CAT:s200  Test-Signals backward side=left -->
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:f:1"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:f:upper"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,4.2,-5.5)" scale="height(1.5)" direction="90" offset="-5" />
 
@@ -204,11 +204,11 @@ translate="vector(0.25,4.2,-5.5)" scale="height(1.5)" direction="90" offset="-5"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,3.7,-5.5)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:f:3"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:f:lower"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,3.2,-5.5)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:g:1"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:g:upper"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,2.7,-5.5)" scale="height(1.5)" direction="90" offset="-5" />
 
@@ -216,7 +216,7 @@ translate="vector(0.25,2.7,-5.5)" scale="height(1.5)" direction="90" offset="-5"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,2.2,-5.5)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:g:3"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:g:lower"="Balaguer" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
 translate="vector(0.25,1.7,-5.5)" scale="height(1.5)" direction="90" offset="-5" />
 <!-- z -->
