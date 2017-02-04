@@ -4,19 +4,19 @@
 
 <!-- Arrows - ES:CAT:s200  Test-Signals forward side=right -->	
 <wayNodeModel matcher="-highway=motorway" filter='"tram_left"=yes "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/roundabout_slight_right.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_tram_left.png"
 translate="vector(-0.5,0.5,4)" scale="height(4)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"tram_through"=yes "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/roundabout_slight_right.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_tram_through.png"
 translate="vector(-0.5,0.5,4)" scale="height(4)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"tram_right"=yes "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/roundabout_slight_right.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_tram_right.png"
 translate="vector(-0.5,0.5,4)" scale="height(4)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"tram_stop_left"=yes "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/roundabout_slight_right.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_tram_stop_left.png"
 translate="vector(-0.5,0.5,4)" scale="height(4)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"slight_right"=yes "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
