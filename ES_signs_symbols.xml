@@ -1,6 +1,111 @@
 <modelsLibrary>
    <!-- S -->
  <!-- Traffic_signs-SIGNS and SYMBOLS --> 
+  <!-- ES_S200 Traffic_signs-SIGNS and SYMBOLS -->
+
+<!-- Z -->
+
+<!-- CENTER PANEL A POSITION 1 -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:upper"=center "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,2.4,0.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:upper"="center" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,2.4,0.5)" scale="height(1.5)" direction="270" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:upper"=center "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,2.4,-0.5)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:upper"=center "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,2.4,-0.5)" scale="height(1.5)" direction="90" offset="5" />
+
+<!-- center PANEL A POSITION 2 -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol"=center "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,2.1,0.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol"="center" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,2.1,0.5)" scale="height(1.5)" direction="270" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol"=center "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,2.1,-0.5)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol"=center "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,2.1,-0.5)" scale="height(1.5)" direction="90" offset="5" />
+<!-- center PANEL A POSITION 3 -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower"=center "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,1.8,0.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower"="center" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,1.8,0.5)" scale="height(1.5)" direction="270" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower"=center "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,1.8,-0.5)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower"=center "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,1.8,-0.5)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+<!-- center PANEL B POSITION 1 -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel:upper"=center "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.9,0.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel:upper"="center" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.9,0.5)" scale="height(1.5)" direction="270" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel:upper"=center "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.9,-0.5)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel:upper"=center "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.9,-0.5)" scale="height(1.5)" direction="90" offset="5" />
+
+<!-- center PANEL B POSITION 2 -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel"=center "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.7,0.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel"="center" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.7,0.5)" scale="height(1.5)" direction="270" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel"=center "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.7,-0.5)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel"=center "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.7,-0.5)" scale="height(1.5)" direction="90" offset="5" />
+<!-- center PANEL B POSITION 3 -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel:lower"=center "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.4,0.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel:lower"="center" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.4,0.5)" scale="height(1.5)" direction="270" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel:lower"=center "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.4,-0.5)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower_panel:lower"=center "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
+translate="vector(0.01,0.4,-0.5)" scale="height(1.5)" direction="90" offset="5" />  
+ 
+ 
  
   <!-- ARROWS --> 
 <!-- panel A POSITION 1 arrow test s230 slight_left -->
