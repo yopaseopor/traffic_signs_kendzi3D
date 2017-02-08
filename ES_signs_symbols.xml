@@ -6,121 +6,121 @@
 <!-- Z -->
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:slight_left:upper"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,4.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,4.2,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:slight_left"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,3.7,1.5)" scale="height(1.5)" direction="270" offset="5" />	
+translate="vector(-0.50,3.7,1.2)" scale="height(1.5)" direction="270" offset="5" />	
 		
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:slight_left:lower"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,3.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,3.2,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <!-- ES:CAT:s200 LEFT  La Magdalena-Signals forward side=right-->	
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_stop_left:upper"="Plaza Basilio Paraíso" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_plaza_basilio_paraiso.png"
-translate="vector(0.1,4.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,4.2,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_stop_left"="Plaza Basilio Paraíso" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_plaza_basilio_paraiso.png"
-translate="vector(0.1,3.7,1.5)" scale="height(1.5)" direction="270" offset="5" />	
+translate="vector(-0.50,3.7,1.2)" scale="height(1.5)" direction="270" offset="5" />	
 		
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_stop_left:lower"="Plaza Basilio Paraíso" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_plaza_basilio_paraiso.png"
-translate="vector(0.1,3.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,3.2,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <!-- ES:CAT:s200 LEFT  La Magdalena-Signals forward side=right-->	
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:left:upper"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,2.7,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,2.7,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:left"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,2.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,2.2,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:left:lower"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,1.7,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,1.7,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:sharp_left:upper"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,2.7,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,2.7,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:sharp_left"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,2.2,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,2.2,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:sharp_left:lower"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,1.7,1.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,1.7,1.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <!-- CENTER - ARROW - ES:CAT:s200  Test-Signals forward side=right -->
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:through:upper"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,4.2,3.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,4.2,3.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:through"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,3.7,3.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,3.7,3.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:through:lower"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,3.2,3.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,3.2,3.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <!-- CENTER - ARROW - ES:CAT:s200  La Magdalena forward side=right -->
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_through:upper"="La Magdalena" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_la_magdalena.png"
-translate="vector(0.1,4.2,3.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,4.2,3.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:through"="La Magdalena" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_la_magdalena.png"
-translate="vector(0.1,3.7,3.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,3.7,3.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:through:lower"="La Magdalena" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_la_magdalena.png"
-translate="vector(0.1,3.2,3.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,3.2,3.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <!-- RIGHT - ES:CAT:s200  Test-Signals forward side=right -->
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:slight_right:upper"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,4.2,5.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,4.2,5.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:slight_right"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,3.7,5.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,3.7,5.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:slight_right:lower"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,3.2,5.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,3.2,5.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:right:upper"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,2.7,5.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,2.7,5.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:right"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,2.2,5.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,2.2,5.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:right:lower"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,1.7,5.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,1.7,5.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:sharp_right:upper"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,2.7,5.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,2.7,5.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:sharp_right"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,2.2,5.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,2.2,5.2)" scale="height(1.5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:sharp_right:lower"="center" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
-translate="vector(0.1,1.7,5.5)" scale="height(1.5)" direction="270" offset="5" />
+translate="vector(-0.50,1.7,5.2)" scale="height(1.5)" direction="270" offset="5" />
 <!-- CENTER PANEL A POSITION 1 -->
 <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:upper"=center "traffic_sign:forward"="ES:S200" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
