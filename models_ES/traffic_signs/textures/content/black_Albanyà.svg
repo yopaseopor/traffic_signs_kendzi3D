@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="template_names (10car)_interurban.svg">
+   sodipodi:docname="black_Aiguafreda.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,13 +29,13 @@
      inkscape:cx="214.22535"
      inkscape:cy="178.14286"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g3359"
      showgrid="false"
      units="px"
      inkscape:window-width="583"
      inkscape:window-height="604"
-     inkscape:window-x="435"
-     inkscape:window-y="221"
+     inkscape:window-x="353"
+     inkscape:window-y="296"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -65,28 +65,28 @@
          id="tspan4485"
          x="6.8035707"
          y="287.17261"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:Ccrige;-inkscape-font-specification:Ccrige;stroke-width:0.26458332px">AVINYO</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:Ccrige;-inkscape-font-specification:Ccrige;stroke-width:0.26458332px">ALBANYA</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Capa 2"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:27.05911636px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-71.623566"
-       y="25.175049"
+       x="-93.612946"
+       y="25.175051"
        id="text3335"
        sodipodi:linespacing="125%"
        transform="scale(-0.99696374,1.0030455)"><tspan
          sodipodi:role="line"
          id="tspan3337"
-         x="-71.623566"
-         y="25.175049">`</tspan></text>
+         x="-93.612946"
+         y="25.175051">`</tspan></text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Capa 2 copia"
      id="g3359"
      inkscape:groupmode="layer">
@@ -94,12 +94,12 @@
        transform="scale(1.1419017,0.87573212)"
        sodipodi:linespacing="125%"
        id="text3361"
-       y="22.707451"
-       x="27.260866"
+       y="20.117781"
+       x="63.009502"
        style="font-style:normal;font-weight:normal;font-size:21.35456467px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="22.707451"
-         x="27.260866"
+         y="20.117781"
+         x="63.009502"
          id="tspan3363"
          sodipodi:role="line">`</tspan></text>
   </g>
