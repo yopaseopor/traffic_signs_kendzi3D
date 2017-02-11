@@ -4,15 +4,15 @@
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:upper"="El Vendrell" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
-translate="vector(-0.25,3.8,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3.9,-1)" scale="height(2)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination"="El Vendrell" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
-translate="vector(-0.25,3.3,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3.5,-1)" scale="height(2)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:lower"="El Vendrell" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
-translate="vector(-0.25,2.9,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3.0,-1)" scale="height(2)" direction="270" offset="8" />
 
 <!-- Traffic_signs-Destination El Vendrell ES:s235,ES:s242a  panel 3A side=up-->
 
@@ -48,15 +48,15 @@ translate="vector(-0.25,7.2,-4)" scale="height(1.8)" direction="270" offset="0" 
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:upper"="Tarragona" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
-translate="vector(-0.25,3.8,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3.9,-1)" scale="height(2)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination"="Tarragona" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
-translate="vector(-0.25,3.3,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3.5,-1)" scale="height(2)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:lower"="Tarragona" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_tarragona.png"
-translate="vector(-0.25,2.9,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3.0,-1)" scale="height(2)" direction="270" offset="8" />
 
 <!-- Traffic_signs-Destination Tarragona ES:s235,ES:s242a  panel 3A side=up-->
 
@@ -91,15 +91,15 @@ translate="vector(-0.25,7.2,-4)" scale="height(1.8)" direction="270" offset="0" 
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:upper"="Vilanova i la Geltrú" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name4Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_Vilanova_i_la_Geltru.png"
-translate="vector(-0.25,3.8,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3.9,-1)" scale="height(2)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination"="Vilanova i la Geltrú" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name4Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_Vilanova_i_la_Geltru.png"
-translate="vector(-0.25,3.3,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3.5,-1)" scale="height(2)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:lower"="Vilanova i la Geltrú" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name4Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_Vilanova_i_la_Geltru.png"
-translate="vector(-0.25,2.9,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3.0,-1)" scale="height(2)" direction="270" offset="8" />
 
 <!-- Traffic_signs-Destination Vilanova i la Geltrú ES:s235,ES:s242a  panel 3A side=up-->
 
