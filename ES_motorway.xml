@@ -235,7 +235,7 @@ translate="vector(-0.35,8.4,0)" scale="height(1.8)" direction="270" offset="3" /
 
 <wayNodeModel matcher="highway=motorway" filter='"destination:int_ref:main_panel"="E-80" side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_e80.png"
-translate="vector(-0.35,8.4,-3)" scale="height(1.8)" direction="270" offset="0" />
+translate="vector(-0.35,8.4,-4)" scale="height(1.8)" direction="270" offset="0" />
 
 
 
