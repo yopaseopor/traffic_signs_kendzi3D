@@ -3,38 +3,40 @@
 			<!-- MOTORWAY -->	<!-- MOTORWAY -->	<!-- MOTORWAY -->	<!-- MOTORWAY -->	<!-- MOTORWAY -->
 			
 <!-- Traffic_signs-ES:S225 MOTORWAY BLUE PANEL A Test-Signals -->
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S225" "panel:colour"=blue side=right' model="/models_ES/traffic_signs/s242Sign.obj"
+<wayNodeModel matcher="highway=*" filter='"traffic_sign:forward"="ES:S225" "colour:back"=blue side=right' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s242_empty.png"
+translate="vector(0,1,1)" scale="height(6)" direction="270" offset="8" />
+<!-- Z -->
+<!-- Traffic_signs-ES:S225 MOTORWAY BLUE PANEL A Test-Signals -->
+<wayNodeModel matcher="highway=*" filter='"traffic_sign:forward"="ES:S225" "colour:back"=white side=right' model="/models_ES/traffic_signs/s242Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_s230_empty.png"
 translate="vector(0,1,1)" scale="height(6)" direction="270" offset="8" />
 <!-- Z -->
 
 <!-- Traffic_signs-ES:S235 MOTORWAY BLUE PANEL A Test-Signals -->
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S235" "panel:colour"=blue side=up' model="/models_ES/traffic_signs/s242Sign.obj"
+<wayNodeModel matcher="highway=*" filter='"traffic_sign:forward"="ES:S235" "colour:back"=blue side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s242_empty.png"
 translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
 <!-- Z -->
 			
 <!-- Traffic_signs-ES:S242a MOTORWAY BLUE PANEL A-B Test-Signals -->
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour"=blue side=up' model="/models_ES/traffic_signs/s242Sign.obj"
+<wayNodeModel matcher="highway=*" filter='"traffic_sign:forward"="ES:S242a" "colour:back"=blue side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s242_empty.png"
 translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
 <!-- Z -->	
-
-
-<!-- Z --> 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=blue side=up' model="/models_ES/traffic_signs/s242Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_s242_empty.png"
-translate="vector(0,5,-3)" scale="height(6)" direction="270" offset="0" />
-
-<!-- Traffic_signs-ES:S242a MOTORWAY BLUE PANEL A-B Test-Signals -->
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour"=white side=up' model="/models_ES/traffic_signs/s242wSign.obj"
+<!-- Traffic_signs-ES:S242a MOTORWAY WHITE PANEL A-B Test-Signals -->
+<wayNodeModel matcher="highway=*" filter='"traffic_sign:forward"="ES:S242a" "colour:back"=white side=up' model="/models_ES/traffic_signs/s242wSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s230_empty.png"
 translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
 <!-- Z -->	
 
+<!-- Traffic_signs-ES:S242a MOTORWAY MAIN PANEL BLUE PANEL Test-Signals -->
+<wayNodeModel matcher="highway=*" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=blue side=up' model="/models_ES/traffic_signs/s242Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_s242_empty.png"
+translate="vector(0,5,-3)" scale="height(6)" direction="270" offset="0" />
 
 <!-- Z --> 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=white side=up' model="/models_ES/traffic_signs/s242wSign.obj"
+<wayNodeModel matcher="highway=*" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=white side=up' model="/models_ES/traffic_signs/s242wSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_s230_empty.png"
 translate="vector(0,5,-3)" scale="height(6)" direction="270" offset="0" />
 
@@ -180,25 +182,25 @@ translate="vector(-0.25,8.4,0)" scale="height(1.8)" direction="270" offset="3" /
 
 <!-- PANEL 3B Traffic_signs-Destination ref:colour up ES:S235,ES:242a-->
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:main_panel:colour"=blue side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"ref:main_colour:back"=blue side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/blue_ref.png"
 translate="vector(-0.25,8.4,-4)" scale="height(1.8)" direction="270" offset="0" />
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:main_panel:colour"=green side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"ref:main_colour:back"=green side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/green_ref.png"
 translate="vector(-0.25,8.4,-4)" scale="height(1.8)" direction="270" offset="0" />
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:main_panel:colour"=red side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"ref:main_colour:back"=red side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/red_ref.png"
 translate="vector(-0.25,8.4,-4)" scale="height(1.8)" direction="270" offset="0" />
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:main_panel:colour"=yellow side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"ref:main_colour:back"=yellow side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/yellow_ref.png"
 translate="vector(-0.25,8.4,-4)" scale="height(1.8)" direction="270" offset="0" />
 
 <!-- PANEL A Traffic_signs-Destination int_ref:colour=green PANEL 3B up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"int_ref:main_panel:colour"=green side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"int_ref:main_colour:back"=green side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/green_ref.png"
 translate="vector(-0.25,8.4,-3)" scale="height(1.8)" direction="270" offset="0" />
 
@@ -267,73 +269,73 @@ translate="vector(5.5,12,0)" scale="height(4)" direction="270" offset="8" />
 
 <!-- ES:S242a Traffic_signs-Destination panel 3A arrows through junction sign side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour"=white "turn:destination"="through" lanes=3  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back"=white "turn:destination"="through" lanes=3  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_3_through.png"
 translate="vector(-0.35,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour"=white  "turn:destination"="through" lanes=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back"=white  "turn:destination"="through" lanes=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_2_through.png"
 translate="vector(-0.35,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour"=white  "turn:destination"="through" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back"=white  "turn:destination"="through" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_1_through.png"
 translate="vector(-0.35,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
 <!-- ES:S242a Traffic_signs-Destination panel 3A arrows right junction sign side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour"=white  "turn:destination"="right" lanes=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back"=white  "turn:destination"="right" lanes=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_2_right.png"
 translate="vector(-0.35,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour"=white  "turn:destination"="right" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back"=white  "turn:destination"="right" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_1_right.png"
 translate="vector(-0.35,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
 <!-- ES:S242a Traffic_signs-Destination panel 3A arrows left junction sign side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour"=white  "turn:destination"="left" lanes=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back"=white  "turn:destination"="left" lanes=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_2_left.png"
 translate="vector(-0.35,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour"=white  "turn:destination"="left" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back"=white  "turn:destination"="left" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_1_left.png"
 translate="vector(-0.35,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
 <!-- ES:S242a Traffic_signs-Destination panel 3B arrows through junction sign side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=blue "turn:destination:main_panel"="through" "lanes:main_panel"=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=blue "turn:destination:main_panel"="through" "lanes:main_panel"=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_1_through.png"
 translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=blue "turn:destination:main_panel"="through" "lanes:main_panel"=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=blue "turn:destination:main_panel"="through" "lanes:main_panel"=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_2_through.png"
 translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=blue "turn:destination:main_panel"="through" "lanes:main_panel"=3  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=blue "turn:destination:main_panel"="through" "lanes:main_panel"=3  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_3_through.png"
 translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=blue "turn:destination:main_panel"="through" "lanes:main_panel"=4  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=blue "turn:destination:main_panel"="through" "lanes:main_panel"=4  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_4_through.png"
 translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 
 <!-- ES:S242a Traffic_signs-Destination panel 3B arrows right junction sign side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=blue "turn:destination:main_panel"="right" "lanes:main_panel"=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=blue "turn:destination:main_panel"="right" "lanes:main_panel"=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_1_right.png"
 translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=blue "turn:destination:main_panel"="right" "lanes:main_panel"=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=blue "turn:destination:main_panel"="right" "lanes:main_panel"=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_2_right.png"
 translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 
 <!-- ES:S242a Traffic_signs-Destination panel 3B arrows left junction sign side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=blue "turn:destination:main_panel"="left" "lanes:main_panel"=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=blue "turn:destination:main_panel"="left" "lanes:main_panel"=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_1_left.png"
 translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "panel:colour:main_panel"=blue "turn:destination:main_panel"="left" "lanes:main_panel"=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S242a" "colour:back:main_panel"=blue "turn:destination:main_panel"="left" "lanes:main_panel"=2  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_2_left.png"
 translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 

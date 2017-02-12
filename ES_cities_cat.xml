@@ -4,16 +4,16 @@
 <!-- Traffic_signs-name city_limit --> 
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Abella de la Conca" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Abella de la Conca.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Abella de la Conca" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Abella de la Conca.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
 <wayNodeModel matcher="-highway=motorway" filter='name="Abella de la Conca" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Abella de la Conca.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Abella de la Conca" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Abella de la Conca.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Abrera" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -30,16 +30,16 @@ modelParameter="material.mat_sign.texture0=textures/content/black_Abrera.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Àger" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Àger.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Ager.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Àger" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Àger.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Ager.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
 <wayNodeModel matcher="-highway=motorway" filter='name="Àger" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Àger.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Ager.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Àger" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Àger.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Ager.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Agramunt" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -56,16 +56,16 @@ modelParameter="material.mat_sign.texture0=textures/content/black_Agramunt.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Aguilar de Segarra" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Aguilar de Segarra.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Aguilar_de_Segarra.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Aguilar de Segarra" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Aguilar de Segarra.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Aguilar_de_Segarra.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
 <wayNodeModel matcher="-highway=motorway" filter='name="Aguilar de Segarra" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Aguilar de Segarra.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Aguilar_de_Segarra.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Aguilar de Segarra" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Aguilar de Segarra.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Aguilar_de_Segarra.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Agullana" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -95,16 +95,16 @@ modelParameter="material.mat_sign.texture0=textures/content/black_Aiguafreda.png
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Aiguamúrcia" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Aiguamúrcia.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Aiguamurcia.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Aiguamúrcia" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Aiguamúrcia.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Aiguamurcia.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
 <wayNodeModel matcher="-highway=motorway" filter='name="Aiguamúrcia" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Aiguamúrcia.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Aiguamurcia.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Aiguamúrcia" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Aiguamúrcia.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Aiguamurcia.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Aiguaviva" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -134,68 +134,68 @@ modelParameter="material.mat_sign.texture0=textures/content/black_Aitona.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="els Alamús" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_els Alamús.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_els_Alamus.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="els Alamús" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_els Alamús.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_els_Alamus.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
 <wayNodeModel matcher="-highway=motorway" filter='name="els Alamús" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_els Alamús.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_els_Alamus.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="els Alamús" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_els Alamús.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_els_Alamus.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Alàs i Cerc" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Alàs i Cerc.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Alas_i_Cerc.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Alàs i Cerc" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Alàs i Cerc.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Alas_i_Cerc.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
 <wayNodeModel matcher="-highway=motorway" filter='name="Alàs i Cerc" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Alàs i Cerc.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Alas_i_Cerc.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Alàs i Cerc" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Alàs i Cerc.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Alas_i_Cerc.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
-<wayNodeModel matcher="-highway=motorway" filter='name="l%27Albagés" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l%27Albagés.png"
+<wayNodeModel matcher="-highway=motorway" filter='name="l&apos;Albagés" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_Albages.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
-<wayNodeModel matcher="-highway=motorway" filter='name="l%0x27Albagés" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l%27Albagés.png"
+<wayNodeModel matcher="-highway=motorway" filter='name="l&apos;Albagés" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_Albages.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
-<wayNodeModel matcher="-highway=motorway" filter='name="l%27Albagés" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l%27Albagés.png"
+<wayNodeModel matcher="-highway=motorway" filter='name="l&apos;Albagés" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_Albages.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
-<wayNodeModel matcher="-highway=motorway" filter='name="l%27Albagés" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l%27Albagés.png"
+<wayNodeModel matcher="-highway=motorway" filter='name="l&apos;Albagés" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_Albages.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Albanyà" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Albanyà.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Albanya.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Albanyà" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Albanyà.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Albanya.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
 <wayNodeModel matcher="-highway=motorway" filter='name="Albanyà" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Albanyà.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Albanya.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Albanyà" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Albanyà.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Albanya.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Albatàrrec" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Albatàrrec.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Albatarrec.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Albatàrrec" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Albatàrrec.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Albatarrec.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
 <wayNodeModel matcher="-highway=motorway" filter='name="Albatàrrec" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Albatàrrec.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Albatarrec.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Albatàrrec" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Albatàrrec.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Albatarrec.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Albesa" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -280,13 +280,13 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 modelParameter="material.mat_sign.texture0=textures/content/black_Alcanó.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Alcanó" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Alcanó.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Alcano.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
 <wayNodeModel matcher="-highway=motorway" filter='name="Alcanó" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Alcanó.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Alcano.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 <wayNodeModel matcher="-highway=motorway" filter='name="Alcanó" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_Alcanó.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_Alcano.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
 <wayNodeModel matcher="-highway=motorway" filter='name="Alcarràs" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
