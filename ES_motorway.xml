@@ -101,7 +101,7 @@ translate="vector(0,1,1)" scale="height(6)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:upper"="fuel" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_fuel.png"
-translate="vector(-0.25,4,-0.5)" scale="height(1.6)" direction="270" offset="8" />
+translate="vector(-0.25,3.5,-0.5)" scale="height(1.6)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:symbol"="car_repair" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_car_repair.png"
@@ -109,7 +109,7 @@ translate="vector(-0.25,3.5,0.0)" scale="height(1.6)" direction="270" offset="8"
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower"="hotel" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_hotel.png"
-translate="vector(-0.25,3,1)" scale="height(1.6)" direction="270" offset="8" />
+translate="vector(-0.25,3.5,1)" scale="height(1.6)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower"="restaurant" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
