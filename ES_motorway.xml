@@ -112,8 +112,8 @@ modelParameter="material.mat_sign.texture0=textures/content/sign_hotel.png"
 translate="vector(-0.25,3.5,1)" scale="height(1.6)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower"="restaurant" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
-translate="vector(-0.25,3,0.5)" scale="height(1.6)" direction="270" offset="8" />
+modelParameter="material.mat_sign.texture0=textures/content/sign_restaurant.png"
+translate="vector(-0.25,3.5,0.5)" scale="height(1.6)" direction="270" offset="8" />
 
 <!--  Traffic_signs-Destination sign=sud side=right-->
 
