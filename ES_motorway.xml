@@ -107,11 +107,11 @@ modelParameter="material.mat_sign.texture0=textures/content/sign_black_car_repai
 translate="vector(-0.25,3.0,-1.0)" scale="height(1.6)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower"="hotel" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/sign_black_black_hotel.png"
+modelParameter="material.mat_sign.texture0=textures/content/sign_black_hotel.png"
 translate="vector(-0.25,3.0,-0.5)" scale="height(1.6)" direction="270" offset="8" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower"="restaurant" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/sign_black_black_restaurant.png"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lowest"="restaurant" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/sign_black_restaurant.png"
 translate="vector(-0.25,3.0,0.0)" scale="height(1.6)" direction="270" offset="8" />
 
 <!--  Traffic_signs-Destination sign=sud side=right-->
