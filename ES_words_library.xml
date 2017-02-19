@@ -6535,4 +6535,64 @@ translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="-5" /
 modelParameter="material.mat_sign.texture0=textures/content/black_zona_de_vol.png"
 translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
+
+<!-- ES:CAT:s200 LEFT  Plaza Basilio Paraíso-Signals backward side=left-->	
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_stop_left:upper"="Plaza Basilio Paraíso" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_plaza_basilio_paraiso.png"
+translate="vector(-0.25,4.2,2.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_stop_left"="Plaza Basilio Paraíso" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_plaza_basilio_paraiso.png"
+translate="vector(-0.25,3.7,2.5)" scale="height(1.5)" direction="270" offset="5" />	
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_stop_left:lower"="Plaza Basilio Paraíso" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_plaza_basilio_paraiso.png"
+translate="vector(-0.25,3.2,2.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<!-- CENTER - ARROW - ES:CAT:s200  La Magdalena backward side=left -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_through:upper"="La Magdalena" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_magdalena.png"
+translate="vector(-0.25,4.2,4.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:through"="La Magdalena" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_magdalena.png"
+translate="vector(-0.25,3.7,4.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:through:lower"="La Magdalena" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_magdalena.png"
+translate="vector(-0.25,3.2,4.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<!-- ES:CAT:s200 LEFT  Plaza Basilio Paraíso-Signals forward side=right-->	
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_stop_left:upper"="Plaza Basilio Paraíso" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_plaza_basilio_paraiso.png"
+translate="vector(-0.25,4.2,2.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_stop_left"="Plaza Basilio Paraíso" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_plaza_basilio_paraiso.png"
+translate="vector(-0.25,3.7,2.5)" scale="height(1.5)" direction="270" offset="5" />	
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_stop_left:lower"="Plaza Basilio Paraíso" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_plaza_basilio_paraiso.png"
+translate="vector(-0.25,3.2,2.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<!-- CENTER - ARROW - ES:CAT:s200  La Magdalena forward side=right -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:tram_through:upper"="La Magdalena" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_magdalena.png"
+translate="vector(-0.25,4.2,4.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:through"="La Magdalena" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_magdalena.png"
+translate="vector(-0.25,3.7,4.5)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:through:lower"="La Magdalena" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_la_magdalena.png"
+translate="vector(-0.25,3.2,4.5)" scale="height(1.5)" direction="270" offset="5" />
+
+
+
+
 </modelsLibrary> 
