@@ -1,9 +1,10 @@
 # traffic_signs_kendzi3D
 traffic_signs_kendzi3d plugin
 To make it work in JOSM Kendzi3D plug-in you have to:
+
 -Go to 3D > Models library
+
 -add the URL of the xml models file you want ( I recommend...all of this you can find here)
-<<<<<<< HEAD
 
 https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/ES_words_library.xml
 
@@ -31,7 +32,5 @@ https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/2_tra
 
 https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/2_UP_traffic_signs.xml
 
-=======
->>>>>>> parent of 30365ad... Update README.md
 -There it is!
 
