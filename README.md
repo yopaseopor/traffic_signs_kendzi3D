@@ -26,8 +26,6 @@ https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/ES_ot
 
 https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/ES_traffic_signs.xml
 
-https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/UP_traffic_signs.xml
-
 https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/US_traffic_signs.xml
 
 https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/2_traffic_signs.xml
