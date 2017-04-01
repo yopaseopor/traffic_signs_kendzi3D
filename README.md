@@ -1,10 +1,18 @@
 # traffic_signs_kendzi3D
 traffic_signs_kendzi3d plugin
-To make it work in JOSM Kendzi3D plug-in you have to:
 
--Go to 3D > Models library
+===Kendzi3D plug-in for JOSM===
 
--add the URL of the xml models file you want ( I recommend...all of this you can find here)
+Kendzi3D JOSM plug-in has a set up and configuration files showing generic +9000 traffic signs of the 35 countries [https://wiki.openstreetmap.org/wiki/Proposed_features/Extended_traffic_signs_tagging#Traffic_signs_presets mentioned above].
+Depends of the country will show you more or less information. Also we split the models into files to assure the content is shown in a good way.
+
+To make it work install Kendzi3D plug-in in JOSM. Then go to 3D > Models library and add these URL files choosing the zone or the country:
+
+====Spain====
+
+For Spain it shows you the generic traffic signs and also it shows specific destination traffic signs. It has the possibility to adapt Spanish panels positions to other destination signs' countries. 
+
+To see it you have to add these models to your Kendzi3D library:
 
 https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/ES_words_library.xml
 
@@ -26,13 +34,30 @@ https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/ES_ot
 
 https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/ES_traffic_signs.xml
 
-https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/US_traffic_signs.xml
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/ES_2_traffic_signs.xml
 
-https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/UP_traffic_signs.xml
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/ES_3_traffic_signs.xml
 
-https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/2_traffic_signs.xml
+All a concrete reference or destination has to be done, but it can be batch done. 
 
-https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/2_UP_traffic_signs.xml
+====America====
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/AME_traffic_signs.xml
+
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/AME_2_traffic_signs.xml
+
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/AME_UP_traffic_signs.xml
+
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/AME_2_UP_traffic_signs.xml
+
+====Rest of the world====
+
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/EUR_traffic_signs.xml
+
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/EUR_2_traffic_signs.xml
+
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/EUR_UP_traffic_signs.xml
+
+https://raw.githubusercontent.com/yopaseopor/traffic_signs_kendzi3D/master/EUR_2_UP_traffic_signs.xml
 
 -There it is!
 
