@@ -283,53 +283,53 @@ translate="vector(-0.25,9.5,-2)" scale="height(1.8)" direction="270" offset="3" 
 
 
 
-<!-- PANEL A Traffic_signs-Destination ref:colour=yellow PANEL A right-->
+<!-- PANEL A Traffic_signs-Destination colour:ref=yellow PANEL A right-->
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:colour"=green side=right' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"colour:ref"=green side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/green_ref.png"
 translate="vector(-0.25,4.3,-0.5)" scale="height(1.8)" direction="270" offset="8" />
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:colour"=red side=right' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"colour:ref"=red side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/red_ref.png"
 translate="vector(-0.25,4.3,-0.5)" scale="height(1.8)" direction="270" offset="8" />
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:colour"=yellow side=right' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"colour:ref"=yellow side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/yellow_ref.png"
 translate="vector(-0.25,4.3,-0.5)" scale="height(1.8)" direction="270" offset="8" />
 
-<!-- PANEL A Traffic_signs-Destination int_ref:colour=green PANEL A right-->
+<!-- PANEL A Traffic_signs-Destination colour:int_ref=green PANEL A right-->
 
-<wayNodeModel matcher="highway=motorway" filter='"int_ref:colour"=green side=right' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"colour:int_ref"=green side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/green_ref.png"
 translate="vector(-0.25,4.3,1)" scale="height(1.8)" direction="270" offset="8" />
 
 
-<!-- PANEL A Traffic_signs-Destination ref:colour PANEL 3A up ES:S235,ES:242a-->
+<!-- PANEL A Traffic_signs-Destination colour:ref PANEL 3A up ES:S235,ES:242a-->
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:colour"=blue side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"colour:ref"=blue side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/blue_ref.png"
 translate="vector(-0.25,8.4,-1.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:colour"=green side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"colour:ref"=green side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/green_ref.png"
 translate="vector(-0.25,8.4,-1.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:colour"=red side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"colour:ref"=red side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/red_ref.png"
 translate="vector(-0.25,8.4,-1.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"ref:colour"=yellow side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"colour:ref"=yellow side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/yellow_ref.png"
 translate="vector(-0.25,8.4,-1.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<!-- PANEL A Traffic_signs-Destination int_ref:colour=green PANEL 3A up-->
+<!-- PANEL A Traffic_signs-Destination colour:int_ref=green PANEL 3A up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"int_ref:colour"=green side=up' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"colour:int_ref"=green side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/green_ref.png"
 translate="vector(-0.25,8.4,0)" scale="height(1.8)" direction="270" offset="3" />
 
 
-<!-- PANEL 3B Traffic_signs-Destination ref:colour up ES:S235,ES:242a-->
+<!-- PANEL 3B Traffic_signs-Destination colour:ref up ES:S235,ES:242a-->
 
 <wayNodeModel matcher="highway=motorway" filter='"ref:main_colour:back"=blue side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/blue_ref.png"
@@ -347,7 +347,7 @@ translate="vector(-0.25,8.4,-4)" scale="height(1.8)" direction="270" offset="0" 
 modelParameter="material.mat_sign.texture0=textures/content/yellow_ref.png"
 translate="vector(-0.25,8.4,-4)" scale="height(1.8)" direction="270" offset="0" />
 
-<!-- PANEL A Traffic_signs-Destination int_ref:colour=green PANEL 3B up-->
+<!-- PANEL A Traffic_signs-Destination colour:int_ref=green PANEL 3B up-->
 
 <wayNodeModel matcher="highway=motorway" filter='"int_ref:main_colour:back"=green side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/green_ref.png"
