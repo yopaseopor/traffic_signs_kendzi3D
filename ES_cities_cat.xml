@@ -2,70 +2,70 @@
 <!-- A -->
 <!-- WORDS -->	
 <!-- Traffic_signs-name Abella de la Conca city_limit test --> 
- <wayNodeModel matcher="-highway=motorway" filter='name="Abell\' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="-highway=motorway" filter='name="Abell'' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='name="Abell\' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='name="Abell'' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
- <wayNodeModel matcher="-highway=motorway" filter='name="Abell\' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="-highway=motorway" filter='name="Abell'' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='name="Abell\' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='name="Abell'' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 1 test -->
- <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Abell\' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Abell'' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="5" />
 
- <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Abell\' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Abell'' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Abell\' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Abell'' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Abell\' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Abell'' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
  <!-- Traffic_signs-name panel A position 2 test -->
-<wayNodeModel matcher="-highway=motorway" filter='"destination"="Abell\' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Abell'' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination"="Abell\' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Abell'' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination"="Abell\' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Abell'' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination"="Abell\' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Abell'' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
-  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abell\' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abell'' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abell\' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abell'' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abell\' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abell'' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abell\' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abell'' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="5" />
 
@@ -74,73 +74,73 @@ translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z --> 
  
 <!-- Traffic_signs-name Abella de la Conca city_limit PANEL B test --> 
- <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Abell\' de la Conca" "traffic_sign:2:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Abell'' de la Conca" "traffic_sign:2:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Abell\' de la Conca" "traffic_sign:2:backward"=* side=left' model="/models_ES/traffic_signs/name3Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Abell'' de la Conca" "traffic_sign:2:backward"=* side=left' model="/models_ES/traffic_signs/name3Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
- <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Abell\' de la Conca" "traffic_sign:2:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Abell'' de la Conca" "traffic_sign:2:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Abell\' de la Conca" "traffic_sign:2:backward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Abell'' de la Conca" "traffic_sign:2:backward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="5" />
 
 <!-- Z -->
   <!-- Traffic_signs-name panel B position 1 test NORMAL -->
- <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Abell\' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Abell'' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="5" />
 
- <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Abell\' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Abell'' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Abell\' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Abell'' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Abell\' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Abell'' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="5" />
 
 
 <!-- Z -->
  <!-- Traffic_signs-name panel B position 2 test -->
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Abell\' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Abell'' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
 	
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Abell\' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Abell'' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
 	
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Abell\' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Abell'' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Abell\' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Abell'' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel B position 3 test -->
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Abell\' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Abell'' de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Abell\' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Abell'' de la Conca" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Abell\' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Abell'' de la Conca" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Abell\' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Abell'' de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
@@ -11693,16 +11693,16 @@ translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- WORDS -->	
 <!-- Traffic_signs-name city_limit --> 
  
-<wayNodeModel matcher="-highway=motorway" filter='name="Abell\' de la Conca" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='name="Abell'' de la Conca" "traffic_sign:forward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
-<wayNodeModel matcher="-highway=motorway" filter='name="Abell\' de la Conca" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='name="Abell'' de la Conca" "traffic_sign:backward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /> 
-<wayNodeModel matcher="-highway=motorway" filter='name="Abell\' de la Conca" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='name="Abell'' de la Conca" "traffic_sign:forward"="ES:S500" side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
-<wayNodeModel matcher="-highway=motorway" filter='name="Abell\' de la Conca" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='name="Abell'' de la Conca" "traffic_sign:backward"="ES:S500" side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
  
