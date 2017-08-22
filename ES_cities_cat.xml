@@ -5533,145 +5533,145 @@ translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
 <!-- Traffic_signs-name L&quot;Arboç city_limit test --> 
  <wayNodeModel matcher="-highway=motorway" filter='name="L&quot;Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 		
 <wayNodeModel matcher="-highway=motorway" filter='name="L&quot;Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
- <wayNodeModel matcher="-highway=motorway" filter='name="L`Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+ <wayNodeModel matcher="-highway=motorway" filter='name="L&quot;Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='name="L`Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='name="L&quot;Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 1 test -->
- <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="L`Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="L&quot;Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="5" />
 
- <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="L`Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="L&quot;Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="L`Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="L&quot;Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="L`Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="L&quot;Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
  <!-- Traffic_signs-name panel A position 2 test -->
-<wayNodeModel matcher="-highway=motorway" filter='"destination"="L`Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="L&quot;Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination"="L`Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="L&quot;Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination"="L`Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="L&quot;Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination"="L`Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="L&quot;Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
-  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L`Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L&quot;Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="5" />
 
-  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L`Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L&quot;Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L`Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L&quot;Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L`Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L&quot;Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="5" />
 
 
 <!-- Z -->
 <!-- Z --> 
  
-<!-- Traffic_signs-name L`Arboç city_limit PANEL B test --> 
- <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="L`Arboç" "traffic_sign:2:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<!-- Traffic_signs-name L&quot;Arboç city_limit PANEL B test --> 
+ <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="L&quot;Arboç" "traffic_sign:2:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="L`Arboç" "traffic_sign:2:backward"=* side=left' model="/models_ES/traffic_signs/name3Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="L&quot;Arboç" "traffic_sign:2:backward"=* side=left' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
- <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="L`Arboç" "traffic_sign:2:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+ <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="L&quot;Arboç" "traffic_sign:2:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="L`Arboç" "traffic_sign:2:backward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="L&quot;Arboç" "traffic_sign:2:backward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="5" />
 
 <!-- Z -->
   <!-- Traffic_signs-name panel B position 1 test NORMAL -->
- <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="L`Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="L&quot;Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="5" />
 
- <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="L`Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="L&quot;Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="L`Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="L&quot;Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="L`Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="L&quot;Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="5" />
 
 
 <!-- Z -->
  <!-- Traffic_signs-name panel B position 2 test -->
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="L`Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="L&quot;Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
 	
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="L`Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="L&quot;Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
 	
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="L`Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="L&quot;Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="L`Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="L&quot;Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel B position 3 test -->
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="L`Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="L&quot;Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="L`Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="L&quot;Arboç" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="-5" />
 		
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="L`Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="L&quot;Arboç" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="L`Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/black_l_Arboç.png"
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="L&quot;Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
 translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
 <!-- Z -->
