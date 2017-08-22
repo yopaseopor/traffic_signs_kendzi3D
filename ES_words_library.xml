@@ -937,6 +937,139 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <!-- EEEEEEEEEEEEEEEEEEEEEEEEEEEE --> <!-- Z -->
 
+<!-- Traffic_signs-name Església de Castellet city_limit test --> 
+ <wayNodeModel matcher="-highway=motorway" filter='name="Església de Castellet" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='name="Església de Castellet" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Església de Castellet" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Església de Castellet" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Església de Castellet" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Església de Castellet" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Església de Castellet" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Església de Castellet" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Església de Castellet" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Església de Castellet" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Església de Castellet" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Església de Castellet" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Església de Castellet" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Església de Castellet" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="5" />
+
+<!-- Z -->
+<!-- Z --> 
+
+
+
+<!-- Traffic_signs-name Església de Castellet city_limit PANEL B test --> 
+ <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Església de Castellet" "traffic_sign:2:forward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Església de Castellet" "traffic_sign:2:backward"=* side=left' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Església de Castellet" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Església de Castellet" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Església de Castellet" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Església de Castellet" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-5,1.3,0)" scale="height(1.9)" direction="270" offset="5" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Església de Castellet" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
+	
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Església de Castellet" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
+	
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Església de Castellet" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Església de Castellet" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Església de Castellet" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Església de Castellet" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Església de Castellet" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Església de Castellet" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_esglesia_de_castellet.png"
+translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+
+
 <!-- Traffic_signs-name Estació city_limit test --> 
  <wayNodeModel matcher="-highway=motorway" filter='name="Estació" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_estacio.png"
