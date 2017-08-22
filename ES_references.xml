@@ -1153,4 +1153,25 @@ translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" /
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="L-910" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
 translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" /> 
+
+<!-- Traffic_signs-Destination Test-Ref N-340 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"=N-340 "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"=N-340 "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"=N-340 "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />	
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"=N-340 "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+
+
 </modelsLibrary>
