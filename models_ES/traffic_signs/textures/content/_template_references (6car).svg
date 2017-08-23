@@ -14,8 +14,11 @@
    viewBox="0 0 111.12499 31.750001"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.0 r15299"
-   sodipodi:docname="template_references (6car).svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="_template_references (6car).svg"
+   inkscape:export-filename="C:\a\GitHub\traffic_signs_kendzi3D\models_ES\traffic_signs\textures\content\white_n420.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -32,8 +35,8 @@
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
-     inkscape:window-width="1280"
-     inkscape:window-height="940"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,14 +60,14 @@
      transform="translate(0,0.26458333)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Ccrige;-inkscape-font-specification:Ccrige;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="11.43913"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458349px;font-family:Ccrige;-inkscape-font-specification:Ccrige;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.604317"
        y="24.611536"
        id="text4502"><tspan
          sodipodi:role="line"
          id="tspan4500"
-         x="11.43913"
+         x="58.604317"
          y="24.611536"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:Ccrige;-inkscape-font-specification:Ccrige;fill:#000000;stroke-width:0.26458332px">LV-9311</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:Ccrige;-inkscape-font-specification:Ccrige;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458332px">BV-2115</tspan></text>
   </g>
 </svg>

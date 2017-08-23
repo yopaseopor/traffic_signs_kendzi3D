@@ -5337,69 +5337,9 @@ translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" /
 modelParameter="material.mat_sign.texture0=textures/content/black_499.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 
+	
 
 
-
-<!-- Traffic_signs-Milestone REFERENCES -->
-
-<!-- BV-2115 -->
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2115 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_bv2115.png"
-translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2115 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_bv2115.png"
-translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
-
-<!-- BV-2116 -->
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2116 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_bv2116.png"
-translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2116 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_bv2116.png"
-translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
-<!-- BV-2117 -->
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2117 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_bv2117.png"
-translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2117 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_bv2117.png"
-translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
-
-<!-- C-12 -->
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-12 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
-translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-12 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
-translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
-
-<!-- C-14 -->
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-14 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
-translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-14 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
-translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />	
-
-<!-- L-910 -->
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=L-910 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
-translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"ref"=L-910 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
-translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!-- Traffic_signs-Milestone -->
 
 </modelsLibrary>

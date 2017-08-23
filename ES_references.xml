@@ -1012,6 +1012,258 @@ translate="vector(0.10,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" /
 modelParameter="material.mat_sign.texture0=textures/content/white_cami.png"
 translate="vector(0.10,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
 
+<!-- Traffic_signs-Destination Ref A-2 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-2" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a2.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-2" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a2.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-2" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a2.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-2" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a2.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref A-7 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-7" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a7.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-7" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a7.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-7" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a7.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-7" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a7.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref A-14 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-14" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a14.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-14" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a14.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-14" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a14.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-14" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a14.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref A-22 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-22" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a22.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-22" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a22.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-22" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a22.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-22" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a22.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref A-26 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-26" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a26.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-26" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a26.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-26" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a26.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-26" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a26.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref A-27 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-27" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a27.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-27" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a27.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-27" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a27.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="A-27" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_a27.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref B-10 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-10" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b10.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-10" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b10.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-10" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b10.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-10" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b10.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref B-20 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-20" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b20.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-20" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b20.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-20" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b20.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-20" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b20.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref B-21 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-21" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b21.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-21" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b21.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-21" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b21.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-21" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b21.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref B-22 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-22" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b22.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-22" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b22.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-22" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b22.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-22" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b22.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref B-23 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-23" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b23.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-23" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b23.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-23" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b23.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-23" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b23.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref B-24 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-24" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b24.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-24" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b24.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-24" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b24.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-24" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b24.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref B-30 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-30" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b30.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-30" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b30.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-30" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b30.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-30" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b30.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref B-40 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-40" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b40.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-40" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b40.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-40" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b40.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="B-40" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_b40.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
 <!-- Traffic_signs-Destination Ref BV-2115 -->
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="BV-2115" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
@@ -1029,6 +1281,16 @@ translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" /
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="BV-2115" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_bv2115.png"
 translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- milestoneBV-2115 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2115 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_bv2115.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2115 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_bv2115.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 
 <!-- Traffic_signs-Destination Ref BV-2116 -->
 
@@ -1048,6 +1310,16 @@ translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" /
 modelParameter="material.mat_sign.texture0=textures/content/white_bv2116.png"
 translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
 
+<!-- milestoneBV-2116 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2116 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_bv2116.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2116 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_bv2116.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
 <!-- Traffic_signs-Destination Ref BV-2117 -->
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="BV-2117" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
@@ -1065,6 +1337,16 @@ translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" /
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="BV-2117" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_bv2117.png"
 translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!--milestone BV-2117 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2117 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_bv2117.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=BV-2117 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_bv2117.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 		
 <!-- Traffic_signs-Destination Test-Ref C-12 -->
 
@@ -1082,6 +1364,518 @@ translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"=C-12 "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!--milestone C-12 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-12 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-12 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c12.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- Traffic_signs-Destination Ref C-13 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-13" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c13.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-13" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c13.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-13" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c13.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-13" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c13.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- milestone C-13 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-13 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c13.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-13 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c13.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- Traffic_signs-Destination Ref C-14 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-14" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-14" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-14" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-14" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- milestone C-14 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-14 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-14 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c14.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- Traffic_signs-Destination Ref C-15 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-15" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c15.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-15" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c15.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-15" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c15.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-15" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c15.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-16 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-16" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c16.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-16" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c16.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-16" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c16.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-16" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c16.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-17 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-17" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c17.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-17" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c17.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-17" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c17.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-17" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c17.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-25 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-25" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c25.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-25" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c25.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-25" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c25.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-25" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c25.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-26 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-26" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c26.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-26" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c26.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-26" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c26.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-26" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c26.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-28 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-28" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c28.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-28" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c28.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-28" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c28.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-28" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c28.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-31 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-31" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c31.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-31" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c31.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-31" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c31.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-31" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c31.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-32 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-32" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c32.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-32" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c32.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-32" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c32.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-32" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c32.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-33 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-33" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c33.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-33" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c33.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-33" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c33.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-33" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c33.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-35 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-35" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c35.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-35" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c35.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-35" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c35.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-35" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c35.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-37 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-37" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c37.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-37" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c37.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-37" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c37.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-37" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c37.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-38 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-38" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c38.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-38" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c38.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-38" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c38.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-38" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c38.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref C-42 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-42" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c42.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-42" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c42.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-42" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c42.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-42" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c42.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- milestone C-42 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-42 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c42.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-42 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c42.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- Traffic_signs-Destination Ref C-43 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-43" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c43.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-43" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c43.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-43" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c43.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-43" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c43.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- milestone C-43 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-43 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c43.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-43 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c43.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- Traffic_signs-Destination Ref C-44 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-44" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c44.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-44" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c44.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-44" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c44.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-44" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c44.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- milestone C-44 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-44 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c44.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-44 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c44.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- Traffic_signs-Destination Ref C-45 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-45" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c45.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-45" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c45.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-45" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c45.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-45" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c45.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- milestone C-45 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-45 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c45.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-45 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c45.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- Traffic_signs-Destination Ref C-51 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-51" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c51.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-51" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c51.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-51" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c51.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-51" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c51.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- milestone C-51 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-51 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c51.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-51 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c51.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- Traffic_signs-Destination Ref E-9 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-9" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e9.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-9" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e9.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-9" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e9.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-9" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e9.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref E-15 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-15" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-15" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-15" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="150" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-15" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="150" offset="5" />
+
+<!-- Traffic_signs-Destination Ref E-90 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-90" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e90.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-90" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e90.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-90" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e90.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-90" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e90.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+
+<!-- Traffic_signs-Destination Ref LL-11 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="LL-11" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_ll11.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="LL-11" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_ll11.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="LL-11" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_ll11.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="LL-11" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_ll11.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref LL-12 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="LL-12" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_ll12.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="LL-12" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_ll12.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="LL-12" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_ll12.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="LL-12" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_ll12.png"
 translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
 
 <!-- Traffic_signs-Destination Ref LV-9042 -->
@@ -1154,6 +1948,251 @@ translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" /
 modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
 translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" /> 
 
+<!-- milestone L-910 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=L-910 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=L-910 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_l910.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- Traffic_signs-Destination Ref N-II -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-II" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_nii.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-II" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_nii.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-II" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_nii.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-II" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_nii.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+
+<!-- Traffic_signs-Destination Ref N-141 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-141" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n141.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-141" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n141.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-141" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n141.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-141" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n141.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-145 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-145" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n145.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-145" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n145.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-145" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n145.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-145" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n145.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-150 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-150" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n150.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-150" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n150.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-150" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n150.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-150" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n150.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-152 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-152" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n152.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-152" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n152.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-152" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n152.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-152" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n152.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-154 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-154" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n154.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-154" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n154.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-154" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n154.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-154" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n154.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-230 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-230" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n230.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-230" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n230.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-230" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n230.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-230" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n230.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-232 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-232" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n232.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-232" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n232.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-232" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n232.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-232" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n232.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-235 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-235" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n235.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-235" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n235.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-235" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n235.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-235" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n235.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-236 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-236" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n236.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-236" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n236.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-236" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n236.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-236" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n236.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-240 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-240" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n240.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-240" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n240.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-240" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n240.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-240" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n240.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-241 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-241" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n241.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-241" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n241.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-241" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n241.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-241" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n241.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-260 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-260" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n260.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-260" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n260.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-260" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n260.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-260" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n260.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
 <!-- Traffic_signs-Destination Test-Ref N-340 -->
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"=N-340 "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
@@ -1170,6 +2209,42 @@ translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"=N-340 "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref N-420 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-420" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n420.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-420" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n420.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-420" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n420.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="N-420" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n420.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
+
+<!-- Traffic_signs-Destination Ref T-11 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="T-11" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_t11.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="T-11" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_t11.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="T-11" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_t11.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="T-11" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_t11.png"
 translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="90" offset="5" />
 
 
