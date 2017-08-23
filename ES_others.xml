@@ -26,67 +26,67 @@ translate="vector(0,0,0)" scale="height(6)" direction="90" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S300" "turn:destination"=right side=right' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_right_empty.png"
-translate="vector(0,0,0)" scale="height(7)" direction="270" offset="5" />
+translate="vector(0,0,0)" scale="height(5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S300" "turn:destination"=left side=right' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_left_empty.png"
-translate="vector(0,0,0)" scale="height(7)" direction="270" offset="5" />
+translate="vector(0,0,0)" scale="height(5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S300" "turn:destination"=right side=left' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_right_empty.png"
-translate="vector(0,0,0)" scale="height(7)" direction="270" offset="-5" />
+translate="vector(0,0,0)" scale="height(5)" direction="270" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S300" "turn:destination"=left side=left' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_left_empty.png"
-translate="vector(0,0,0)" scale="height(7)" direction="270" offset="-5" />
+translate="vector(0,0,0)" scale="height(5)" direction="270" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S300" "turn:destination"=left side=left' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_left_empty.png"
-translate="vector(0,0,0)" scale="height(7)" direction="90" offset="-5" />
+translate="vector(0,0,0)" scale="height(5)" direction="90" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S300" "turn:destination"=right side=left' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_right_empty.png"
-translate="vector(0,0,0)" scale="height(7)" direction="90" offset="-5" />
+translate="vector(0,0,0)" scale="height(5)" direction="90" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S300" "turn:destination"=left side=right' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_left_empty.png"
-translate="vector(0,0,0)" scale="height(7)" direction="90" offset="5" />
+translate="vector(0,0,0)" scale="height(5)" direction="90" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S300" "turn:destination"=right side=right' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_right_empty.png"
-translate="vector(0,0,0)" scale="height(7)" direction="90" offset="5" />
+translate="vector(0,0,0)" scale="height(5)" direction="90" offset="5" />
 <!-- Traffic_signs-ES:S300 PANEL B Test-Signals -->	
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:2:forward"="ES:S300" "turn:destination"=right side=right' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_right_empty.png"
-translate="vector(0,-1.5,0)" scale="height(7)" direction="270" offset="5" />
+translate="vector(0,-1.5,0)" scale="height(5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:2:forward"="ES:S300" "turn:destination"=left side=right' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_left_empty.png"
-translate="vector(0,-1.5,0)" scale="height(7)" direction="270" offset="5" />
+translate="vector(0,-1.5,0)" scale="height(5)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:2:forward"="ES:S300" "turn:destination"=right side=left' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_right_empty.png"
-translate="vector(0,-1.5,0)" scale="height(7)" direction="270" offset="-5" />
+translate="vector(0,-1.5,0)" scale="height(5)" direction="270" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:2:forward"="ES:S300" "turn:destination"=left side=left' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_left_empty.png"
-translate="vector(0,-1.5,0)" scale="height(7)" direction="270" offset="-5" />
+translate="vector(0,-1.5,0)" scale="height(5)" direction="270" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:2:backward"="ES:S300" "turn:destination"=left side=left' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_left_empty.png"
-translate="vector(0,-1.5,0)" scale="height(7)" direction="90" offset="-5" />
+translate="vector(0,-1.5,0)" scale="height(5)" direction="90" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:2:backward"="ES:S300" "turn:destination"=right side=left' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_right_empty.png"
-translate="vector(0,-1.5,0)" scale="height(7)" direction="90" offset="-5" />
+translate="vector(0,-1.5,0)" scale="height(5)" direction="90" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:2:backward"="ES:S300" "turn:destination"=left side=right' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_left_empty.png"
-translate="vector(0,-1.5,0)" scale="height(7)" direction="90" offset="5" />
+translate="vector(0,-1.5,0)" scale="height(5)" direction="90" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:2:backward"="ES:S300" "turn:destination"=right side=right' model="/models_ES/traffic_signs/s230Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S320_right_empty.png"
-translate="vector(0,-1.5,0)" scale="height(7)" direction="90" offset="5" />
+translate="vector(0,-1.5,0)" scale="height(5)" direction="90" offset="5" />
 
 <!-- Traffic_signs-ES:S310 PANEL A Test-Signals -->	
 
