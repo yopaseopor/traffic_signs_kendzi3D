@@ -28,11 +28,11 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.2851122"
+     inkscape:zoom="3.0300319"
      inkscape:cx="63.499995"
-     inkscape:cy="57.249999"
+     inkscape:cy="59.209703"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="1366"
@@ -49,10 +49,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 4">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.82700014;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect882"
+       width="30.345327"
+       height="30.551216"
+       x="0.66785318"
+       y="0.71575403" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -98,8 +110,8 @@
        id="rect3339"
        width="30.345327"
        height="30.551216"
-       x="1.6283766"
-       y="1.3269963" />
+       x="0.66785318"
+       y="0.71575415" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -109,39 +121,39 @@
     <ellipse
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.92296481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path17334-1-6"
-       cx="24.171894"
-       cy="17.428947"
+       cx="23.21137"
+       cy="16.817705"
        rx="1.793613"
        ry="2.5929403" />
     <ellipse
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77260351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path17334-1-6-2"
-       cx="21.286518"
-       cy="18.072309"
+       cx="20.325994"
+       cy="17.461067"
        rx="1.793613"
        ry="2.3979826" />
     <ellipse
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77260351;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path17334-1-6-6"
-       cx="20.506687"
-       cy="15.420882"
+       cx="19.546164"
+       cy="14.80964"
        rx="1.793613"
        ry="2.3979826" />
     <ellipse
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.33291483;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path17493"
-       cx="20.155762"
-       cy="14.095169"
+       cx="19.195238"
+       cy="13.483927"
        rx="0.93579799"
        ry="1.4816803" />
     <g
        id="g17512"
-       transform="matrix(1.1789581,0,0,1.1789581,-7.2163305,-0.48768241)">
+       transform="matrix(1.1789581,0,0,1.1789581,-8.1768539,-1.0989246)">
       <g
          id="g17491">
         <path
            style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.3423624;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 45.210958,98.487442 c 0,0 0.09958,-13.352052 -0.06771,-26.277052 l -0.30416,-23.5 15.58427,-19.903849 15.58427,-19.9038495 14.393704,19.3117015 16.769017,19.311701 -2.06119,20.342146 c 2.06119,-20.342146 1.00104,22.819829 0.92172,25.907005 l 0.18264,4.891512 -25.537932,-0.204208 z"
+           d="m 45.210958,98.487442 c 0,0 0.09958,-13.352052 -0.06771,-26.277052 l -0.30416,-23.5 15.58427,-19.903849 15.58427,-19.9038495 14.393704,19.3117015 16.769018,19.311701 -2.06119,20.342146 c 2.06119,-20.342146 1.00104,22.819829 0.92172,25.907005 l 0.18264,4.891512 -25.537933,-0.204208 z"
            id="path17299"
            inkscape:connector-curvature="0"
            transform="scale(0.26458333)"
@@ -242,8 +254,8 @@
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.33291483;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path17514"
-       cx="20.272736"
-       cy="15.225926"
+       cx="19.312212"
+       cy="14.614684"
        r="1.8326044" />
   </g>
 </svg>
