@@ -1570,6 +1570,16 @@ translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" /
 <wayNodeModel matcher="-highway=motorway" filter='"ref"=C-16 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_c16.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- milestone C-16 S573 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-16 "traffic_sign:forward"="ES:S573"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c16.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=C-16 "traffic_sign:backward"="ES:S573"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_c16.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!-- Traffic_signs-Destination Ref C-16C -->
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="C-16C" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
