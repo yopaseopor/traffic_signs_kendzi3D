@@ -15,6 +15,16 @@ modelParameter="material.mat_sign.texture0=textures/ES_S572_empty_red.png"
 translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
 <!-- ZZ -->	
 <!-- ZZ -->	
+  <!-- Traffic_signs-Milestone red Test -->
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S573" "colour:ref"=red' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_S573_empty_red.png"
+translate="vector(0,0,0)" scale="height(1)" direction="270" offset="5" />	
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S573" "colour:ref"=red' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_S573_empty_red.png"
+translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
+<!-- ZZ -->	
+<!-- ZZ -->
 
   <!-- Traffic_signs-Milestone orange Test -->
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S572" "colour:ref"=orange' model="/models_ES/traffic_signs/pkSign.obj"
@@ -23,6 +33,17 @@ translate="vector(0,0,0)" scale="height(1)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S572" "colour:ref"=orange' model="/models_ES/traffic_signs/pkSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S572_empty_orange.png"
+translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
+<!-- ZZ -->	
+<!-- ZZ -->	
+
+  <!-- Traffic_signs-Milestone orange Test -->
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S573" "colour:ref"=orange' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_S573_empty_orange.png"
+translate="vector(0,0,0)" scale="height(1)" direction="270" offset="5" />	
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S573" "colour:ref"=orange' model="/models_ES/traffic_signs/pkSign.obj"
+modelParameter="material.mat_sign.texture0=textures/ES_S573_empty_orange.png"
 translate="vector(0,0,0)" scale="height(1)" direction="90" offset="-5" />
 <!-- ZZ -->	
 <!-- ZZ -->	
