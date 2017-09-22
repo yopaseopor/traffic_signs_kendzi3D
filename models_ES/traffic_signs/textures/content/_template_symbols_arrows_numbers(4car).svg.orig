@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="264"
+   height="140"
+   viewBox="0 0 69.849994 37.041668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="_template_symbols_arrows_numbers(4car).svg"
+<<<<<<< HEAD
+   inkscape:export-filename="F:\_a2\_webs\yopaseopor\_yopaseopor_2017\git\traffic_signs_kendzi3D\models_ES\traffic_signs\textures\content\black_1200.png"
+=======
+   inkscape:export-filename="C:\a\GitHub\traffic_signs_kendzi3D\models_ES\traffic_signs\textures\content\black_1180.png"
+>>>>>>> 4characters
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="132.04104"
+     inkscape:cy="69.243085"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="940"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2"
+     style="display:inline"
+     transform="translate(0,5.55625)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.18842983px;line-height:5.74276876px;font-family:Ccrige;-inkscape-font-specification:Ccrige;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22971073px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11.814045"
+       y="22.126867"
+       id="text4502"
+       transform="scale(0.90806653,1.1012409)"><tspan
+         sodipodi:role="line"
+         id="tspan4500"
+<<<<<<< HEAD
+         x="2.1988356"
+         y="22.367126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.48413277px;font-family:Ccrige;-inkscape-font-specification:Ccrige;fill:#000000;stroke-width:0.22971073px">1200</tspan></text>
+=======
+         x="11.814045"
+         y="22.126867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.48413277px;font-family:Ccrige;-inkscape-font-specification:Ccrige;fill:#000000;stroke-width:0.22971073px">1180</tspan></text>
+>>>>>>> 4characters
+  </g>
+</svg>
