@@ -4,7 +4,7 @@
 			
 <!-- Traffic_signs-ES:S127 MOTORWAY BLUE PANEL A Test-Signals -->
 <!-- Traffic_signs-ES:S235 MOTORWAY BLUE PANEL A Test-Signals -->
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S235" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S235" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
 translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
 <!-- Z -->
