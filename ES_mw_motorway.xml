@@ -59,6 +59,62 @@ translate="vector(0,5,9)" scale="height(6)" direction="270" offset="0" />
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="ES:S373b" "colour:back:third_panel"="green" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
 translate="vector(0,5,9)" scale="height(6)" direction="270" offset="0" />
+
+<!--  Traffic_signs-Destination sign=sud side=right-->
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:upper"="sud" side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,4,1)" scale="height(1.6)" direction="270" offset="8" />
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol"="sud" side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,3.5,1)" scale="height(1.6)" direction="270" offset="8" />
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower"="sud" side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,3,1)" scale="height(1.6)" direction="270" offset="8" />
+
+<!-- Traffic_signs-Destination sign=sud side=up  side=up-->
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:upper"="sud" side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,8.2,0.5)" scale="height(1.6)" direction="270" offset="3" />
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol"="sud" side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,7.7,0.5)" scale="height(1.6)" direction="270" offset="3" />
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower"="sud" side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,7.2,0.5)" scale="height(1.6)" direction="270" offset="3" />
+
+<!-- Traffic_signs-Destination MAIN_PANEL side=up side=up-->
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:main_panel:upper"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,8.2,-2)" scale="height(1.6)" direction="270" offset="0" />
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:main_panel"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,7.6,-2)" scale="height(1.6)" direction="270" offset="0" />
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:main_panel:lower"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,7,-2)" scale="height(1.6)" direction="270" offset="0" />
+
+<!-- Traffic_signs-Destination THIRD_PANEL side=up side=up-->
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:third_panel:upper"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,8.2,3)" scale="height(1.6)" direction="270" offset="0" />
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:third_panel"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,7.6,3)" scale="height(1.6)" direction="270" offset="0" />
+
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:third_panel:lower"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,7,3)" scale="height(1.6)" direction="270" offset="0" />
 			
 			
 <!-- Traffic_signs-ES:S127 MOTORWAY BLUE PANEL A Test-Signals -->
