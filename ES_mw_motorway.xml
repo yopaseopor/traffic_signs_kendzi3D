@@ -50,15 +50,15 @@ translate="vector(0,5,-3)" scale="height(6)" direction="270" offset="0" />
 <!-- Traffic_signs-ES:S373b MOTORWAY THIRD PANEL Test-Signals -->
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="ES:S373b" "colour:back:third_panel"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(0,5,10)" scale="height(6)" direction="270" offset="0" />
+translate="vector(0,5,7)" scale="height(6)" direction="270" offset="0" />
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="ES:S373b" "colour:back:third_panel"="white" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
-translate="vector(0,5,10)" scale="height(6)" direction="270" offset="0" />
+translate="vector(0,5,7)" scale="height(6)" direction="270" offset="0" />
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="ES:S373b" "colour:back:third_panel"="green" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
-translate="vector(0,5,10)" scale="height(6)" direction="270" offset="0" />
+translate="vector(0,5,7)" scale="height(6)" direction="270" offset="0" />
 			
 			
 <!-- Traffic_signs-ES:S127 MOTORWAY BLUE PANEL A Test-Signals -->
