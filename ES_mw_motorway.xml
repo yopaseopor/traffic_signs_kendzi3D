@@ -463,13 +463,13 @@ translate="vector(-0.25,9,0.5)" scale="height(1.8)" direction="270" offset="3" /
 
 <!-- ES:S373 Traffic_signs-Destination BLUE Background sign junction sign side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S373" "-junction:distance"="*" "junction:ref"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S373" "junction:ref"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(-0.25,10.5,-0.5)" scale="height(1)" direction="270" offset="3" />
+translate="vector(-0.15,9,-2.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S373" "-junction:distance"="*" "junction:ref"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S373" "junction:ref"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
-translate="vector(-0.25,9.5,-2)" scale="height(1.8)" direction="270" offset="3" />
+translate="vector(-0.25,9,-2)" scale="height(1.8)" direction="270" offset="3" />
 
 <!-- ES:S373 Traffic_signs-Destination WHITE Background junction side up-->
 
@@ -523,15 +523,15 @@ translate="vector(-0.25,9.5,-2)" scale="height(1.8)" direction="270" offset="3" 
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="ES:S373a" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="blue" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(-0.15,9,-12.5)" scale="height(1.8)" direction="270" offset="3" />
+translate="vector(-0.15,9,-8.5)" scale="height(1.8)" direction="270" offset="3" />
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="ES:S373a" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="blue" "junction:ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(-0.15,9,-9)" scale="height(1.8)" direction="270" offset="3" />
+translate="vector(-0.15,9,-5)" scale="height(1.8)" direction="270" offset="3" />
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="ES:S373a" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="blue" "junction:ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
-translate="vector(-0.25,9,-9.5)" scale="height(1.8)" direction="270" offset="3" />
+translate="vector(-0.25,9,-5.5)" scale="height(1.8)" direction="270" offset="3" />
 
 <!-- ES:S373a Traffic_signs-Destination MAIN PANEL BLUE Background sign junction sign side up-->
 
