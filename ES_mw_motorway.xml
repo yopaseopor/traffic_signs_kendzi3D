@@ -690,12 +690,12 @@ translate="vector(-0.25,9,-5.5)" scale="height(1.8)" direction="270" offset="3" 
 <!-- ES:S373a Traffic_signs-Destination MAIN PANEL green Background sign junction sign side up-->
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="ES:S373a" "junction:ref:lower_panel"="*" "colour:back:lower_panel"="green" side=up' model="/models_ES/traffic_signs/s242aSign.obj"
-modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
-translate="vector(-0.25,10.5,-3.5)" scale="height(1)" direction="270" offset="3" />
+modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
+translate="vector(-0.25,10.5,-1.5)" scale="height(1)" direction="270" offset="3" />
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="ES:S373a" "junction:ref:lower_panel"="*" "colour:back:lower_panel"="green" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
-translate="vector(-0.25,9.5,-3.5)" scale="height(1.8)" direction="270" offset="3" />
+translate="vector(-0.25,9.5,-0.5)" scale="height(1.8)" direction="270" offset="3" />
 
 <!-- ES:S373b Traffic_signs-Destination THIRD PANEL BLUE Background junction side up-->
 
@@ -763,11 +763,11 @@ translate="vector(-0.25,9,5.5)" scale="height(1.8)" direction="270" offset="3" /
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="ES:S373b" "junction:ref:third_panel"="*" "colour:back:third_panel"="green" side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
-translate="vector(-0.25,10.5,8)" scale="height(1)" direction="270" offset="3" />
+translate="vector(-0.25,10.5,5)" scale="height(1)" direction="270" offset="3" />
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="ES:S373b" "junction:ref:third_panel"="*" "colour:back:third_panel"="green" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
-translate="vector(-0.25,9.5,8)" scale="height(1.8)" direction="270" offset="3" />
+translate="vector(-0.25,9.5,3)" scale="height(1.8)" direction="270" offset="3" />
 
 
 
