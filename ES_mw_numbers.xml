@@ -39,7 +39,7 @@ translate="vector(-0.25,5,2.5)" scale="height(1.8)" direction="270" offset="8" /
 
 <wayNodeModel matcher="highway=motorway" filter='"junction:ref"="1" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_1.png"
-translate="vector(-0.25,9,2.5)" scale="height(1.8)" direction="270" offset="3" />
+translate="vector(-0.25,9,0)" scale="height(1.8)" direction="270" offset="3" />
 
 <!-- Traffic_signs-Destination:2: junction distance up ref1  standard-->
 
@@ -148,7 +148,7 @@ translate="vector(-0.25,9,-3)" scale="height(1.8)" direction="270" offset="3" />
 
 <wayNodeModel matcher="highway=motorway" filter='"junction:distance"="500 m" "traffic_sign:2:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_distance_500.png"
-translate="vector(-0.25,9,-10)" scale="height(1.8)" direction="270" offset="3" />
+translate="vector(-0.25,9,-8)" scale="height(1.8)" direction="270" offset="3" />
 
 <!-- Traffic_signs-Destination:3: junction distance up 500 standard-->
 
