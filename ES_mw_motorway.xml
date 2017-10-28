@@ -1,4 +1,9 @@
 <modelsLibrary>
+<!-- Traffic_signs-Destination N340 up -->
+<wayNodeModel matcher="highway=motorway" filter='"junction:ref"="1" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_1.png"
+translate="vector(-0.25,8,2)" scale="height(1.8)" direction="270" offset="3" />
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 
 			<!-- MOTORWAY -->	<!-- MOTORWAY -->	<!-- MOTORWAY -->	<!-- MOTORWAY -->	<!-- MOTORWAY -->
 			
@@ -1186,11 +1191,7 @@ translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_2_left.png"
 translate="vector(-0.35,7,-3.5)" scale="height(1)" direction="270" offset="0" />
 
-<!-- Traffic_signs-Destination N-340 up -->
-<wayNodeModel matcher="highway=motorway" filter='"junction:ref"="1" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_1.png"
-translate="vector(-0.25,8,2)" scale="height(1.8)" direction="270" offset="3" />
-<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
 
 <!-- Z -->
 <!-- TEST --><!-- TEST --><!-- TEST --><!-- TEST --><!-- TEST --><!-- TEST --><!-- TEST -->
