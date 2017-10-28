@@ -1211,7 +1211,7 @@ translate="vector(-9,0,0)" scale="height(4)" direction="270" offset="8" />
 <!-- Traffic_signs-Destination N340 up -->
 <wayNodeModel matcher="highway=motorway" filter='"ref"="N-340" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
-translate="vector(-0.35,9,0)" scale="height(1.4)" direction="270" offset="3" />
+translate="vector(-0.35,8.5,-1)" scale="height(1.4)" direction="270" offset="3" />
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 
 
