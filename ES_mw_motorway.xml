@@ -1229,7 +1229,7 @@ translate="vector(-0.35,8.75,4)" scale="height(1.4)" direction="270" offset="3" 
 <!-- Traffic_signs-Destination int_ref e15 up -->
 <wayNodeModel matcher="highway=motorway" filter='"int_ref"="E-15" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
-translate="vector(-0.35,8.75,-0.5)" scale="height(1.4)" direction="270" offset="3" />
+translate="vector(-0.35,8.75,0)" scale="height(1.4)" direction="270" offset="3" />
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 
 <!-- Traffic_signs-Destination int_ref e15 up -->
