@@ -1214,5 +1214,17 @@ modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
 translate="vector(-0.35,8.75,-1.5)" scale="height(1.4)" direction="270" offset="3" />
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 
+<!-- Traffic_signs-Destination N340:2 up -->
+<wayNodeModel matcher="highway=motorway" filter='"ref"="N-340" "traffic_sign:2:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(-0.35,8.75,-6)" scale="height(1.4)" direction="270" offset="3" />
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
+<!-- Traffic_signs-Destination N340:3 up -->
+<wayNodeModel matcher="highway=motorway" filter='"ref"="N-340" "traffic_sign:3:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(-0.35,8.75,5)" scale="height(1.4)" direction="270" offset="3" />
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
 
 </modelsLibrary>
