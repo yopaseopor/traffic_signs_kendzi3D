@@ -905,15 +905,15 @@ translate="vector(-0.25,3,1)" scale="height(1.6)" direction="270" offset="8" />
 
 <!-- Traffic_signs-Destination sign=sud side=up ES:S235,ES:S242a  panel 3A side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:upper"="sud" side=up' model="/models_ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:upper"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,8.2,0.5)" scale="height(1.6)" direction="270" offset="3" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:symbol"="sud" side=up' model="/models_ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,7.7,0.5)" scale="height(1.6)" direction="270" offset="3" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower"="sud" side=up' model="/models_ES/traffic_signs/nameSign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,7.2,0.5)" scale="height(1.6)" direction="270" offset="3" />
 
@@ -1081,7 +1081,7 @@ translate="vector(-0.25,1.5,2.5)" scale="height(4)" direction="270" offset="8" /
 
  <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S235" "turn:destination"="slight_right" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sharp_right.png"
-translate="vector(-0.35,5.5,1.8)" scale="height(4)" direction="270" offset="3" />
+translate="vector(-0.35,5.5,1.6)" scale="height(4)" direction="270" offset="3" />
 
   <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S261" "turn:destination"="slight_right" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_slight_right.png"
