@@ -35,6 +35,11 @@ modelParameter="material.mat_sign.texture0=textures/content/white_1.png"
 translate="vector(-0.25,5,2.5)" scale="height(1.8)" direction="270" offset="8" />
 <!-- Z -->
 
+<!-- Traffic_signs-Destination junction distance right ref1 standard-->
+<wayNodeModel matcher="highway=motorway" filter='"junction:ref"=1 "traffic_sign:forward"="*" side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_1.png"
+translate="vector(-0.25,5,2.5)" scale="height(1.8)" direction="270" offset="8" />
+
 <!-- Traffic_signs-Destination junction distance up ref1 standard-->
 
 <wayNodeModel matcher="highway=motorway" filter='"junction:ref"="1" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
@@ -154,6 +159,12 @@ translate="vector(-0.25,5,-2)" scale="height(1.8)" direction="270" offset="8" />
 
 <wayNodeModel matcher="highway=motorway" filter='"junction:distance"="1000 m" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_distance_1000.png"
+translate="vector(-0.25,5,-2)" scale="height(1.8)" direction="270" offset="8" />
+
+<!-- Traffic_signs-Destination junction distance right 500 standard-->
+
+<wayNodeModel matcher="highway=motorway" filter='"junction:distance"="500 m" "traffic_sign:forward"="*" side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_distance_500.png"
 translate="vector(-0.25,5,-2)" scale="height(1.8)" direction="270" offset="8" />
 
 <!-- Traffic_signs-Destination junction distance up 500 standard-->
