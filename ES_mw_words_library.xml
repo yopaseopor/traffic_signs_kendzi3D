@@ -4,15 +4,15 @@
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:upper"="El Vendrell" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
-translate="vector(-0.25,3.9,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,3,-1)" scale="height(2)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination"="El Vendrell" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
-translate="vector(-0.25,3.5,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,2.6,-1)" scale="height(2)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:lower"="El Vendrell" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
-translate="vector(-0.25,3.0,-1)" scale="height(2)" direction="270" offset="8" />
+translate="vector(-0.25,2.2,-1)" scale="height(2)" direction="270" offset="8" />
 
 <!-- Traffic_signs-Destination El Vendrell ES:s235,ES:s242a  panel 3A side=up-->
 

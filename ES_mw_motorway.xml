@@ -32,6 +32,16 @@ translate="vector(-0.25,1.5,2.5)" scale="height(4)" direction="270" offset="8" /
 modelParameter="material.mat_sign.texture0=textures/content/white_sharp_right.png"
 translate="vector(-0.25,1.5,2.5)" scale="height(4)" direction="270" offset="8" />
 
+<!-- ES:S373 Traffic_signs-Destination Background slight_right side up-->
+ <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "turn:destination"="slight_right" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_slight_right.png"
+translate="vector(-0.35,5.5,1.6)" scale="height(4)" direction="270" offset="3" />
+
+<!-- ES:S373 Traffic_signs-Destination Background sharp_right side up-->
+ <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "turn:destination"="sharp_right" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sharp_right.png"
+translate="vector(-0.35,5.5,1.6)" scale="height(4)" direction="270" offset="3" />
+
 <!-- ES:S373c Traffic_signs-Destination Background junction distance side right-->
 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S373" "colour:back"="blue" "junction:distance"="*" side=right' model="/models_ES/traffic_signs/s242_distance.obj"
