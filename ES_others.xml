@@ -918,11 +918,11 @@ translate="vector(-0.25,8.4,0)" scale="height(1.8)" direction="270" offset="3" /
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_1_through.png"
 translate="vector(-0.20,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="blue"  "turn:destination"="right" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="blue"  "turn:destination"="sharp_right" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_1_right.png"
 translate="vector(-0.20,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="blue"  "turn:destination"="left" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="blue"  "turn:destination"="sharp_left" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_lanes_1_left.png"
 translate="vector(-0.20,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
@@ -930,11 +930,11 @@ translate="vector(-0.20,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_1_through.png"
 translate="vector(-0.20,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="white"  "turn:destination"="right" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="white"  "turn:destination"="sharp_right" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_1_right.png"
 translate="vector(-0.20,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="white"  "turn:destination"="left" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="white"  "turn:destination"="sharp_left" lanes=1  side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lanes_1_left.png"
 translate="vector(-0.20,7,-0.5)" scale="height(1)" direction="270" offset="3" />
 
