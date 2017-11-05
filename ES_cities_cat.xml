@@ -3880,6 +3880,12 @@ translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="5" /
  <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="El Vendrell" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_El_Vendrell.png"
 translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="-5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="El Vendrell" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_up_el_Vendrell.png"
+translate="vector(-0.35,8,-1)" scale="height(1.8)" direction="270" offset="3" />
+
+
 		
 <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="El Vendrell" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_El_Vendrell.png"
@@ -3897,7 +3903,12 @@ translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" /
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="El Vendrell" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_El_Vendrell.png"
 translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
-		
+	
+ <wayNodeModel matcher="-highway=motorway" filter='destination="El Vendrell" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_up_el_Vendrell.png"
+translate="vector(-0.35,7.5,-1)" scale="height(1.8)" direction="270" offset="3" />
+
+	
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="El Vendrell" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_El_Vendrell.png"
 translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
@@ -3914,6 +3925,11 @@ translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="5" /
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="El Vendrell" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_El_Vendrell.png"
 translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="-5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="El Vendrell" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/black_up_el_Vendrell.png"
+translate="vector(-0.35,7,-1)" scale="height(1.8)" direction="270" offset="3" />
+
 		
 <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="El Vendrell" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_El_Vendrell.png"

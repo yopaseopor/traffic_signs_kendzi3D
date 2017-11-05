@@ -4140,6 +4140,21 @@ translate="vector(0.01,0.4,-0.5)" scale="height(1.5)" direction="90" offset="-5"
 modelParameter="material.mat_sign.texture0=textures/content/sign_station.png"
 translate="vector(0.01,0.4,-0.5)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
+
+<!-- Traffic_signs-Destination sign=sud side=up  side=up-->
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:upper"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,8.2,0.5)" scale="height(1.6)" direction="270" offset="3" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,7.7,0.5)" scale="height(1.6)" direction="270" offset="3" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:symbol:lower"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
+translate="vector(-0.25,7.2,0.5)" scale="height(1.6)" direction="270" offset="3" />
+
 <!-- Z -->
 <!-- Z -->
 <!-- Z -->

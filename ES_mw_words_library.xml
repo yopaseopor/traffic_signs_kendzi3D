@@ -44,19 +44,19 @@ translate="vector(-0.35,7,-4)" scale="height(1.8)" direction="270" offset="0" />
 <!-- zz -->
 <!-- Traffic_signs-Destination El Vendrell  THIRD PANEL side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:third_panel:upper"="El Vendrell" "traffic_sign:3:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:end_panel:upper"="El Vendrell" "traffic_sign:3:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.35,8,7)" scale="height(1.8)" direction="270" offset="0" />
 
 <!-- zz -->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:third_panel"="El Vendrell" "traffic_sign:3:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:end_panel"="El Vendrell" "traffic_sign:3:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.35,7.5,7)" scale="height(1.8)" direction="270" offset="0" />
 
 <!-- zz -->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:third_panel:lower"="El Vendrell" "traffic_sign:3:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:end_panel:lower"="El Vendrell" "traffic_sign:3:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.35,7,7)" scale="height(1.8)" direction="270" offset="0" />
 
@@ -90,6 +90,8 @@ translate="vector(-0.25,7.7,0.5)" scale="height(1.6)" direction="270" offset="3"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,7.2,0.5)" scale="height(1.6)" direction="270" offset="3" />
 
+
+
 <!-- Traffic_signs-Destination MAIN_PANEL side=up side=up-->
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:lower_panel:upper"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
@@ -104,17 +106,17 @@ translate="vector(-0.25,7.6,-2)" scale="height(1.6)" direction="270" offset="0" 
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,7,-2)" scale="height(1.6)" direction="270" offset="0" />
 
-<!-- Traffic_signs-Destination THIRD_PANEL side=up side=up-->
+<!-- Traffic_signs-Destination end_panel side=up side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:third_panel:upper"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:end_panel:upper"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,8.2,10)" scale="height(1.6)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:third_panel"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:end_panel"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,7.6,10)" scale="height(1.6)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:third_panel:lower"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:end_panel:lower"="sud" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_sud.png"
 translate="vector(-0.25,7,10)" scale="height(1.6)" direction="270" offset="0" />
 

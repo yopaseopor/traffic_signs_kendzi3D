@@ -2830,6 +2830,28 @@ translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" /
 modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+<!-- Traffic_signs-Destination motorway  int_ref e15 right -->
+<wayNodeModel matcher="highway=motorway" filter='"destination:int_ref"="E-15" side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
+translate="vector(-0.35,4.3,1)" scale="height(1.8)" direction="270" offset="8" />
+
+<!-- Traffic_signs-Destination motorway  int_ref e15 up -->
+<wayNodeModel matcher="highway=motorway" filter='"destination:int_ref"="E-15" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
+translate="vector(-0.35,8.75,0)" scale="height(1.4)" direction="270" offset="3" />
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
+<!-- Traffic_signs-Destination motorway  int_ref e15:2 up -->
+<wayNodeModel matcher="highway=motorway" filter='"destination:int_ref:lower_panel"="E-15" "traffic_sign:2:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
+translate="vector(-0.35,8.75,-6)" scale="height(1.4)" direction="270" offset="3" />
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
+<!-- Traffic_signs-Destination motorway  int_ref e15:3 up -->
+<wayNodeModel matcher="highway=motorway" filter='"destination:int_ref:end_panel"="E-15" "traffic_sign:3:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_e15.png"
+translate="vector(-0.35,8.75,5)" scale="height(1.4)" direction="270" offset="3" />
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 <!-- Traffic_signs-Destination Ref E-90 -->
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="E-90" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
@@ -3407,6 +3429,32 @@ modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
+<!-- REFs Panel Traffic_signs-Destination motorway Ref N-340 right-->
+
+<wayNodeModel matcher="highway=motorway" filter='"destination:ref"="N-340" side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(-0.35,4.3,-0.5)" scale="height(1.8)" direction="270" offset="8" />
+
+<!-- Traffic_signs-Destination motorway  N340 up -->
+<wayNodeModel matcher="highway=motorway" filter='"destination:ref"="N-340" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(-0.35,8.75,-1.5)" scale="height(1.4)" direction="270" offset="3" />
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
+<!-- Traffic_signs-Destination motorway  N340:2 up -->
+<wayNodeModel matcher="highway=motorway" filter='"destination:ref:lower_panel"="N-340" "traffic_sign:2:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(-0.35,8.75,-7)" scale="height(1.4)" direction="270" offset="3" />
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
+<!-- Traffic_signs-Destination motorway  N340:3 up -->
+<wayNodeModel matcher="highway=motorway" filter='"destination:ref:end_panel"="N-340" "traffic_sign:3:forward"=* side=up' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+translate="vector(-0.35,8.75,4)" scale="height(1.4)" direction="270" offset="3" />
+<!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
+
+
 
 <!-- Traffic_signs-Destination Ref N-420 -->
 
