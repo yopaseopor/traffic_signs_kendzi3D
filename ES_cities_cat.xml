@@ -50,7 +50,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Abella de la Conca" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abella_de_la_Conca.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abella de la Conca" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -196,7 +196,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Abrera" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Abrera.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Abrera" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -342,7 +342,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Àger" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_ager.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Àger" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -488,7 +488,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Agramunt" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Agramunt.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Agramunt" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -634,7 +634,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Aguilar de Segarra" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Aguilar_de_Segarra.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Aguilar de Segarra" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -780,7 +780,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Agullana" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Agullana.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Agullana" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -918,7 +918,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Agulló" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_agullo.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Agulló" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -1058,7 +1058,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Aiguafreda" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Aiguafreda.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Aiguafreda" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -1204,7 +1204,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Aiguamúrcia" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Aiguamurcia.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Aiguamúrcia" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -1350,7 +1350,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Aiguaviva" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Aiguaviva.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Aiguaviva" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -1496,7 +1496,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Aitona" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Aitona.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Aitona" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -1642,7 +1642,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="els Alamús" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_els_Alamus.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="els Alamús" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -1788,7 +1788,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Alàs i Cerc" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Alas_i_Cerc.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Alàs i Cerc" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -1934,7 +1934,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="l&apos;Albagés" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_l_Albages.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="l&apos;Albagés" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -2080,7 +2080,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Amposta" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Amposta.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Amposta" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -2218,7 +2218,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Balaguer" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_balaguer.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -2355,7 +2355,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Banyoles" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Banyoles.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Banyoles" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -2501,7 +2501,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Barcelona" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Barcelona.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Barcelona" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -2647,7 +2647,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Berga" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Berga.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Berga" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -2786,7 +2786,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Camarasa" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Camarasa" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -2835,7 +2835,7 @@ translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Camarasa" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_camarasa.png"
-translate="vector(-5,1.3,0)" scale="height(1.9)" direction="270" offset="5" />
+translate="vector(-5,1.3,0)" scale="height(1.5)" direction="270" offset="5" />
 
 
 <!-- Z -->
@@ -2925,7 +2925,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Castellet" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_castellet.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Castellet" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -3064,7 +3064,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Castelló de Farfanya" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_castello_de_farfanya.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Castelló de Farfanya" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -3203,7 +3203,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Cervera" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Cervera.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Cervera" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -3350,7 +3350,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Clariana" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_clariana.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Clariana" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -3488,7 +3488,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Corçà" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_corca.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Corçà" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -3619,7 +3619,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="El Monestir d&apos;Avellanes" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_monestir_avellanes.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="El Monestir d&apos;Avellanes" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -3758,7 +3758,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="el Pont de Suert" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_el_Pont_de_Suert.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="el Pont de Suert" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -3915,7 +3915,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="El Vendrell" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_El_Vendrell.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="El Vendrell" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -4058,7 +4058,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Els Masos de Millà" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_els_masos_de_milla.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Els Masos de Millà" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -4198,7 +4198,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Falset" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Falset.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Falset" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -4344,7 +4344,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Figueres" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Figueres.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Figueres" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -4482,7 +4482,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Fontdepou" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_fontdepou.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Fontdepou" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -4621,7 +4621,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Gandesa" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Gandesa.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Gandesa" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -4759,7 +4759,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Gerb" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_gerb.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Gerb" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -4898,7 +4898,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Girona" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Girona.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Girona" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -5044,7 +5044,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Granollers" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Granollers.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Granollers" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -5190,7 +5190,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Igualada" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Igualada.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Igualada" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -5328,7 +5328,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="L&apos;Ametlla del Montsec" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_l_ametlla_del_montsec.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L&apos;Ametlla del Montsec" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -5465,7 +5465,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="L&apos;Arboç" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_l_arboc.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="L&apos;Arboç" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -5611,7 +5611,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="la Bisbal d&apos;Empordà" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_la_Bisbal_d_Emporda.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="la Bisbal d&apos;Empordà" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -5757,7 +5757,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="La Gornal" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_la_gornal.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="La Gornal" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -5869,7 +5869,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="La Rasclosa" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_la_rasclosa.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
 <!-- Traffic_signs-name La Règola city_limit test --> 
  <wayNodeModel matcher="-highway=motorway" filter='name="La Règola" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
@@ -5912,7 +5912,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="La Règola" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_la_regola.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="La Règola" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -6052,7 +6052,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="la Seu d&apos;Urgell" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_la_Seu_d_Urgell.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="la Seu d&apos;Urgell" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -6190,7 +6190,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Les Avellanes" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_les_avellanes.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Les Avellanes" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -6329,7 +6329,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="les Borges Blanques" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_les_Borges_Blanques.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="les Borges Blanques" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -6475,7 +6475,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Les Masuques" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_les_masuques.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Les Masuques" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -6614,7 +6614,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Lleida" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_lleida.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Lleida" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -6753,7 +6753,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Manresa" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Manresa.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Manresa" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -6899,7 +6899,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Mataró" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Mataro.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Mataró" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -7045,7 +7045,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Moià" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Moia.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Moià" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -7191,7 +7191,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Mollerussa" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Mollerussa.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Mollerussa" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -7337,7 +7337,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Montblanc" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Montblanc.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Montblanc" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -7483,7 +7483,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Móra d&apos;Ebre" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Mora_d_Ebre.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Móra d&apos;Ebre" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -7629,7 +7629,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Olot" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Olot.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Olot" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -7769,7 +7769,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Os de Balaguer" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
-translate="vector(-0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Os de Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -7906,7 +7906,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Puigcerdà" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Puigcerda.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Puigcerdà" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -8052,7 +8052,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Reus" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Reus.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Reus" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -8198,7 +8198,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Ripoll" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Ripoll.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Ripoll" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -8344,7 +8344,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Sabadell" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Sabadell.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Sabadell" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -8490,7 +8490,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Sant Feliu de Llobregat" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Sant_Feliu_de_Llobregat.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Sant Feliu de Llobregat" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -8628,7 +8628,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Sant Josep de Fontdepou" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_st_josep_de_fontdepou.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Sant Josep de Fontdepou" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -8767,7 +8767,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="St. Marçal" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_st_marcal.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="St. Marçal" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -8913,7 +8913,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Santa Coloma de Farners" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Santa_Coloma_de_Farners.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Santa Coloma de Farners" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -9052,7 +9052,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Sta. Linya" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sta_linya.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Sta. Linya" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -9191,7 +9191,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Sta. Margarida i els Monjos" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_sta_margarida_i_els_monjos.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Sta. Margarida i els Monjos" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -9337,7 +9337,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Solsona" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Solsona.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Solsona" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -9483,7 +9483,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Sort" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Sort.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Sort" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -9629,7 +9629,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Tarragona" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Tarragona.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Tarragona" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -9775,7 +9775,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Tàrrega" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Tarrega.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Tàrrega" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -9913,7 +9913,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Tartareu" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_tartareu.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Tartareu" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -10052,7 +10052,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Terrassa" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Terrassa.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Terrassa" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -10198,7 +10198,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Torrelletes" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_torrelletes.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Torrelletes" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -10344,7 +10344,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Tortosa" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Tortosa.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Tortosa" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -10483,7 +10483,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Tremp" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_tremp.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Tremp" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -10619,7 +10619,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Valls" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Valls.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Valls" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -10765,7 +10765,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Vic" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Vic.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Vic" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -10911,7 +10911,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Vielha" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_Vielha.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Vielha" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -11057,7 +11057,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Vilafranca del Penedès" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_vilafranca_del_penedes.png"
-translate="vector(0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Vilafranca del Penedès" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -11199,7 +11199,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Vilamajor" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_vilamajor.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Vilamajor" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -11330,7 +11330,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Vilanova de la Sal" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_vilanova_de_la_sal.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Vilanova de la Sal" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -11462,7 +11462,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Vilanova i la Geltrú" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_vilanova_i_la_geltru.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Vilanova i la Geltrú" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
