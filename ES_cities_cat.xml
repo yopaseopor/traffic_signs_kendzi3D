@@ -7752,7 +7752,7 @@ translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Os de Balaguer" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
-translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="90" offset="5" />
+translate="vector(0.01,2.4,1)" scale="height(1.5)" direction="90" offset="5" />
 <!-- Z -->
  <!-- Traffic_signs-name panel A position 2 test -->
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Os de Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
@@ -7769,7 +7769,7 @@ translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" /
 
 <wayNodeModel matcher="-highway=motorway" filter='"destination"="Os de Balaguer" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/black_os_de_balaguer.png"
-translate="vector(-0.01,2.1,1)" scale="height(1.9)" direction="90" offset="5" />
+translate="vector(-0.01,2.1,-1)" scale="height(1.9)" direction="90" offset="5" />
 <!-- Z -->
   <!-- Traffic_signs-name panel A position 3 test -->
   <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Os de Balaguer" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
