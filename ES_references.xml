@@ -5633,4 +5633,62 @@ modelParameter="material.mat_sign.texture0=textures/content/white_t11.png"
 translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!-- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz -->
 
+<!-- Traffic_signs-Destination Ref VA-303 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="VA-303" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_va303.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="VA-303" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_va303.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="VA-303" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_va303.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="VA-303" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_va303.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+<!-- milestone VA-303 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=VA-303 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_va303.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=VA-303 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_va303.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- zzzzzzzzzzzzzzzzz -->
+
+<!-- Traffic_signs-Destination Ref VP-9110 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="VP-9110" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_vp9110.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="VP-9110" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_vp9110.png"
+translate="vector(-0.25,2.5,1)" scale="height(1.8)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="VP-9110" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_vp9110.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:ref"="VP-9110" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/nameSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_vp9110.png"
+translate="vector(0.25,2.5,-1)" scale="height(1.8)" direction="900" offset="5" />
+<!-- milestone VP-9110 -->
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=VP-9110 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_vp9110.png"
+translate="vector(-0.25,0.4,0)" scale="height(0.6)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"ref"=VP-9110 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/refSign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/white_vp9110.png"
+translate="vector(0.25,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
+
+<!-- zzzzzzzzzzzzzzzzz -->
+
 </modelsLibrary>
