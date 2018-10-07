@@ -1,0 +1,299 @@
+<modelsLibrary>
+<!-- A -->
+<!-- WORDS -->
+<!-- TEST -->
+
+<!-- Traffic_signs-name La Pedraja de Portillo city_limit test --> 
+ <wayNodeModel matcher="-highway=motorway" filter='name="La Pedraja de Portillo" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='name="La Pedraja de Portillo" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="La Pedraja de Portillo" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="La Pedraja de Portillo" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="La Pedraja de Portillo" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="La Pedraja de Portillo" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="La Pedraja de Portillo" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="La Pedraja de Portillo" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="La Pedraja de Portillo" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="La Pedraja de Portillo" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="La Pedraja de Portillo" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="La Pedraja de Portillo" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="La Pedraja de Portillo" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="La Pedraja de Portillo" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="5" />
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name La Pedraja de Portillo city_limit PANEL B test --> 
+ <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="La Pedraja de Portillo" "traffic_sign:2:forward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="La Pedraja de Portillo" "traffic_sign:2:backward"=* side=left' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="La Pedraja de Portillo" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="La Pedraja de Portillo" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="La Pedraja de Portillo" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="La Pedraja de Portillo" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="5" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="La Pedraja de Portillo" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
+	
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="La Pedraja de Portillo" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
+	
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="La Pedraja de Portillo" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="La Pedraja de Portillo" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="La Pedraja de Portillo" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="La Pedraja de Portillo" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="La Pedraja de Portillo" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="La Pedraja de Portillo" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_la_pedraja_de_portillo.png"
+translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --><!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --><!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z --><!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Traffic_signs-name Valdestillas city_limit test --> 
+ <wayNodeModel matcher="-highway=motorway" filter='name="Valdestillas" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='name="Valdestillas" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='name="Valdestillas" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='name="Valdestillas" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 1 test -->
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Valdestillas" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Valdestillas" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,2.4,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Valdestillas" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:upper"="Valdestillas" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,2.4,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+ <!-- Traffic_signs-name panel A position 2 test -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Valdestillas" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Valdestillas" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,2.1,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Valdestillas" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination"="Valdestillas" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,2.1,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel A position 3 test -->
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Valdestillas" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="5" />
+
+  <wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Valdestillas" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,1.9,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Valdestillas" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower"="Valdestillas" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,1.9,-1)" scale="height(1.5)" direction="90" offset="5" />
+
+
+<!-- Z -->
+<!-- Z --> 
+ 
+<!-- Traffic_signs-name Valdestillas city_limit PANEL B test --> 
+ <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Valdestillas" "traffic_sign:2:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Valdestillas" "traffic_sign:2:backward"=* side=left' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Valdestillas" "traffic_sign:2:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"name:lower_panel"="Valdestillas" "traffic_sign:2:backward"=* side=right' model="/models_ES/traffic_signs/name3Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="5" />
+
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 1 test NORMAL -->
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Valdestillas" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="5" />
+
+ <wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Valdestillas" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,0.9,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Valdestillas" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:upper"="Valdestillas" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,0.9,-1)" scale="height(1.5)" direction="90" offset="5" />
+
+
+<!-- Z -->
+ <!-- Traffic_signs-name panel B position 2 test -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Valdestillas" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="5" />
+	
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Valdestillas" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,0.6,1)" scale="height(1.5)" direction="270" offset="-5" />
+	
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Valdestillas" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel"="Valdestillas" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,0.6,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+  <!-- Traffic_signs-name panel B position 3 test -->
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Valdestillas" "traffic_sign:forward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Valdestillas" "traffic_sign:forward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(-0.01,0.3,1)" scale="height(1.5)" direction="270" offset="-5" />
+		
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Valdestillas" "traffic_sign:backward"=* side=left' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"destination:lower_panel:lower"="Valdestillas" "traffic_sign:backward"=* side=right' model="/models_ES/traffic_signs/name2Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/cities/cyl/black_valdestillas.png"
+translate="vector(0.01,0.3,-1)" scale="height(1.5)" direction="90" offset="5" />
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- ZZZZZZ -->
+</modelsLibrary> 
