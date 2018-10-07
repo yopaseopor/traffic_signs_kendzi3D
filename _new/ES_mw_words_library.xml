@@ -30,15 +30,15 @@ translate="vector(-0.35,7,-1)" scale="height(1.8)" direction="270" offset="3" />
 
 <!-- Traffic_signs-Destination El Vendrell MAIN PANEL side=up-->
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:lower_panel:upper"="El Vendrell" "traffic_sign:2:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:lower_panel:upper"="El Vendrell" "traffic_sign:direction"="forward" "traffic_sign:2"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.35,8,-4)" scale="height(1.8)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:lower_panel"="El Vendrell" "traffic_sign:2:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:lower_panel"="El Vendrell" "traffic_sign:direction"="forward" "traffic_sign:2"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.35,7.5,-4)" scale="height(1.8)" direction="270" offset="0" />
 
- <wayNodeModel matcher="highway=motorway" filter='"destination:lower_panel:lower"="El Vendrell" "traffic_sign:2:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
+ <wayNodeModel matcher="highway=motorway" filter='"destination:lower_panel:lower"="El Vendrell" "traffic_sign:direction"="forward" "traffic_sign:2"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
 translate="vector(-0.35,7,-4)" scale="height(1.8)" direction="270" offset="0" />
 <!-- zz -->
