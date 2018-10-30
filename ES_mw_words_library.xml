@@ -18,7 +18,7 @@ translate="vector(-0.25,2.2,-1)" scale="height(2)" direction="270" offset="8" />
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:upper"="El Vendrell" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
-translate="vector(-0.35,8,-1)" scale="height(1.8)" direction="270" offset="3" />
+translate="vector(-0.35,8.5,-1)" scale="height(1.8)" direction="270" offset="3" />
 
  <wayNodeModel matcher="highway=motorway" filter='destination="El Vendrell" "traffic_sign:forward"=* side=up' model="/models_ES/traffic_signs/name2Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_el_vendrell.png"
