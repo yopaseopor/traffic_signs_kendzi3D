@@ -2,7 +2,7 @@
 
 <!-- PANEL A Traffic_signs-Destination junction 1 -->
 
-<wayNodeModel matcher="highway=motorway" filter='"junction:ref"=1 "traffic_sign:forward"="ES:S127" side=right' model="/models_ES/traffic_signs/nameSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"ref"=1 "traffic_sign:forward"="ES:S127" side=right' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_1.png"
 translate="vector(-0.25,5,2.5)" scale="height(1.8)" direction="270" offset="8" />
 
