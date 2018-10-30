@@ -44,15 +44,15 @@ translate="vector(-0.35,5.5,1.6)" scale="height(4)" direction="270" offset="3" /
 
 <!-- ES:S373c Traffic_signs-Destination Background junction distance side right-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="blue" "junction:distance"="*" side=right' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="blue" "distance"="*" side=right' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
 translate="vector(-0.15,5,-1.5)" scale="height(1.8)" direction="270" offset="8" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="white" "junction:distance"="*" side=right' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="white" "distance"="*" side=right' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
 translate="vector(-0.15,5,-1.5)" scale="height(1.8)" direction="270" offset="8" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="green" "junction:distance"="*" side=right' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "colour:back"="green" "distance"="*" side=right' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
 translate="vector(-0.15,5,-1.5)" scale="height(1.8)" direction="270" offset="8" />
 
@@ -625,7 +625,7 @@ translate="vector(-0.20,7,8)" scale="height(1)" direction="270" offset="0" />
 
 <!-- ES:S373 Traffic_signs-Destination BLUE Background junction side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "junction:distance"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "distance"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
 translate="vector(-0.15,9,-2.5)" scale="height(1.8)" direction="270" offset="3" />
 
@@ -649,15 +649,15 @@ translate="vector(-0.25,9.5,-2)" scale="height(1.8)" direction="270" offset="3" 
 
 <!-- ES:S373 Traffic_signs-Destination WHITE Background junction side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "junction:distance"="*" "colour:back"="white" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "distance"="*" "colour:back"="white" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
 translate="vector(-0.15,9,-2.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "junction:distance"="*" "colour:back"="white" "junction:ref"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "distance"="*" "colour:back"="white" "junction:ref"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
 translate="vector(-0.15,9,1)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "junction:distance"="*" "colour:back"="white" "junction:ref"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "distance"="*" "colour:back"="white" "junction:ref"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
 translate="vector(-0.25,9,0.5)" scale="height(1.8)" direction="270" offset="3" />
 
@@ -673,15 +673,15 @@ translate="vector(-0.25,9.5,-2)" scale="height(1.8)" direction="270" offset="3" 
 
 <!-- ES:S373 Traffic_signs-Destination GREEN Background junction side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "junction:distance"="*" "colour:back"="green" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "distance"="*" "colour:back"="green" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
 translate="vector(-0.15,9,-2.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "junction:distance"="*" "colour:back"="green" "junction:ref"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "distance"="*" "colour:back"="green" "junction:ref"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
 translate="vector(-0.15,9,1)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "junction:distance"="*" "colour:back"="green" "junction:ref"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "distance"="*" "colour:back"="green" "junction:ref"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
 translate="vector(-0.25,9,0.5)" scale="height(1.8)" direction="270" offset="3" />
 
@@ -697,15 +697,15 @@ translate="vector(-0.25,9.5,-2)" scale="height(1.8)" direction="270" offset="3" 
 
 <!-- ES:S373a Traffic_signs-Destination MAIN PANEL BLUE Background junction side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="blue" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "distance:lower_panel"="*" "colour:back:lower_panel"="blue" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
 translate="vector(-0.15,9,-8.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="blue" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "distance:lower_panel"="*" "colour:back:lower_panel"="blue" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
 translate="vector(-0.15,9,-5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="blue" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "distance:lower_panel"="*" "colour:back:lower_panel"="blue" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
 translate="vector(-0.25,9,-5.5)" scale="height(1.8)" direction="270" offset="3" />
 
@@ -722,15 +722,15 @@ translate="vector(-0.25,9.5,-8.5)" scale="height(1.8)" direction="270" offset="3
 
 <!-- ES:S373a Traffic_signs-Destination MAIN PANEL WHITE Background junction side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="white" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "distance:lower_panel"="*" "colour:back:lower_panel"="white" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
 translate="vector(-0.15,9,-8.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="white" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "distance:lower_panel"="*" "colour:back:lower_panel"="white" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
 translate="vector(-0.15,9,-5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="white" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "distance:lower_panel"="*" "colour:back:lower_panel"="white" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
 translate="vector(-0.25,9,-5.5)" scale="height(1.8)" direction="270" offset="3" />
 
@@ -746,15 +746,15 @@ translate="vector(-0.25,9.5,-10.5)" scale="height(1.8)" direction="270" offset="
 
 <!-- ES:S373a Traffic_signs-Destination MAIN PANEL GREEN Background junction side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="green" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "distance:lower_panel"="*" "colour:back:lower_panel"="green" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
 translate="vector(-0.15,9,-8.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="green" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "distance:lower_panel"="*" "colour:back:lower_panel"="green" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
 translate="vector(-0.15,9,-5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "junction:distance:lower_panel"="*" "colour:back:lower_panel"="green" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="*" "distance:lower_panel"="*" "colour:back:lower_panel"="green" "ref:lower_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
 translate="vector(-0.25,9,-5.5)" scale="height(1.8)" direction="270" offset="3" />
 
@@ -770,15 +770,15 @@ translate="vector(-0.25,9.5,-10.5)" scale="height(1.8)" direction="270" offset="
 
 <!-- ES:S373b Traffic_signs-Destination THIRD PANEL BLUE Background junction side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "junction:distance:end_panel"="*" "colour:back:end_panel"="blue" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "distance:end_panel"="*" "colour:back:end_panel"="blue" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
 translate="vector(-0.15,9,3.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "junction:distance:end_panel"="*" "colour:back:end_panel"="blue" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "distance:end_panel"="*" "colour:back:end_panel"="blue" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
 translate="vector(-0.15,9,6)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "junction:distance:end_panel"="*" "colour:back:end_panel"="blue" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "distance:end_panel"="*" "colour:back:end_panel"="blue" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
 translate="vector(-0.25,9,5.5)" scale="height(1.8)" direction="270" offset="3" />
 
@@ -794,15 +794,15 @@ translate="vector(-0.25,9.5,3)" scale="height(1.8)" direction="270" offset="3" /
 
 <!-- ES:S373b Traffic_signs-Destination THIRD PANEL WHITE Background junction side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "junction:distance:end_panel"="*" "colour:back:end_panel"="white" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "distance:end_panel"="*" "colour:back:end_panel"="white" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
 translate="vector(-0.15,9,3.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "junction:distance:end_panel"="*" "colour:back:end_panel"="white" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "distance:end_panel"="*" "colour:back:end_panel"="white" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
 translate="vector(-0.15,9,6)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "junction:distance:end_panel"="*" "colour:back:end_panel"="white" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "distance:end_panel"="*" "colour:back:end_panel"="white" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
 translate="vector(-0.25,9,5.5)" scale="height(1.8)" direction="270" offset="3" />
 
@@ -818,15 +818,15 @@ translate="vector(-0.25,9.5,5)" scale="height(1.8)" direction="270" offset="3" /
 
 <!-- ES:S373b Traffic_signs-Destination THIRD PANEL GREEN Background junction side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "junction:distance:end_panel"="*" "colour:back:end_panel"="green" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "distance:end_panel"="*" "colour:back:end_panel"="green" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
 translate="vector(-0.15,9,3.5)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "junction:distance:end_panel"="*" "colour:back:end_panel"="green" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "distance:end_panel"="*" "colour:back:end_panel"="green" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/s242_distance.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
 translate="vector(-0.15,9,6)" scale="height(1.8)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "junction:distance:end_panel"="*" "colour:back:end_panel"="green" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="*" "distance:end_panel"="*" "colour:back:end_panel"="green" "ref:end_panel"="*" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
 translate="vector(-0.25,9,5.5)" scale="height(1.8)" direction="270" offset="3" />
 
