@@ -1,6 +1,6 @@
 <modelsLibrary> 
 
-	<nodeModel matcher="wikidata=Q207870" model="/models_ES/traffic_signs/campanarmar.obj"
+	<nodeModel matcher="wikidata=Q207870" model="/models_ES/traffic_signs/barcelona_panot.obj"
 		translateX="0" translateY="0" translateZ="0" scale="height(1)" direction="direction(0)"/>
 		
 <!-- ES: s200 -->		
