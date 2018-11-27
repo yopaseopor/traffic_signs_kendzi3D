@@ -1,6 +1,6 @@
 <modelsLibrary> 
 
-	<nodeModel matcher="wikidata=Q207870" model="//models_ES/traffic_signs/s200Sign.obj"
+	<nodeModel matcher="wikidata=Q207870" model="/models_ES/traffic_signs/s200Sign.obj"
 		translateX="0" translateY="0" translateZ="0" scale="height(7)" direction="direction(0)"/>
 
 <!-- ES: s200 -->		
