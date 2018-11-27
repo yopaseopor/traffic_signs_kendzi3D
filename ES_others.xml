@@ -1,12 +1,8 @@
 <modelsLibrary> 
 
-	<nodeModel matcher="wikidata=Q207870" model="/models_ES/traffic_signs/campnou.obj"
+	<nodeModel matcher="wikidata=Q207870" model="/models_ES/traffic_signs/campanarmar.obj"
 		translateX="0" translateY="0" translateZ="0" scale="height(1)" direction="direction(0)"/>
 		
-		<wayNodeModel matcher="building=*" filter='"wikidata"="Q207870"' model="/models_ES/traffic_signs/campnou.obj"
-modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
-translate="vector(0,0,0)" scale="height(6)" direction="270" offset="5" />
-
 <!-- ES: s200 -->		
 		
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S200" side=right' model="/models_ES/traffic_signs/s200Sign.obj"
