@@ -2,6 +2,10 @@
 
 	<nodeModel matcher="wikidata=Q207870" model="/models_ES/traffic_signs/sagradafamilia.obj"
 		translateX="0" translateY="0" translateZ="0" scale="height(7)" direction="direction(0)"/>
+		
+		<wayNodeModel matcher="building=*" filter='"wikidata"="Q207870"' model="/models_ES/traffic_signs/sagradafamilia.obj"
+modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
+translate="vector(0,0,0)" scale="height(6)" direction="270" offset="5" />
 
 <!-- ES: s200 -->		
 		
