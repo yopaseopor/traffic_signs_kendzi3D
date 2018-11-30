@@ -639,11 +639,11 @@ translate="vector(-0.25,9,0.5)" scale="height(1.8)" direction="270" offset="3" /
 
 <!-- ES:S373 Traffic_signs-Destination BLUE Background sign junction sign side up-->
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "ref"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242aSign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:CAT:OR21b" "ref"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242aSign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
 translate="vector(-0.25,10.5,-0.5)" scale="height(1)" direction="270" offset="3" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="*" "ref"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:CAT:OR21b" "ref"="*" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_juction.png"
 translate="vector(-0.25,9.5,-2)" scale="height(1.8)" direction="270" offset="3" />
 
