@@ -9,8 +9,9 @@
 					<nodeModel matcher="wikidata=Q48435" model="/models_ES/traffic_signs/sagradafamilia.obj"
 		translateX="1" translateY="1" translateZ="1" scale="height(300)" direction="direction(180)"/>
 		
-		<nodeModel matcher="wikidata=Q28374781" model="/models_ES/traffic_signs/ES_BAL_FOR_farsavina.obj"
-translateX="1" translateY="1" translateZ="1" scale="height(100)" direction="direction(180)"/>
+					<nodeModel matcher="wikidata=Q28374781" model="/models_ES/traffic_signs/farsavina.obj"
+		translateX="1" translateY="1" translateZ="1" scale="height(300)" direction="direction(180)"/>
+		
 
 <nodeModel matcher="wikidata=Q245151" model="/models_ES/traffic_signs/ES_GAL_COR_torrehercules.obj"
 translateX="1" translateY="1" translateZ="1" scale="height(1)" direction="direction(270)"/>
