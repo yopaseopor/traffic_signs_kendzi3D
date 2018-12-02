@@ -1,7 +1,7 @@
 <modelsLibrary>
 
 
-			
+			<!-- PANELS -->
 			
 <!-- Traffic_signs-ES:S127 MOTORWAY BLUE PANEL A Test-Signals -->
 
@@ -97,6 +97,9 @@ modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
 translate="vector(0,1,1)" scale="height(6)" direction="270" offset="8" />
 <!-- Z --> 
 <!-- Z --> 
+
+<!-- SYMBOLS -->
+
 <!--  Traffic_signs-Destination sign=sud side=right-->
 
  <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:upper"="sud" side=right' model="/models_ES/traffic_signs/name0Sign.obj"
@@ -152,6 +155,9 @@ translate="vector(-0.25,7.6,-2)" scale="height(1.6)" direction="270" offset="0" 
  <wayNodeModel matcher="highway=motorway" filter='"destination:symbol:main_panel:lower"="center" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/sign_center.png"
 translate="vector(-0.25,7,-2)" scale="height(1.6)" direction="270" offset="0" />
+
+
+<!-- JUNCTION SYMBOL -->
 
 
 <!-- ES:S225 Traffic_signs-Destination Background junction distance side right-->
@@ -229,7 +235,7 @@ translate="vector(-0.15,5,-1.5)" scale="height(1.8)" direction="270" offset="8" 
 
 
 
-
+<!-- REFERENCES -->
 
 
 
