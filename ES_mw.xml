@@ -2,6 +2,9 @@
 
 	<nodeModel matcher="wikidata=Q159848" model="/models_ES/traffic_signs/campnou2.obj"
 		translateX="1" translateY="1" translateZ="1" scale="height(100)" direction="direction(180)"/>
+		
+			<nodeModel matcher="wikidata=Q159848" model="/models_ES/traffic_signs/campanarmar.obj"
+		translateX="1" translateY="1" translateZ="1" scale="height(100)" direction="direction(180)"/>
 
 <!-- CHECKED -->
 
