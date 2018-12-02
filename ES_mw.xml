@@ -16,23 +16,23 @@ translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
 <!-- Traffic_signs-ES:S242a MOTORWAY MAIN PANEL PANEL Test-Signals -->
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="ES:S373" "colour:back:main_panel"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(0,5,0)" scale="height(6)" direction="270" offset="0" />
+translate="vector(0,5,-3)" scale="height(6)" direction="270" offset="0" />
 
 <!-- Z --> 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:forward"="ES:S373" "colour:back:main_panel"="white" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
-translate="vector(0,5,0)" scale="height(6)" direction="270" offset="0" />
+translate="vector(0,5,-3)" scale="height(6)" direction="270" offset="0" />
 
 
 <!-- Traffic_signs-ES:S242a MOTORWAY BLUE PANEL A-B Test-Signals -->
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="ES:S373" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(0,5,0)" scale="height(6)" direction="270" offset="-3" />
+translate="vector(0,5,-6)" scale="height(6)" direction="270" offset="-3" />
 <!-- Z -->	
 <!-- Traffic_signs-ES:S242a MOTORWAY WHITE PANEL A-B Test-Signals -->
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:3:forward"="ES:S373" "colour:back"="white" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
-translate="vector(0,5,0)" scale="height(6)" direction="270" offset="-3" />
+translate="vector(0,5,-6)" scale="height(6)" direction="270" offset="-3" />
 
 <!-- BACKWARD Traffic_signs-ES:S242a MOTORWAY BLUE PANEL A-B Test-Signals -->
 
@@ -40,23 +40,23 @@ translate="vector(0,5,0)" scale="height(6)" direction="270" offset="-3" />
 <!-- Traffic_signs-ES:S242a MOTORWAY BLUE PANEL A-B Test-Signals -->
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:backward"="ES:S373" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
+translate="vector(0,5,0)" scale="height(6)" direction="90" offset="3" />
 <!-- Z -->	
 <!-- Traffic_signs-ES:S242a MOTORWAY WHITE PANEL A-B Test-Signals -->
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:backward"="ES:S373" "colour:back"="white" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
-translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
+translate="vector(0,5,0)" scale="height(6)" direction="90" offset="3" />
 <!-- Z -->	
 
 <!-- Traffic_signs-ES:S242a MOTORWAY MAIN PANEL PANEL Test-Signals -->
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:backward"="ES:S373" "colour:back:main_panel"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(0,5,-3)" scale="height(6)" direction="270" offset="0" />
+translate="vector(0,5,-3)" scale="height(6)" direction="90" offset="0" />
 
 <!-- Z --> 
 <wayNodeModel matcher="highway=motorway" filter='"traffic_sign:2:backward"="ES:S373" "colour:back:main_panel"="white" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
-translate="vector(0,5,-3)" scale="height(6)" direction="270" offset="0" />
+translate="vector(0,5,-3)" scale="height(6)" direction="90" offset="0" />
 
 
 			
