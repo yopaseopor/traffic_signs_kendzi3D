@@ -5618,1872 +5618,1872 @@ translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
 
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN14" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN14" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_IN14.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN15" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN15" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_IN15.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN16" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN16" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_IN16.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN4" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN4" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_IN4.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN5" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN5" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_IN5.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN6" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN6" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_IN6.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN7" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:IN7" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_IN7.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.1" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.1" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R1.1.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.2" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.2" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R1.2.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.3" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.3" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R1.3.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.4" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.4" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R1.4.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.5" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1.5" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R1.5.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R1" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R1.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R101" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R101" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R101.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R102" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R102" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R102.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R103" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R103" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R103.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R104" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R104" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R104.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R105" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R105" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R105.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R106" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R106" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R106.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R107" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R107" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R107.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R108" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R108" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R108.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R109" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R109" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R109.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R110" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R110" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R110.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R111" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R111" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R111.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R112" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R112" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R112.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R113" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R113" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R113.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R114" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R114" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R114.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R115" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R115" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R115.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R116" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R116" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R116.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R117" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R117" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R117.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R118" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R118" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R118.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R119" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R119" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R119.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R120" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R120" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R120.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R121" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R121" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R121.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R122" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R122" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R122.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R123" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R123" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R123.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R124" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R124" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R124.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R125" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R125" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R125.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R126" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R126" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R126.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R127" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R127" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R127.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R128" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R128" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R128.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R129" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R129" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R129.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R130" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R130" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R130.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R131" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R131" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R131.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R132-600" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R132-600" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R132-600.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R132" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R132" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R132.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R133-600" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R133-600" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R133-600.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R133" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R133" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R133.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R134" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R134" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R134.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R135" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R135" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R135.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R136" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R136" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R136.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R137" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R137" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R137.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R138" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R138" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R138.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R139" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R139" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R139.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R140" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R140" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R140.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R2.1" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R2.1" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R2.1.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R2.2" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R2.2" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R2.2.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R2" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R2" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R2.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-10" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-10" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-10.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-100-R512" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-100-R512" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-100-R512.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-100" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-100" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-100.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-120-R511" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-120-R511" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-120-R511.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-120" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-120" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-120.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-20" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-20" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-20.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-30" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-30" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-30.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-40" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-40" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-40.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-5" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-5" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-5.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-50" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-50" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-50.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-60" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-60" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-60.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-70" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-70" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-70.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-75" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-75" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-75.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-80" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-80" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-80.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-90" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R201-90" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R201-90.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R202" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R202" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R202.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R203" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R203" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R203.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R204" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R204" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R204.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R205" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R205" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R205.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R206" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R206" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R206.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R207" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R207" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R207.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R208" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R208" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R208.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R209" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R209" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R209.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R210" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R210" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R210.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R211" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R211" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R211.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R212" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R212" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R212.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R213" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R213" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R213.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R214" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R214" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R214.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R215" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R215" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R215.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R216" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R216" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R216.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R217" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R217" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R217.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R218" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R218" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R218.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R219" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R219" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R219.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R220" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R220" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R220.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R222" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R222" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R222.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R223" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R223" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R223.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R224" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R224" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R224.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R225" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R225" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R225.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R226" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R226" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R226.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R227" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R227" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R227.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R228" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R228" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R228.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R229" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R229" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R229.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R230" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R230" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R230.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R231" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R231" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R231.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R232" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R232" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R232.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R233" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R233" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R233.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R234" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R234" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R234.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R235" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R235" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R235.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R236" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R236" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R236.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R237" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R237" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R237.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R238" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R238" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R238.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R239" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R239" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R239.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R240" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R240" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R240.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R241" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R241" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R241.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R242" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R242" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R242.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R245" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R245" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R245.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R3" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R3" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R3.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R301-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R301-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R301-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R301" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R301" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R301.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R302" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R302" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R302.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R303" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R303" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R303.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R304-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R304-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R304-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R304" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R304" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R304.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R305-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R305-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R305-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R306-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R306-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R306-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R307-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R307-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R307-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R307" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R307" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R307.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R308-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R308-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R308-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R308" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R308" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R308.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R309-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R309-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R309-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R309" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R309" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R309.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R310-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R310-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R310-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R310" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R310" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R310.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R311-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R311-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R311-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R311" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R311" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R311.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R312-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R312-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R312-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R312" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R312" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R312.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R313-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R313-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R313-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R313" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R313" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R313.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R314-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R314-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R314-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R314" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R314" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R314.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R315-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R315-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R315-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R315" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R315" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R315.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R316-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R316-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R316-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R316" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R316" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R316.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R317-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R317-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R317-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R317" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R317" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R317.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R318-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R318-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R318-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R318" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R318" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R318.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R319-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R319-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R319-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R319" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R319" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R319.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R320-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R320-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R320-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R320" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R320" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R320.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R321-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R321-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R321-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R321" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R321" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R321.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R322-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R322-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R322-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R322" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R322" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R322.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R323-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R323-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R323-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R323" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R323" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R323.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R324-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R324-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R324-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R324" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R324" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R324.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R325.1" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R325.1" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R325.1.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R325.2" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R325.2" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R325.2.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R325.3" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R325.3" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R325.3.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R325.4" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R325.4" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R325.4.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R326.1" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R326.1" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R326.1.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R326.2" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R326.2" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R326.2.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R326.3" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R326.3" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R326.3.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R326.4" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R326.4" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R326.4.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R327-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R327-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R327-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R327" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R327" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R327.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R328" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R328" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R328.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R329" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R329" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R329.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R330-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R330-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R330-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R330" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R330" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R330.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R331" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R331" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R331.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R332" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R332" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R332.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R333-P" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R333-P" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R333-P.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R333" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R333" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R333.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R334" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R334" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R334.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R335" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R335" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R335.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R336" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R336" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R336.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R337" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R337" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R337.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R338" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R338" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R338.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R339" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R339" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R339.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R340" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R340" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R340.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R342" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R342" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R342.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R343" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R343" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R343.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R344" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R344" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R344.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R345" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R345" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R345.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R346" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R346" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R346.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R347" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R347" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R347.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R348" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R348" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R348.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R349" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R349" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R349.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R350" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R350" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R350.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R351" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R351" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R351.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R352" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R352" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R352.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R353" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R353" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R353.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R354" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R354" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R354.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R4.1" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R4.1" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R4.1.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R4.2" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R4.2" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R4.2.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R4.3" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R4.3" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R4.3.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R401-600" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R401-600" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R401-600.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R401" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R401" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R401.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R402-600" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R402-600" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R402-600.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R402" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R402" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R402.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R403-600" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R403-600" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R403-600.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R403" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R403" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R403.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R5" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R5" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R5.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R501-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R501-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R501-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R501" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R501" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R501.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R502-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R502-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R502-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R502" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R502" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R502.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R503-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R503-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R503-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R503" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R503" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R503.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R504-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R504-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R504-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R504" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R504" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R504.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R505" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R505" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R505.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R506" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R506" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R506.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R511-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R511-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R511-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R511" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R511" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R511.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R512-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R512-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R512-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R512" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R512" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R512.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R520-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R520-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R520-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R520" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R520" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R520.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R521-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R521-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R521-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R521" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R521" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R521.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R522-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R522-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R522-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R522" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R522" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R522.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R523" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R523" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R523.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R532-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R532-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R532-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R532" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R532" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R532.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R533-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R533-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R533-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R533" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R533" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R533.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R534" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R534" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R534.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R535-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R535-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R535-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R535" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R535" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R535.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R540" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R540" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R540.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R560-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R560-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R560-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R560" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R560" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R560.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R561-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R561-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R561-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R561" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R561" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R561.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R562-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R562-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R562-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R562" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R562" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R562.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R563-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R563-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R563-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R563" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R563" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R563.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R564-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R564-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R564-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R564" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R564" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R564.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R565-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R565-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R565-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R565" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R565" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R565.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R566-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R566-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R566-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R566" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R566" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R566.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R567-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R567-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R567-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R567" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R567" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R567.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R568-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R568-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R568-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R568" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R568" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R568.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R569-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R569-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R569-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R569" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R569" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R569.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R570-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R570-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R570-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R570" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R570" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R570.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R571-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R571-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R571-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R571" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R571" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R571.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R572-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R572-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R572-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R572" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R572" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R572.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R573-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R573-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R573-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R573" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R573" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R573.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R574-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R574-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R574-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R574" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R574" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R574.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R575-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R575-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R575-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R575" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R575" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R575.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R576-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R576-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R576-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R576" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R576" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R576.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R577-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R577-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R577-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R577" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R577" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R577.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R578-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R578-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R578-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R578" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R578" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R578.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R579-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R579-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R579-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R579" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R579" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R579.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R580-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R580-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R580-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R580" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R580" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R580.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R581-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R581-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R581-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R581" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R581" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R581.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R582-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R582-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R582-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R582" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R582" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R582.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R583-B" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R583-B" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R583-B.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R583" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R583" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R583.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R6" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:R6" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_R6.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W101" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W101" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W101.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W102" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W102" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W102.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W103" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W103" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W103.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W104" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W104" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W104.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W105" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W105" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W105.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W106" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W106" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W106.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W107" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W107" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W107.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W108" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W108" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W108.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W109" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W109" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W109.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W110" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W110" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W110.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W111" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W111" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W111.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W112" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W112" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W112.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W113" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W113" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W113.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W114" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W114" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W114.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W115" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W115" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W115.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W116" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W116" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W116.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W117" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W117" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W117.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W118" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W118" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W118.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W119" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W119" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W119.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W201" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W201" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W201.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W202" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W202" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W202.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W203" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W203" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W203.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W204" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W204" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W204.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W205" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W205" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W205.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W206" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W206" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W206.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W207" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W207" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W207.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W208" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W208" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W208.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W209" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W209" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W209.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W210" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W210" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W210.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W211" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W211" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W211.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W212" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W212" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W212.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W213" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W213" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W213.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W214" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W214" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W214.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W215" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W215" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W215.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W216" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W216" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W216.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W217" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W217" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W217.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W218" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W218" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W218.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W301" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W301" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W301.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W302" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W302" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W302.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W303" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W303" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W303.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W306" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W306" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W306.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W307" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W307" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W307.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W308" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W308" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W308.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W309" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W309" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W309.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W310" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W310" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W310.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W311" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W311" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W311.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W312" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W312" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W312.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W313" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W313" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W313.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W314" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W314" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W314.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W315" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W315" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W315.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W316" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W316" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W316.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W317" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W317" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W317.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W318" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W318" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W318.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W319" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W319" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W319.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W320" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W320" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W320.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W321" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W321" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W321.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W322" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W322" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W322.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W323" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W323" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W323.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W324" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W324" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W324.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W325" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W325" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W325.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W326" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W326" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W326.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W327" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W327" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W327.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W328" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W328" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W328.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W329" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W329" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W329.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W330" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W330" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W330.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W331" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W331" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W331.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W332" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W332" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W332.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W333" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W333" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W333.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W334" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W334" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W334.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W335" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W335" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W335.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W339" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W339" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W339.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W346" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W346" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W346.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W348" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W348" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W348.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W349" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W349" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W349.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W350" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W350" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W350.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W351" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W351" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W351.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W352" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W352" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W352.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W354" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W354" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W354.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W355" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W355" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W355.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W356" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W356" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W356.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W357" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W357" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W357.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W358" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W358" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W358.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W359" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W359" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W359.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W360" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W360" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W360.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W361" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W361" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W361.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W362" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W362" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W362.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W363" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W363" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W363.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W365" side=left' model="/models_ZA/traffic_signs/squareSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ZA:W365" side=right' model="/models_ZA/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ZA_W365.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
