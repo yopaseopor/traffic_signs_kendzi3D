@@ -1,0 +1,3107 @@
+<modelsLibrary>
+<!-- 
+ For description see file: modelsLibraryInternalLayer.xml traffic_signs_ZA 
+ --> 
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:101" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_101.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:102" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_102.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:103" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_103.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:104" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_104.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:105" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_105.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:106" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_106.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:107" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_107.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:110" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_110.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:111" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_111.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:114" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_114.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:115" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_115.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:116" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_116.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:117" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_117.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:119" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_119.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:120" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_120.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:121" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_121.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:122" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_122.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:123" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_123.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:124" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_124.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:125" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_125.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:126" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_126.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:127" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_127.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:128" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_128.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:129-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_129-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:129" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_129.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:135" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_135.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:136" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_136.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:137" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_137.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:138" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_138.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:139" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_139.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:140" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_140.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:141" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_141.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:142" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_142.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:143" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_143.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:144" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_144.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:145" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_145.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:146-1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_146-1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:146-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_146-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:147" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_147.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:150" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_150.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:151" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_151.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:201" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_201.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:202" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_202.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:203" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_203.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:204" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_204.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:205" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_205.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:206" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_206.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:207" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_207.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:208" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_208.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:209" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_209.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:210" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_210.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:211" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_211.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:212" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_212.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:213" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_213.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:214" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_214.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:215" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_215.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:216" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_216.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:217" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_217.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:218" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_218.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:219" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_219.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:220" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_220.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:221" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_221.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:222" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_222.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:223" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_223.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:224" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_224.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:225" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_225.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:226" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_226.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:227" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_227.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:228" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_228.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:229" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_229.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:230" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_230.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:231" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_231.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:301" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_301.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:302" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_302.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:303" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_303.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:304" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_304.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:305" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_305.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:306" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_306.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:307" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_307.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:308" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_308.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:309" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_309.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:310" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_310.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:401" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_401.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:402" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_402.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:405" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_405.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:406" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_406.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:407" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_407.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:408" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_408.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:409" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_409.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:410" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_410.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:411" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_411.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:412" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_412.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:413" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_413.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:414-1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_414-1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:414-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_414-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:415" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_415.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:416" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_416.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:417" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_417.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:418" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_418.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:419" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_419.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:420" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_420.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:421" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_421.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:422" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_422.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:423" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_423.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:424" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_424.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:425" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_425.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:426" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_426.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:427" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_427.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:428" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_428.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:429" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_429.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:430" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_430.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:431" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_431.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:432" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_432.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:433" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_433.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:434" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_434.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:435" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_435.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:436" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_436.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:437" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_437.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:438" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_438.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:501" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_501.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:504" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_504.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:510" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_510.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:618" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_618.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:619" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_619.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:620" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_620.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:621" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_621.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:622" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_622.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:623" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_623.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:624" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_624.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:625" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_625.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:626" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_626.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:628" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_628.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:633" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_633.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:634" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_634.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:635" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_635.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:636" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_636.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:637" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_637.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:901" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_901.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:901P" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_901P.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:902" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_902.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:905" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_905.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:906" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_906.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:907" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_907.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:909" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_909.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:910" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_910.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:911" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_911.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:912" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_912.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:913" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_913.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:914_1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_914_1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:914_2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_914_2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:935" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_935.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="-2" />
+
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:101" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_101.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:102" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_102.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:103" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_103.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:104" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_104.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:105" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_105.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:106" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_106.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:107" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_107.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:110" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_110.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:111" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_111.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:114" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_114.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:115" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_115.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:116" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_116.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:117" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_117.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:119" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_119.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:120" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_120.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:121" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_121.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:122" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_122.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:123" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_123.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:124" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_124.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:125" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_125.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:126" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_126.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:127" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_127.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:128" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_128.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:129-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_129-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:129" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_129.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:135" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_135.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:136" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_136.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:137" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_137.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:138" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_138.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:139" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_139.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:140" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_140.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:141" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_141.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:142" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_142.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:143" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_143.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:144" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_144.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:145" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_145.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:146-1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_146-1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:146-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_146-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:147" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_147.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:150" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_150.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:151" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_151.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:201" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_201.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:202" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_202.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:203" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_203.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:204" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_204.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:205" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_205.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:206" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_206.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:207" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_207.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:208" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_208.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:209" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_209.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:210" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_210.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:211" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_211.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:212" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_212.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:213" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_213.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:214" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_214.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:215" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_215.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:216" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_216.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:217" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_217.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:218" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_218.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:219" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_219.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:220" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_220.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:221" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_221.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:222" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_222.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:223" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_223.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:224" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_224.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:225" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_225.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:226" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_226.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:227" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_227.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:228" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_228.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:229" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_229.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:230" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_230.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:231" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_231.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:301" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_301.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:302" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_302.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:303" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_303.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:304" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_304.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:305" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_305.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:306" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_306.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:307" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_307.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:308" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_308.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:309" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_309.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:310" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_310.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:401" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_401.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:402" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_402.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:405" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_405.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:406" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_406.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:407" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_407.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:408" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_408.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:409" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_409.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:410" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_410.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:411" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_411.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:412" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_412.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:413" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_413.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:414-1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_414-1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:414-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_414-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:415" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_415.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:416" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_416.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:417" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_417.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:418" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_418.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:419" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_419.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:420" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_420.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:421" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_421.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:422" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_422.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:423" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_423.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:424" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_424.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:425" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_425.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:426" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_426.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:427" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_427.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:428" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_428.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:429" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_429.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:430" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_430.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:431" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_431.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:432" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_432.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:433" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_433.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:434" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_434.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:435" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_435.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:436" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_436.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:437" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_437.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:438" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_438.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:501" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_501.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:504" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_504.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:510" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_510.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:618" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_618.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:619" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_619.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:620" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_620.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:621" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_621.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:622" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_622.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:623" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_623.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:624" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_624.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:625" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_625.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:626" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_626.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:628" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_628.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:633" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_633.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:634" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_634.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:635" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_635.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:636" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_636.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:637" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_637.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:901" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_901.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:901P" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_901P.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:902" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_902.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:905" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_905.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:906" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_906.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:907" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_907.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:909" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_909.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:910" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_910.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:911" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_911.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:912" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_912.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:913" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_913.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:914_1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_914_1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:914_2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_914_2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:935" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_935.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="-2" />
+
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:101" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_101.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:102" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_102.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:103" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_103.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:104" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_104.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:105" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_105.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:106" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_106.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:107" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_107.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:110" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_110.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:111" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_111.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:114" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_114.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:115" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_115.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:116" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_116.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:117" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_117.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:119" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_119.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:120" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_120.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:121" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_121.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:122" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_122.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:123" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_123.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:124" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_124.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:125" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_125.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:126" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_126.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:127" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_127.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:128" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_128.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:129-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_129-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:129" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_129.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:135" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_135.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:136" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_136.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:137" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_137.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:138" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_138.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:139" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_139.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:140" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_140.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:141" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_141.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:142" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_142.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:143" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_143.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:144" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_144.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:145" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_145.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:146-1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_146-1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:146-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_146-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:147" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_147.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:150" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_150.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:151" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_151.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:201" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_201.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:202" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_202.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:203" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_203.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:204" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_204.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:205" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_205.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:206" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_206.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:207" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_207.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:208" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_208.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:209" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_209.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:210" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_210.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:211" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_211.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:212" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_212.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:213" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_213.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:214" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_214.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:215" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_215.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:216" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_216.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:217" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_217.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:218" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_218.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:219" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_219.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:220" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_220.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:221" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_221.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:222" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_222.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:223" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_223.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:224" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_224.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:225" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_225.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:226" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_226.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:227" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_227.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:228" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_228.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:229" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_229.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:230" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_230.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:231" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_231.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:301" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_301.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:302" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_302.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:303" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_303.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:304" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_304.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:305" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_305.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:306" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_306.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:307" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_307.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:308" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_308.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:309" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_309.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:310" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_310.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:401" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_401.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:402" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_402.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:405" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_405.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:406" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_406.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:407" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_407.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:408" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_408.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:409" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_409.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:410" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_410.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:411" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_411.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:412" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_412.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:413" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_413.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:414-1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_414-1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:414-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_414-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:415" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_415.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:416" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_416.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:417" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_417.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:418" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_418.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:419" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_419.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:420" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_420.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:421" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_421.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:422" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_422.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:423" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_423.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:424" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_424.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:425" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_425.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:426" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_426.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:427" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_427.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:428" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_428.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:429" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_429.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:430" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_430.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:431" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_431.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:432" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_432.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:433" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_433.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:434" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_434.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:435" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_435.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:436" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_436.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:437" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_437.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:438" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_438.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:501" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_501.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:504" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_504.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:510" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_510.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:618" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_618.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:619" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_619.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:620" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_620.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:621" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_621.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:622" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_622.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:623" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_623.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:624" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_624.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:625" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_625.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:626" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_626.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:628" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_628.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:633" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_633.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:634" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_634.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:635" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_635.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:636" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_636.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:637" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_637.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:901" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_901.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:901P" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_901P.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:902" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_902.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:905" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_905.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:906" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_906.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:907" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_907.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:909" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_909.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:910" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_910.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:911" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_911.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:912" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_912.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:913" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_913.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:914_1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_914_1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:914_2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_914_2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:forward"="IL:935" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_935.png"
+translate="vector(0,2,0)" scale="height(4)" direction="270" offset="2" />
+
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:101" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_101.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:102" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_102.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:103" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_103.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:104" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_104.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:105" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_105.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:106" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_106.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:107" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_107.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:110" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_110.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:111" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_111.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:114" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_114.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:115" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_115.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:116" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_116.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:117" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_117.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:119" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_119.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:120" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_120.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:121" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_121.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:122" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_122.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:123" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_123.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:124" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_124.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:125" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_125.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:126" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_126.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:127" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_127.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:128" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_128.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:129-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_129-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:129" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_129.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:135" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_135.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:136" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_136.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:137" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_137.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:138" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_138.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:139" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_139.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:140" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_140.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:141" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_141.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:142" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_142.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:143" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_143.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:144" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_144.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:145" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_145.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:146-1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_146-1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:146-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_146-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:147" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_147.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:150" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_150.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:151" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_151.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:201" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_201.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:202" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_202.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:203" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_203.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:204" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_204.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:205" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_205.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:206" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_206.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:207" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_207.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:208" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_208.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:209" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_209.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:210" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_210.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:211" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_211.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:212" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_212.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:213" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_213.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:214" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_214.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:215" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_215.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:216" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_216.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:217" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_217.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:218" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_218.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:219" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_219.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:220" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_220.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:221" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_221.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:222" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_222.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:223" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_223.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:224" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_224.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:225" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_225.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:226" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_226.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:227" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_227.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:228" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_228.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:229" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_229.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:230" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_230.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:231" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_231.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:301" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_301.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:302" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_302.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:303" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_303.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:304" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_304.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:305" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_305.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:306" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_306.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:307" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_307.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:308" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_308.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:309" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_309.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:310" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_310.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:401" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_401.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:402" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_402.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:405" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_405.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:406" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_406.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:407" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_407.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:408" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_408.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:409" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_409.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:410" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_410.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:411" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_411.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:412" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_412.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:413" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_413.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:414-1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_414-1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:414-2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_414-2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:415" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_415.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:416" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_416.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:417" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_417.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:418" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_418.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:419" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_419.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:420" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_420.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:421" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_421.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:422" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_422.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:423" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_423.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:424" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_424.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:425" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_425.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:426" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_426.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:427" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_427.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:428" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_428.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:429" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_429.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:430" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_430.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:431" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_431.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:432" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_432.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:433" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_433.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:434" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_434.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:435" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_435.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:436" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_436.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:437" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_437.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:438" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_438.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:501" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_501.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:504" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_504.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:510" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_510.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:618" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_618.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:619" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_619.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:620" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_620.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:621" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_621.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:622" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_622.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:623" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_623.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:624" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_624.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:625" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_625.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:626" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_626.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:628" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_628.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:633" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_633.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:634" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_634.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:635" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_635.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:636" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_636.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:637" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_637.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:901" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_901.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:901P" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_901P.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:902" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_902.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:905" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_905.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:906" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_906.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:907" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_907.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:909" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_909.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:910" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_910.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:911" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_911.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:912" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_912.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:913" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_913.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:914_1" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_914_1.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:914_2" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_914_2.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign\:2\:backward"="IL:935" side=up' model="/models_IL/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/IL_935.png"
+translate="vector(0,2,0)" scale="height(4)" direction="90" offset="2" />
+
+
+
+
+
+
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+<!-- Z -->
+
+</modelsLibrary> 
