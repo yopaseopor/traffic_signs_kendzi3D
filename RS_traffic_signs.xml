@@ -3,8 +3,8 @@
  For description see file: modelsLibraryInternalLayer.xml traffic_signs_ZA 
  --> 
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="RS-" side=left' model="/models_RS/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/RS_.png"
+<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="RS:" side=left' model="/models_RS/traffic_signs/squareSign.obj"
+modelParameter="material.mat_sign.texture0=textures/RS-.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 
 
