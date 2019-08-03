@@ -1,11 +1,40 @@
 <modelsLibrary>
 <!-- "ES_traffic_signs  			-->
-<!-- "traffic_sign:backward=ES:" "side=left"  			-->
 
-<wayNodeModel matcher="-highway=motorway" filter='"highway"="traffic_signals"' model="/models_ES/traffic_signs/trafficsignalSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_CAT_OR10.png"
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="traffic_signals" "traffic_signals:direction"="backward" side=both' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+modelParameter="material.mat_sign.texture0="
+translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="traffic_signals" "traffic_signals:direction"="backward" side=both' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+modelParameter="material.mat_sign.texture0="
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="traffic_signals" "traffic_signals:direction"="backward" side=left' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+modelParameter="material.mat_sign.texture0="
+translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="traffic_signals" "traffic_signals:direction"="forward" side=left' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+modelParameter="material.mat_sign.texture0="
+translate="vector(0,0,0)" scale="height(4)" direction="180" offset="-5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="traffic_signals" "traffic_signals:direction"="backward" side=right' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+modelParameter="material.mat_sign.texture0="
+translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="traffic_signals" "traffic_signals:direction"="forward" side=right' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+modelParameter="material.mat_sign.texture0="
+translate="vector(0,0,0)" scale="height(4)" direction="180" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="traffic_signals" "traffic_signals:direction"="forward" side=both' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+modelParameter="material.mat_sign.texture0="
+translate="vector(0,0,0)" scale="height(4)" direction="180" offset="5" />
+
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="traffic_signals" "traffic_signals:direction"="forward" side=both' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+modelParameter="material.mat_sign.texture0="
+translate="vector(0,0,0)" scale="height(4)" direction="180" offset="-5" />
+
+<!-- "ES_traffic_signs traffic signals  			-->
+<!-- "traffic_sign:backward=ES:" "side=left"  			-->
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:CAT:OR10" side=left' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_CAT_OR10.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
