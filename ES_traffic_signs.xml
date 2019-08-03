@@ -35,35 +35,35 @@ translate="vector(0,0,0)" scale="height(4)" direction="180" offset="-5" />
 <!-- zzzzzzzzzzzzzzzzzzz 			-->
 
 <!-- "ES_traffic_signs traffic signals  			-->
-<wayNodeModel matcher="-highway=motorway" filter='"highway"="crosing" "crossing"="traffic_signals"  "traffic_signals:direction"="backward" side=both' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="crossing" "crossing"="traffic_signals"  "traffic_signals:direction"="backward" side=both' model="/models_ES/traffic_signs/trafficsignalcrossingSign.obj"
 modelParameter="material.mat_sign.texture0="
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"highway"="crosing" "crossing"="traffic_signals" "traffic_signals:direction"="backward" side=both' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="crossing" "crossing"="traffic_signals" "traffic_signals:direction"="backward" side=both' model="/models_ES/traffic_signs/trafficsignalcrossingSign.obj"
 modelParameter="material.mat_sign.texture0="
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"highway"="crosing" "crossing"="traffic_signals" "traffic_signals:direction"="backward" side=left' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="crossing" "crossing"="traffic_signals" "traffic_signals:direction"="backward" side=left' model="/models_ES/traffic_signs/trafficsignalcrossingSign.obj"
 modelParameter="material.mat_sign.texture0="
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"highway"="crosing" "crossing"="traffic_signals" "traffic_signals:direction"="forward" side=left' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="crossing" "crossing"="traffic_signals" "traffic_signals:direction"="forward" side=left' model="/models_ES/traffic_signs/trafficsignalcrossingSign.obj"
 modelParameter="material.mat_sign.texture0="
 translate="vector(0,0,0)" scale="height(4)" direction="180" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"highway"="crosing" "crossing"="traffic_signals" "traffic_signals:direction"="backward" side=right' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="crossing" "crossing"="traffic_signals" "traffic_signals:direction"="backward" side=right' model="/models_ES/traffic_signs/trafficsignalcrossingSign.obj"
 modelParameter="material.mat_sign.texture0="
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"highway"="crosing" "crossing"="traffic_signals" "traffic_signals:direction"="forward" side=right' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="crossing" "crossing"="traffic_signals" "traffic_signals:direction"="forward" side=right' model="/models_ES/traffic_signs/trafficsignalcrossingSign.obj"
 modelParameter="material.mat_sign.texture0="
 translate="vector(0,0,0)" scale="height(4)" direction="180" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"highway"="crosing" "crossing"="traffic_signals" "traffic_signals:direction"="forward" side=both' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="crossing" "crossing"="traffic_signals" "traffic_signals:direction"="forward" side=both' model="/models_ES/traffic_signs/trafficsignalcrossingSign.obj"
 modelParameter="material.mat_sign.texture0="
 translate="vector(0,0,0)" scale="height(4)" direction="180" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"highway"="crosing" "crossing"="traffic_signals" "traffic_signals:direction"="forward" side=both' model="/models_ES/traffic_signs/trafficsignalSign.obj"
+<wayNodeModel matcher="-highway=motorway" filter='"highway"="crossing" "crossing"="traffic_signals" "traffic_signals:direction"="forward" side=both' model="/models_ES/traffic_signs/trafficsignalcrossingSign.obj"
 modelParameter="material.mat_sign.texture0="
 translate="vector(0,0,0)" scale="height(4)" direction="180" offset="-5" />
 <!-- zzzzzzzzzzzzzzzzzzz 			-->
