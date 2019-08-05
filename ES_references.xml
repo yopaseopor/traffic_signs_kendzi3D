@@ -4032,11 +4032,11 @@ translate="vector(0.45,0.4,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!--zzzzzzzzzzzzz -->
 <wayNodeModel matcher="-highway=motorway" filter='"ref"=C-246a "traffic_sign:forward"=*' model="/models_ES/traffic_signs/nameSign.obj"
 modelParameter="material.mat_sign.texture0=textures/content/white_c246a.png"
-translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
+translate="vector(-0.10,0.3,0)" scale="height(0.6)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"ref"=C-246a "traffic_sign:backward"=*' model="/models_ES/traffic_signs/nameSign.obj"
-modelParameter="material.mat_sign.texture0=textures/contentwhite_c246a.png"
-translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
+modelParameter="material.mat_sign.texture0=textures/content/white_c246a.png"
+translate="vector(0.10,0.3,0)" scale="height(0.6)" direction="90" offset="-5" />
 
 
 <!-- Traffic_signs-Destination Ref C-25 -->
