@@ -1,5 +1,29 @@
 <modelsLibrary>
 
+<!-- zz -->
+<!-- zz -->
+
+			<!-- MOTORWAY -->	<!-- MOTORWAY -->	<!-- MOTORWAY -->	<!-- MOTORWAY -->	<!-- MOTORWAY -->
+			
+<!-- traffic_sign:forward=ES:S355 drt blau
+traffic_sign:forward=ES:S368 cnt blau
+traffic_sign:forward=ES:S375 esq blau
+
+<!-- Traffic_signs-ES:S235 MOTORWAY BLUE PANEL A Test-Signals -->
+<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S355" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
+translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
+<!-- Z -->
+			
+
+
+<!--Traffic_signs-ES:S373, S373a (main Panel), S373b (third panel), S373c (side panel) MOTORWAY BLUE PANEL A Test-Signals -->
+
+			<!-- PANELS -->
+			
+<!-- Traffic_signs-ES:S127 MOTORWAY BLUE PANEL A Test-Signals -->
+
+
 
 <!-- zz -->
 <!-- zz -->
