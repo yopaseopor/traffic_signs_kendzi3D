@@ -10,7 +10,7 @@ traffic_sign:forward=ES:S375 esq blau-->
 modelParameter="material.mat_sign.texture0=textures/ES_CAT_OR10.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:CAT:OR10" side=left' model="/models_ES/traffic_signs/squareSign.obj"
+<wayNodeModel matcher='"highway"="motorway"' filter='"traffic_sign:forward"="ES:CAT:OR10" side=left' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_CAT_OR10.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 
