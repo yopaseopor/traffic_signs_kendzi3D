@@ -14,35 +14,10 @@ translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 modelParameter="material.mat_sign.texture0=textures/ES_CAT_OR10.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S360" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
+<wayNodeModel matcher='"highway"="motorway"' filter='"traffic_sign:forward"="ES:S368" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(3,5,0)" scale="height(16)" direction="270" offset="8" />
+translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S368" "colour:back"="white" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(6,5,0)" scale="height(16)" direction="270" offset="8" />
-
-<!-- Traffic_signs-ES:S242a MOTORWAY BLUE PANEL A-B Test-Signals -->
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S362" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
-<!-- Z -->	
-<!-- Traffic_signs-ES:S242a MOTORWAY WHITE PANEL A-B Test-Signals -->
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S351" "colour:back"="white" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
-translate="vector(0,5,0)" scale="height(6)" direction="270" offset="3" />
-
-<!-- Z -->	
-
-<!-- Traffic_signs-ES:S242a MOTORWAY BLUE PANEL A-B Test-Signals -->
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S373" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(-3,5,0)" scale="height(6)" direction="270" offset="3" />
-<!-- Z -->	
-<!-- Traffic_signs-ES:S242a MOTORWAY WHITE PANEL A-B Test-Signals -->
-<wayNodeModel matcher="highway=motorway" filter='"traffic_sign:forward"="ES:S375" "colour:back"="white" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
-modelParameter="material.mat_sign.texture0=textures/form_rectangle_white.png"
-translate="vector(-6,5,0)" scale="height(6)" direction="270" offset="3" />
 
 
 </modelsLibrary>
