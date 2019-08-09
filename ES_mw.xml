@@ -18,21 +18,21 @@ translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 
 <wayNodeModel matcher='"highway"="motorway"' filter='"traffic_sign:forward"="ES:S355" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(0,3,12)" scale="height(8)" direction="270" offset="0" />
+translate="vector(0,3,11)" scale="height(8)" direction="270" offset="0" />
 <!-- zzzzzz -->
 
 <!-- MOTORWAY central panel -->
 
 <wayNodeModel matcher='"highway"="motorway"' filter='"traffic_sign:forward"="ES:S368" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(0,3,6)" scale="height(8)" direction="270" offset="0" />
+translate="vector(0,3,4)" scale="height(8)" direction="270" offset="0" />
 <!-- zzzzzz -->
 
 <!-- MOTORWAY left panel -->
 
 <wayNodeModel matcher='"highway"="motorway"' filter='"traffic_sign:forward"="ES:S375" "colour:back"="blue" side=up' model="/models_ES/traffic_signs/s242Sign.obj"
 modelParameter="material.mat_sign.texture0=textures/form_rectangle_blue.png"
-translate="vector(0,3,0)" scale="height(8)" direction="270" offset="0" />
+translate="vector(0,3,-3)" scale="height(8)" direction="270" offset="0" />
 <!-- zzzzzz -->
 
 
