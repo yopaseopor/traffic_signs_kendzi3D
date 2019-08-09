@@ -98,5 +98,12 @@ modelParameter="material.mat_sign.texture0=textures/form_rectangle_green.png"
 translate="vector(0,3,-5)" scale="height(8)" direction="270" offset="0" />
 <!-- zzzzzz -->
 
+<!-- MOTORWAY left panel upper back green -->
+
+<wayNodeModel matcher='"highway"="motorway"' filter='"traffic_sign:forward"="ES:S375" "colour:back:upper"="green" side=up' model="/models_ES/traffic_signs/name0Sign.obj"
+modelParameter="material.mat_sign.texture0=textures/content/rectangle_small_green.png"
+translate="vector(0,3,-5)" scale="height(8)" direction="270" offset="0" />
+<!-- zzzzzz -->
+
 
 </modelsLibrary>
