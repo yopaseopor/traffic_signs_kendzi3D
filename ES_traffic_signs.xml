@@ -1385,10 +1385,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S573" side=left' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
-translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
-
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S574" side=left' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S574.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
@@ -2949,10 +2945,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S571" side=left' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
-translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S573" side=left' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S574" side=left' model="/models_ES/traffic_signs/squareSign.obj"
@@ -4516,10 +4508,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S573" side=right' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
-translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
-
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S574" side=right' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S574.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
@@ -6075,10 +6063,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S571" side=right' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
-translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S573" side=right' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S574" side=right' model="/models_ES/traffic_signs/squareSign.obj"
@@ -7637,10 +7621,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S571" side=both' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
-translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S573" side=both' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S574" side=both' model="/models_ES/traffic_signs/squareSign.obj"
@@ -9205,10 +9185,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S573" side=both' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
-translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
-
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S574" side=both' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S574.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="-5" />
@@ -10768,10 +10744,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S573" side=both' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
-translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
-
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S574" side=both' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S574.png"
 translate="vector(0,0,0)" scale="height(4)" direction="270" offset="5" />
@@ -12327,10 +12299,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S571" side=both' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
-translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S573" side=both' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
 translate="vector(0,0,0)" scale="height(4)" direction="90" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S574" side=both' model="/models_ES/traffic_signs/squareSign.obj"
@@ -13891,10 +13859,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="0" offset="-5" />
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
 translate="vector(0,0,0)" scale="height(4)" direction="0" offset="-5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S573" side=270' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
-translate="vector(0,0,0)" scale="height(4)" direction="0" offset="-5" />
-
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S574" side=270' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S574.png"
 translate="vector(0,0,0)" scale="height(4)" direction="0" offset="-5" />
@@ -15417,10 +15381,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="180" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S571" side=90' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
-translate="vector(0,0,0)" scale="height(4)" direction="180" offset="-5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S573" side=90' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
 translate="vector(0,0,0)" scale="height(4)" direction="180" offset="-5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:backward"="ES:S574" side=90' model="/models_ES/traffic_signs/squareSign.obj"
@@ -16947,10 +16907,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="180" offset="5" />
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
 translate="vector(0,0,0)" scale="height(4)" direction="180" offset="5" />
 
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S573" side=90' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
-translate="vector(0,0,0)" scale="height(4)" direction="180" offset="5" />
-
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S574" side=90' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S574.png"
 translate="vector(0,0,0)" scale="height(4)" direction="180" offset="5" />
@@ -18471,10 +18427,6 @@ translate="vector(0,0,0)" scale="height(4)" direction="0" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S571" side=270' model="/models_ES/traffic_signs/squareSign.obj"
 modelParameter="material.mat_sign.texture0=textures/ES_S571.png"
-translate="vector(0,0,0)" scale="height(4)" direction="0" offset="5" />
-
-<wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S573" side=270' model="/models_ES/traffic_signs/squareSign.obj"
-modelParameter="material.mat_sign.texture0=textures/ES_S573.png"
 translate="vector(0,0,0)" scale="height(4)" direction="0" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"traffic_sign:forward"="ES:S574" side=270' model="/models_ES/traffic_signs/squareSign.obj"
