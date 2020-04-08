@@ -7275,11 +7275,11 @@ translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />
 <!-- ZZ -->
 <!-- pk 1186 -->	
 <wayNodeModel matcher="-highway=motorway" filter='"distance"=1186 "traffic_sign:forward"="ES:S572"' model="/models_ES/traffic_signs/nameSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_1186.png"
 translate="vector(-0.10,0.1,0)" scale="height(0.6)" direction="270" offset="5" />
 
 <wayNodeModel matcher="-highway=motorway" filter='"distance"=1186 "traffic_sign:backward"="ES:S572"' model="/models_ES/traffic_signs/nameSign.obj"
-modelParameter="material.mat_sign.texture0=textures/content/white_n340.png"
+modelParameter="material.mat_sign.texture0=textures/content/black_1186.png"
 translate="vector(0.10,0.1,0)" scale="height(0.6)" direction="90" offset="-5" />	
 
 <!-- ZZ -->	
