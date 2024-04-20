@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="188.946"
+   height="283.01901"
+   id="svg2">
+  <metadata
+     id="metadata3069">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3067" />
+  <g
+     id="g3081">
+    <path
+       d="m 188.546,272.166 c 0,5.773 -4.68,10.453 -10.457,10.453 H 10.849 C 5.076,282.619 0.4,277.939 0.4,272.166 V 10.857 C 0.4,5.08 5.076,0.4 10.849,0.4 h 167.24 c 5.777,0 10.457,4.68 10.457,10.457 v 261.309 z"
+       id="path3049"
+       style="fill:#ffffff" />
+    <path
+       d="m 188.546,272.166 c 0,5.773 -4.68,10.453 -10.457,10.453 H 10.849 C 5.076,282.619 0.4,277.939 0.4,272.166 V 10.857 C 0.4,5.08 5.076,0.4 10.849,0.4 h 167.24 c 5.777,0 10.457,4.68 10.457,10.457 v 261.309 z"
+       id="path3051"
+       style="fill:none;stroke:#1c1d20;stroke-width:0.80000001;stroke-miterlimit:3.86400008" />
+    <path
+       d="m 183.945,10.857 c 0,-3.24 -2.621,-5.861 -5.855,-5.861 H 10.849 c -3.232,0 -5.854,2.621 -5.854,5.861 v 261.309 c 0,3.238 2.621,5.859 5.854,5.859 h 167.24 c 3.234,0 5.855,-2.621 5.855,-5.859 V 10.857"
+       id="path3053"
+       style="fill:#19408b" />
+    <path
+       d="m 31.757,157.189 m 125.43,0 H 31.757 V 31.755 h 125.43 v 125.434 z"
+       id="path3055"
+       style="fill:#ffffff" />
+    <path
+       d="m 40.117,135.759 m 16.72,0 H 40.115 V 83.496 h 16.723 v 52.263 z"
+       id="path3057"
+       style="fill:#1c1d20" />
+    <path
+       d="m 40.117,68.869 c 0,-4.621 3.744,-8.369 8.359,-8.369 4.621,0 8.365,3.748 8.365,8.369 0,4.619 -3.744,8.359 -8.365,8.359 -4.615,0 -8.359,-3.74 -8.359,-8.359"
+       id="path3059"
+       style="fill:#1c1d20" />
+    <path
+       d="m 86.109,119.033 -6.272,0 0,-41.805 6.272,0 0,-16.728 -6.272,0 0,-5.227 -16.724,5.227 0,75.259 22.996,0 0,-16.726"
+       id="polyline3061"
+       style="fill:#1c1d20" />
+    <path
+       d="m 115.375,105.445 -8.36,-21.949 -18.818,0 18.818,52.263 18.813,0 22.992,-68.986 -18.813,0 -14.632,38.672"
+       id="polyline3063"
+       style="fill:#1c1d20" />
+  </g>
+</svg>

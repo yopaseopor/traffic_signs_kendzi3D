@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250">
+<circle cx="125" cy="125" r="100" stroke="#E41408" stroke-width="30" fill="#19408B"/>
+<path d="M 50,50 200,200 z" stroke="#E41408" stroke-width="20"/>
+<text x="60" y="175" font-family="Garuda" font-size="30" fill="#FFFFFF">15-31</text>
+</svg>

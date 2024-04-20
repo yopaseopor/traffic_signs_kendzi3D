@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="215"
+   height="215"
+   id="svg2">
+  <metadata
+     id="metadata3065">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3063" />
+  <g
+     id="g3079">
+    <path
+       d="m 214.609,202.708 c 0,6.574 -5.324,11.902 -11.898,11.902 H 12.3 c -6.572,0 -11.9,-5.328 -11.9,-11.902 V 12.298 C 0.4,5.728 5.728,0.4 12.3,0.4 h 190.41 c 6.574,0 11.898,5.328 11.898,11.898 v 190.41 z"
+       id="path3045"
+       style="fill:#ffffff" />
+    <path
+       d="m 214.609,202.708 c 0,6.574 -5.324,11.902 -11.898,11.902 H 12.3 c -6.572,0 -11.9,-5.328 -11.9,-11.902 V 12.298 C 0.4,5.728 5.728,0.4 12.3,0.4 h 190.41 c 6.574,0 11.898,5.328 11.898,11.898 v 190.41 z"
+       id="path3047"
+       style="fill:none;stroke:#1c1d20;stroke-width:0.80000001;stroke-miterlimit:3.86400008" />
+    <path
+       d="m 209.375,12.298 c 0,-3.676 -2.984,-6.664 -6.664,-6.664 H 12.3 c -3.68,0 -6.664,2.988 -6.664,6.664 v 190.41 c 0,3.68 2.984,6.66 6.664,6.66 h 190.41 c 3.68,0 6.664,-2.98 6.664,-6.66 V 12.298"
+       id="path3049"
+       style="fill:#19408b" />
+    <path
+       d="m 21.595,83.103 h 43.313 v 11.25 h -15.75 v 42.75 H 37.345 v -42.75 h -15.75 v -11.25 z"
+       id="path3053"
+       style="fill:#ffffff" />
+    <path
+       d="m 79.189,83.103 h 16.313 l 18.561,54 h -14.061 l -2.25,-7.875 H 78.064 l -2.25,7.875 h -13.5 l 16.875,-54 z m 7.875,16.313 -5.063,17.438 h 11.25 v -0.563 C 89.876,105.041 87.814,99.416 87.064,99.416 z"
+       id="path3055"
+       style="fill:#ffffff" />
+    <path
+       d="m 121.078,83.103 h 12.938 c 0.914,0 3.352,3.938 7.313,11.813 h 1.125 c 4.055,-7.852 6.492,-11.789 7.313,-11.813 h 12.938 l -14.063,23.625 17.438,30.375 h -13.5 l -10.125,-18 h -1.125 c -6.445,11.859 -10.008,17.859 -10.688,18 h -12.938 v -0.563 l 17.438,-29.25 -14.064,-24.187 z"
+       id="path3057"
+       style="fill:#ffffff" />
+    <path
+       d="m 173.195,83.103 h 12.375 v 54 h -12.375 v -54 z"
+       id="path3059"
+       style="fill:#ffffff" />
+  </g>
+</svg>

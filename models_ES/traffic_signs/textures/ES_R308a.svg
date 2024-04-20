@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="48.105"
+   height="48.105"
+   id="svg2">
+  <metadata
+     id="metadata3053">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3051" />
+  <g
+     id="g3061">
+    <path
+       d="M 0,24.053 C 0,10.77 10.77,0 24.052,0 37.335,0 48.105,10.77 48.105,24.053 48.105,37.337 37.335,48.105 24.052,48.105 10.77,48.104 0,37.337 0,24.053"
+       id="path3041"
+       style="fill:#e41408" />
+    <path
+       d="m 6.415,24.053 c 0,-9.74 7.896,-17.637 17.637,-17.637 9.742,0 17.639,7.896 17.639,17.637 0,9.742 -7.896,17.638 -17.639,17.638 C 14.311,41.69 6.415,33.795 6.415,24.053"
+       id="path3043"
+       style="fill:#19408b" />
+    <path
+       d="m 24.051001,38.403999 0,-28.7009989"
+       id="line3045"
+       style="fill:none;stroke:#ffffff;stroke-width:2.72600007;stroke-miterlimit:3.86400008" />
+    <path
+       d="M 8.538,11.22 11.183,8.575 39.533,36.914 36.888,39.561 8.538,11.22"
+       id="polyline3047"
+       style="fill:#e41408" />
+  </g>
+</svg>

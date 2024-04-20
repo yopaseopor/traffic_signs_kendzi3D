@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="319.21185"
+   height="154.78897"
+   id="svg2"
+   sodipodi:docname="ES_CAT_LOC541.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview906"
+     showgrid="false"
+     inkscape:zoom="2.280617"
+     inkscape:cx="199.92943"
+     inkscape:cy="109.18759"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata3197">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3195" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Layer 4"
+     transform="translate(167.22381,43.18159)">
+    <path
+       d="m 151.98804,80.06918 c 0,17.41595 1.12052,32.01374 -20.75845,31.97668 l -258.8404,-0.43848 c -21.87897,-0.0371 -39.67261,4.29372 -39.613,-13.122131 l 0.43848,-128.107821 c 0.0596,-17.423813 17.29552,-13.559018 39.17452,-13.559018 h 239.98585 c 21.879,0 39.613,-3.864101 39.613,13.559018 V 80.06918"
+       id="path3113"
+       style="display:inline;fill:#00be00;fill-opacity:1;stroke-width:1"
+       sodipodi:nodetypes="csssssssc" />
+    <path
+       d="m 142.9856,85.191297 c 0,18.396003 -15.017,14.458453 -33.54,14.458453 h -234.77541 c -18.525,0 -33.542,2.62111 -33.542,-15.773887 V -20.133181 c 0,-18.4 15.017,-15.337409 33.542,-15.337409 H 109.4456 c 18.523,0 33.54,-3.501069 33.54,14.898931 z"
+       id="path3115"
+       style="display:inline;fill:#00be00;fill-opacity:1;stroke:#ffffff;stroke-width:7.0629;stroke-miterlimit:3.864"
+       sodipodi:nodetypes="sssssssss"
+       sodipodi:insensitive="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.6628px;line-height:22.068px;font-family:Ccrige;-inkscape-font-specification:Ccrige;letter-spacing:8px;word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.366455"
+       y="88.840355"
+       id="text1502-7"
+       transform="scale(0.99817165,1.0018317)"><tspan
+         sodipodi:role="line"
+         id="tspan1500-8"
+         x="23.366455"
+         y="88.840355"
+         style="font-size:37.6628px;fill:#ffffff;stroke:none;stroke-width:0.999999px">EL GARRAF</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;line-height:25px;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="49.109516"
+       y="113.12728"
+       id="text2178"><tspan
+         sodipodi:role="line"
+         id="tspan2176"
+         x="49.109516"
+         y="113.12728" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 3"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;line-height:25px;font-family:'Andale Mono IPA';-inkscape-font-specification:'Andale Mono IPA';letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="133.73573"
+       y="169.69092"
+       id="text1522"><tspan
+         sodipodi:role="line"
+         id="tspan1520"
+         x="133.73573"
+         y="169.69092" /></text>
+  </g>
+</svg>

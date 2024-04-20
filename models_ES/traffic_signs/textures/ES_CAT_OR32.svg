@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="373.83954"
+   height="139.89951"
+   id="svg2"
+   sodipodi:docname="ES_CAT_OR32.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview5859"
+     showgrid="false"
+     inkscape:zoom="2.8078826"
+     inkscape:cx="-94.686748"
+     inkscape:cy="-9.9475067"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3182"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata3125">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3123" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Layer 1"
+     transform="translate(-0.01148676,-2.6748803e-5)">
+    <g
+       id="g3182"
+       transform="translate(-5.201316,-104.57251)">
+      <path
+         d="m 376.522,171.75218 c 0,5.86268 0.24113,63.07647 -0.63631,66.83949 -0.88501,3.79551 -2.91418,2.90647 -8.92592,2.91258 L 17.011951,241.86039 C 5.0439572,241.87257 8.1264652,243.71583 8.163,231.93988 L 8.5191402,117.14845 c 0.036529,-11.77394 7.2100448,-9.94093 19.1770188,-9.91551 l 335.347071,0.71228 c 11.97197,0.0254 13.47977,-1.85949 13.47977,9.91551 v 53.89145 z"
+         id="path3101"
+         style="fill:#ffffff;stroke:#1c1d20;stroke-width:5;stroke-miterlimit:3.864"
+         sodipodi:nodetypes="csssssssscc" />
+      <g
+         id="g3115">
+        <g
+           id="g3117" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Layer 3"
+     style="display:inline"
+     transform="translate(-0.01148676,-2.6748803e-5)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:25px;font-family:TrafficTypeW01-SpainD;-inkscape-font-specification:TrafficTypeW01-SpainD;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="135.83023"
+       y="58.895859"
+       id="text6487"><tspan
+         sodipodi:role="line"
+         x="135.83023"
+         y="58.895859"
+         id="tspan8496">CARDONA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:25px;font-family:TrafficTypeW01-SpainD;-inkscape-font-specification:TrafficTypeW01-SpainD;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="136.06697"
+       y="116.29227"
+       id="text6487-9"><tspan
+         sodipodi:role="line"
+         x="136.06697"
+         y="116.29227"
+         id="tspan8496-8">SOLSONA</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Layer 2"
+     transform="translate(-0.01148676,-2.6748803e-5)">
+    <path
+       d="m 49.606423,31.32474 -25.541404,38.7049 20.900662,-4.64852 -3.104905,43.34918 15.48281,0.003 L 54.252115,65.382 75.150656,70.02698 49.606423,31.32491"
+       id="polyline3085"
+       style="fill:#1c1d20" />
+  </g>
+</svg>

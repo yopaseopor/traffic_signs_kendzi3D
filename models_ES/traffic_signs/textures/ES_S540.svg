@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="319.21185"
+   height="154.78897"
+   id="svg2"
+   sodipodi:docname="ES_S540.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview906"
+     showgrid="false"
+     inkscape:zoom="2.280617"
+     inkscape:cx="257.56966"
+     inkscape:cy="109.18759"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata3197">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3195" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Layer 4"
+     transform="translate(167.22381,43.18159)">
+    <path
+       d="m 151.98804,80.06918 c 0,17.41595 -17.734,31.5382 -39.613,31.5382 h -239.98585 c -21.879,0 -39.613,-14.12225 -39.613,-31.5382 v -91.714161 c 0,-17.423915 17.734,-31.536609 39.613,-31.536609 h 239.98585 c 21.879,0 39.613,14.11349 39.613,31.536609 V 80.06918"
+       id="path3113"
+       style="display:inline;fill:#008000;stroke-width:1"
+       sodipodi:nodetypes="csssssssc" />
+    <path
+       d="m 142.9856,66.33675 c 0,18.396 -15.017,33.313 -33.54,33.313 h -234.77541 c -18.525,0 -33.542,-14.918 -33.542,-33.313 V -2.15559 c 0,-18.4 15.017,-33.315 33.542,-33.315 H 109.4456 c 18.523,0 33.54,14.915 33.54,33.315 z"
+       id="path3115"
+       style="display:inline;fill:#008000;stroke:#ffffff;stroke-width:7.0629;stroke-miterlimit:3.864"
+       sodipodi:nodetypes="sssssssss" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.6275px;line-height:19.1177px;font-family:Ccrige;-inkscape-font-specification:Ccrige;letter-spacing:0.67974px;word-spacing:0px;fill:#ffffff;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.187775"
+       y="64.266739"
+       id="text1502"><tspan
+         sodipodi:role="line"
+         id="tspan1500"
+         x="40.187775"
+         y="64.266739"
+         style="stroke-width:0.999999px">PROVINCIA DE </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.7977px;line-height:23.905px;font-family:Ccrige;-inkscape-font-specification:Ccrige;letter-spacing:1.63919px;word-spacing:0px;fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="97.350723"
+       y="114.72376"
+       id="text1502-7"
+       transform="scale(0.99663368,1.0033777)"><tspan
+         sodipodi:role="line"
+         id="tspan1500-8"
+         x="97.350723"
+         y="114.72376"
+         style="font-size:40.7977px;fill:#ffffff;stroke:none;stroke-width:1px">SORIA</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 3"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;line-height:25px;font-family:'Andale Mono IPA';-inkscape-font-specification:'Andale Mono IPA';letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="133.73573"
+       y="169.69092"
+       id="text1522"><tspan
+         sodipodi:role="line"
+         id="tspan1520"
+         x="133.73573"
+         y="169.69092" /></text>
+  </g>
+</svg>

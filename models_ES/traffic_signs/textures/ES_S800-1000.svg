@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="377.0162"
+   height="179.37531"
+   id="svg2"
+   sodipodi:docname="ES_S800-1000.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview906"
+     showgrid="false"
+     inkscape:zoom="1.5517241"
+     inkscape:cx="194.648"
+     inkscape:cy="197.2327"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata3197">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3195" />
+  <path
+     d="m 377.05878,147.97148 c 0,17.41595 -17.734,31.5382 -39.613,31.5382 H 38.261 c -21.879,0 -39.613,-14.12225 -39.613,-31.5382 V 30.825609 C -1.352,13.401694 16.382,-0.711 38.261,-0.711 h 299.18478 c 21.879,0 39.613,14.11349 39.613,31.536609 V 147.97148"
+     id="path3113"
+     style="display:inline;fill:#ffffff;stroke-width:1"
+     sodipodi:nodetypes="csssssssc" />
+  <path
+     d="m 370.01622,139.06231 c 0,18.396 -15.017,33.313 -33.54,33.313 H 40.542 C 22.017,172.37531 7,157.45731 7,139.06231 V 40.315 C 7,21.915 22.017,7 40.542,7 h 295.93422 c 18.523,0 33.54,14.915 33.54,33.315 z"
+     id="path3115"
+     style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:14;stroke-miterlimit:3.864;stroke-dasharray:none"
+     sodipodi:nodetypes="sssssssss" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 1"
+     transform="translate(-1.352,-1.999889)">
+    <text
+       xml:space="preserve"
+       style="font-size:80.3081px;line-height:47.0555px;font-family:Haettenschweiler;-inkscape-font-specification:Haettenschweiler;letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="36.957478"
+       y="118.49547"
+       id="text850"
+       transform="scale(0.99668533,1.0033257)"><tspan
+         sodipodi:role="line"
+         id="tspan848"
+         x="36.957478"
+         y="118.49547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TrafficTypeW01-SpainD;-inkscape-font-specification:TrafficTypeW01-SpainD;fill:#000000;stroke:none;stroke-width:0.999999px">1000 m</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 3"
+     transform="translate(-1.352,-1.999889)">
+    <text
+       xml:space="preserve"
+       style="font-size:42.6667px;line-height:25px;font-family:'Andale Mono IPA';-inkscape-font-specification:'Andale Mono IPA';letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="133.73573"
+       y="169.69092"
+       id="text1522"><tspan
+         sodipodi:role="line"
+         id="tspan1520"
+         x="133.73573"
+         y="169.69092" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 2"
+     transform="translate(-1.352,-1.999889)" />
+</svg>
